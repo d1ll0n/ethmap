@@ -1,8 +1,9 @@
 # EthMap Data
 
 Sources:
-https://datahub.io/core/country-list
-https://github.com/wikiscript/countries.json
+- https://datahub.io/core/country-list
+  - Added entries for Kosovo and Northern Cyprus using info from neighbors for region and wikipedia / other sources for primary info
+- https://github.com/wikiscript/countries.json
 
 ## Goals
 
