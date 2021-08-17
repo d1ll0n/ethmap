@@ -2,8 +2,8 @@
   "name": "ethmap-data",
   "description": "",
   "license": "MIT",
-  "version": "0.0.2",
-  "homepage": "https://github.com/ethmap-1155#readme",
+  "version": "0.0.1",
+  "homepage": "https://github.com/d1ll0n/ethmap-data#readme",
   "keywords": [],
   "files": [
     "contracts/interfaces",
@@ -62,6 +62,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ethmap-1155"
+    "url": "https://github.com/d1ll0n/ethmap-data"
   }
 }
