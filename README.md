@@ -4,6 +4,14 @@ Sources:
 https://datahub.io/core/country-list
 https://github.com/wikiscript/countries.json
 
+## Goals
+
+- [] Process wiki-countries into formatted countries
+- [] Find sources for other data we need and process it
+- [] Create an API conforming to [OpenSea's metadata standards](https://docs.opensea.io/docs/metadata-standards)
+
+## Metadata Standard
+
 ## Status
 
 Processed original data, matched to info from country-list to create the output file `data/countries.json`, and downloaded the flags of every country into `data/images` as SVG files.
