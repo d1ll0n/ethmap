@@ -1,0 +1,11 @@
+{
+{"alpha2": "US", "nuclear": "Yes"},
+{"alpha2": "RU", "nuclear": "Yes"},
+{"alpha2": "GB", "nuclear": "Yes"},
+{"alpha2": "FR", "nuclear": "Yes"},
+{"alpha2": "CN", "nuclear": "Yes"},
+{"alpha2": "IN", "nuclear": "Yes"},
+{"alpha2": "PK", "nuclear": "Yes"},
+{"alpha2": "KP", "nuclear": "Yes"},
+{"alpha2": "IL", "nuclear": "Suspected"},
+}
