@@ -1,0 +1,6597 @@
+[
+  {
+    "id": 1,
+    "original_name": "Luxembourg",
+    "original_symbol": "LUX",
+    "long_name": "Luxembourg",
+    "short_name": "Luxembourg",
+    "abbreviation": "LUX",
+    "names": {
+      "cldr": "Luxembourg",
+      "official": "Luxembourg",
+      "unterm_formal": "the Grand Duchy of Luxembourg",
+      "unterm_short": "Luxembourg"
+    },
+    "iso_3166_1": {
+      "alpha2": "LU",
+      "alpha3": "LUX",
+      "numeric_code": 442
+    },
+    "m49": {
+      "numeric_code": 442,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 155,
+        "name": "Western Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Euro",
+      "numeric_code": 978,
+      "alphabetic_code": "EUR"
+    }
+  },
+  {
+    "id": 2,
+    "original_name": "Northern Cyprus",
+    "original_symbol": "NCY",
+    "long_name": "Turkish Republic of Northern Cyprus",
+    "short_name": "Northern Cyprus",
+    "abbreviation": "TRNC",
+    "names": {
+      "cldr": "Northern Cyprus",
+      "official": "Turkish Republic of Northern Cyprus",
+      "unterm_formal": null,
+      "unterm_short": null
+    },
+    "iso_3166_1": null,
+    "m49": {
+      "numeric_code": null,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 145,
+        "name": "Western Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Turkish Lira",
+      "numeric_code": 949,
+      "alphabetic_code": "TRY"
+    }
+  },
+  {
+    "id": 3,
+    "original_name": "Trinidad and Tobago",
+    "original_symbol": "TTO",
+    "long_name": "Trinidad and Tobago",
+    "short_name": "Trinidad & Tobago",
+    "abbreviation": "TTO",
+    "names": {
+      "cldr": "Trinidad & Tobago",
+      "official": "Trinidad and Tobago",
+      "unterm_formal": "the Republic of Trinidad and Tobago",
+      "unterm_short": "Trinidad and Tobago"
+    },
+    "iso_3166_1": {
+      "alpha2": "TT",
+      "alpha3": "TTO",
+      "numeric_code": 780
+    },
+    "m49": {
+      "numeric_code": 780,
+      "region": {
+        "numeric_code": 19,
+        "name": "Americas"
+      },
+      "subregion": {
+        "numeric_code": 419,
+        "name": "Latin America and the Caribbean"
+      },
+      "intermediate_region": {
+        "numeric_code": 29,
+        "name": "Caribbean"
+      }
+    },
+    "iso_4217": {
+      "name": "Trinidad and Tobago Dollar",
+      "numeric_code": 780,
+      "alphabetic_code": "TTD"
+    }
+  },
+  {
+    "id": 4,
+    "original_name": "Brunei",
+    "original_symbol": "BRN",
+    "long_name": "Bahrain",
+    "short_name": "Bahrain",
+    "abbreviation": "BHR",
+    "names": {
+      "cldr": "Bahrain",
+      "official": "Bahrain",
+      "unterm_formal": "the Kingdom of Bahrain",
+      "unterm_short": "Bahrain"
+    },
+    "iso_3166_1": {
+      "alpha2": "BH",
+      "alpha3": "BHR",
+      "numeric_code": 48
+    },
+    "m49": {
+      "numeric_code": 48,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 145,
+        "name": "Western Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Bahraini Dinar",
+      "numeric_code": 48,
+      "alphabetic_code": "BHD"
+    }
+  },
+  {
+    "id": 5,
+    "original_name": "French Southern and Antarctic Lands",
+    "original_symbol": "ATF",
+    "long_name": "French Southern Territories",
+    "short_name": "French Southern Territories",
+    "abbreviation": "ATF",
+    "names": {
+      "cldr": "French Southern Territories",
+      "official": "French Southern Territories",
+      "unterm_formal": null,
+      "unterm_short": null
+    },
+    "iso_3166_1": {
+      "alpha2": "TF",
+      "alpha3": "ATF",
+      "numeric_code": 260
+    },
+    "m49": {
+      "numeric_code": 260,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 14,
+        "name": "Eastern Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "Euro",
+      "numeric_code": 978,
+      "alphabetic_code": "EUR"
+    }
+  },
+  {
+    "id": 6,
+    "original_name": "Puerto Rico",
+    "original_symbol": "PRI",
+    "long_name": "Puerto Rico",
+    "short_name": "Puerto Rico",
+    "abbreviation": "PRI",
+    "names": {
+      "cldr": "Puerto Rico",
+      "official": "Puerto Rico",
+      "unterm_formal": null,
+      "unterm_short": null
+    },
+    "iso_3166_1": {
+      "alpha2": "PR",
+      "alpha3": "PRI",
+      "numeric_code": 630
+    },
+    "m49": {
+      "numeric_code": 630,
+      "region": {
+        "numeric_code": 19,
+        "name": "Americas"
+      },
+      "subregion": {
+        "numeric_code": 419,
+        "name": "Latin America and the Caribbean"
+      },
+      "intermediate_region": {
+        "numeric_code": 29,
+        "name": "Caribbean"
+      }
+    },
+    "iso_4217": {
+      "name": "US Dollar",
+      "numeric_code": 840,
+      "alphabetic_code": "USD"
+    }
+  },
+  {
+    "id": 7,
+    "original_name": "Cyprus",
+    "original_symbol": "CYP",
+    "long_name": "Cyprus",
+    "short_name": "Cyprus",
+    "abbreviation": "CYP",
+    "names": {
+      "cldr": "Cyprus",
+      "official": "Cyprus",
+      "unterm_formal": "the Republic of Cyprus",
+      "unterm_short": "Cyprus"
+    },
+    "iso_3166_1": {
+      "alpha2": "CY",
+      "alpha3": "CYP",
+      "numeric_code": 196
+    },
+    "m49": {
+      "numeric_code": 196,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 145,
+        "name": "Western Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Euro",
+      "numeric_code": 978,
+      "alphabetic_code": "EUR"
+    }
+  },
+  {
+    "id": 8,
+    "original_name": "Lebanon",
+    "original_symbol": "LBN",
+    "long_name": "Lebanon",
+    "short_name": "Lebanon",
+    "abbreviation": "LBN",
+    "names": {
+      "cldr": "Lebanon",
+      "official": "Lebanon",
+      "unterm_formal": "the Lebanese Republic",
+      "unterm_short": "Lebanon"
+    },
+    "iso_3166_1": {
+      "alpha2": "LB",
+      "alpha3": "LBN",
+      "numeric_code": 422
+    },
+    "m49": {
+      "numeric_code": 422,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 145,
+        "name": "Western Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Lebanese Pound",
+      "numeric_code": 422,
+      "alphabetic_code": "LBP"
+    }
+  },
+  {
+    "id": 9,
+    "original_name": "Kosovo",
+    "original_symbol": "KOS",
+    "long_name": "Kosovo",
+    "short_name": "Kosovo",
+    "abbreviation": "XXK",
+    "names": {
+      "cldr": "Kosovo",
+      "official": "Kosovo",
+      "unterm_formal": "the Republic of Kosovo",
+      "unterm_short": "Kosovo"
+    },
+    "iso_3166_1": {
+      "alpha2": "XK",
+      "alpha3": "XXK",
+      "numeric_code": 1
+    },
+    "m49": {
+      "numeric_code": null,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 39,
+        "name": "Southern Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Euro",
+      "numeric_code": 978,
+      "alphabetic_code": "EUR"
+    }
+  },
+  {
+    "id": 10,
+    "original_name": "Jamaica",
+    "original_symbol": "JAM",
+    "long_name": "Jamaica",
+    "short_name": "Jamaica",
+    "abbreviation": "JAM",
+    "names": {
+      "cldr": "Jamaica",
+      "official": "Jamaica",
+      "unterm_formal": "Jamaica",
+      "unterm_short": "Jamaica"
+    },
+    "iso_3166_1": {
+      "alpha2": "JM",
+      "alpha3": "JAM",
+      "numeric_code": 388
+    },
+    "m49": {
+      "numeric_code": 388,
+      "region": {
+        "numeric_code": 19,
+        "name": "Americas"
+      },
+      "subregion": {
+        "numeric_code": 419,
+        "name": "Latin America and the Caribbean"
+      },
+      "intermediate_region": {
+        "numeric_code": 29,
+        "name": "Caribbean"
+      }
+    },
+    "iso_4217": {
+      "name": "Jamaican Dollar",
+      "numeric_code": 388,
+      "alphabetic_code": "JMD"
+    }
+  },
+  {
+    "id": 11,
+    "original_name": "Gambia",
+    "original_symbol": "GMB",
+    "long_name": "Gambia",
+    "short_name": "Gambia",
+    "abbreviation": "GMB",
+    "names": {
+      "cldr": "Gambia",
+      "official": "Gambia",
+      "unterm_formal": "the Republic of the Gambia",
+      "unterm_short": "Gambia (the)"
+    },
+    "iso_3166_1": {
+      "alpha2": "GM",
+      "alpha3": "GMB",
+      "numeric_code": 270
+    },
+    "m49": {
+      "numeric_code": 270,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 11,
+        "name": "Western Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "Dalasi",
+      "numeric_code": 270,
+      "alphabetic_code": "GMD"
+    }
+  },
+  {
+    "id": 12,
+    "original_name": "Qatar",
+    "original_symbol": "QAT",
+    "long_name": "Qatar",
+    "short_name": "Qatar",
+    "abbreviation": "QAT",
+    "names": {
+      "cldr": "Qatar",
+      "official": "Qatar",
+      "unterm_formal": "the State of Qatar",
+      "unterm_short": "Qatar"
+    },
+    "iso_3166_1": {
+      "alpha2": "QA",
+      "alpha3": "QAT",
+      "numeric_code": 634
+    },
+    "m49": {
+      "numeric_code": 634,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 145,
+        "name": "Western Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Qatari Rial",
+      "numeric_code": 634,
+      "alphabetic_code": "QAR"
+    }
+  },
+  {
+    "id": 13,
+    "original_name": "Falkland Islands",
+    "original_symbol": "FLK",
+    "long_name": "Falkland Islands (Malvinas)",
+    "short_name": "Falkland Islands",
+    "abbreviation": "FLK",
+    "names": {
+      "cldr": "Falkland Islands",
+      "official": "Falkland Islands (Malvinas)",
+      "unterm_formal": null,
+      "unterm_short": null
+    },
+    "iso_3166_1": {
+      "alpha2": "FK",
+      "alpha3": "FLK",
+      "numeric_code": 238
+    },
+    "m49": {
+      "numeric_code": 238,
+      "region": {
+        "numeric_code": 19,
+        "name": "Americas"
+      },
+      "subregion": {
+        "numeric_code": 419,
+        "name": "Latin America and the Caribbean"
+      },
+      "intermediate_region": {
+        "numeric_code": 5,
+        "name": "South America"
+      }
+    },
+    "iso_4217": null
+  },
+  {
+    "id": 14,
+    "original_name": "Vanuatu",
+    "original_symbol": "VUT",
+    "long_name": "Vanuatu",
+    "short_name": "Vanuatu",
+    "abbreviation": "VUT",
+    "names": {
+      "cldr": "Vanuatu",
+      "official": "Vanuatu",
+      "unterm_formal": "the Republic of Vanuatu",
+      "unterm_short": "Vanuatu"
+    },
+    "iso_3166_1": {
+      "alpha2": "VU",
+      "alpha3": "VUT",
+      "numeric_code": 548
+    },
+    "m49": {
+      "numeric_code": 548,
+      "region": {
+        "numeric_code": 9,
+        "name": "Oceania"
+      },
+      "subregion": {
+        "numeric_code": 54,
+        "name": "Melanesia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Vatu",
+      "numeric_code": 548,
+      "alphabetic_code": "VUV"
+    }
+  },
+  {
+    "id": 15,
+    "original_name": "Montenegro",
+    "original_symbol": "MNE",
+    "long_name": "Montenegro",
+    "short_name": "Montenegro",
+    "abbreviation": "MNE",
+    "names": {
+      "cldr": "Montenegro",
+      "official": "Montenegro",
+      "unterm_formal": "Montenegro",
+      "unterm_short": "Montenegro"
+    },
+    "iso_3166_1": {
+      "alpha2": "ME",
+      "alpha3": "MNE",
+      "numeric_code": 499
+    },
+    "m49": {
+      "numeric_code": 499,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 39,
+        "name": "Southern Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Euro",
+      "numeric_code": 978,
+      "alphabetic_code": "EUR"
+    }
+  },
+  {
+    "id": 16,
+    "original_name": "The Bahamas",
+    "original_symbol": "BHS",
+    "long_name": "Bahamas",
+    "short_name": "Bahamas",
+    "abbreviation": "BHS",
+    "names": {
+      "cldr": "Bahamas",
+      "official": "Bahamas",
+      "unterm_formal": "the Commonwealth of the Bahamas",
+      "unterm_short": "Bahamas (the)"
+    },
+    "iso_3166_1": {
+      "alpha2": "BS",
+      "alpha3": "BHS",
+      "numeric_code": 44
+    },
+    "m49": {
+      "numeric_code": 44,
+      "region": {
+        "numeric_code": 19,
+        "name": "Americas"
+      },
+      "subregion": {
+        "numeric_code": 419,
+        "name": "Latin America and the Caribbean"
+      },
+      "intermediate_region": {
+        "numeric_code": 29,
+        "name": "Caribbean"
+      }
+    },
+    "iso_4217": {
+      "name": "Bahamian Dollar",
+      "numeric_code": 44,
+      "alphabetic_code": "BSD"
+    }
+  },
+  {
+    "id": 17,
+    "original_name": "East Timor",
+    "original_symbol": "TLS",
+    "long_name": "Timor-Leste",
+    "short_name": "Timor-Leste",
+    "abbreviation": "TLS",
+    "names": {
+      "cldr": "Timor-Leste",
+      "official": "Timor-Leste",
+      "unterm_formal": "the Democratic Republic of Timor-Leste",
+      "unterm_short": "Timor-Leste"
+    },
+    "iso_3166_1": {
+      "alpha2": "TL",
+      "alpha3": "TLS",
+      "numeric_code": 626
+    },
+    "m49": {
+      "numeric_code": 626,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 35,
+        "name": "South-eastern Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "US Dollar",
+      "numeric_code": 840,
+      "alphabetic_code": "USD"
+    }
+  },
+  {
+    "id": 18,
+    "original_name": "Swaziland",
+    "original_symbol": "SWZ",
+    "long_name": "Eswatini",
+    "short_name": "Eswatini",
+    "abbreviation": "SWZ",
+    "names": {
+      "cldr": "Eswatini",
+      "official": "Eswatini",
+      "unterm_formal": null,
+      "unterm_short": null
+    },
+    "iso_3166_1": {
+      "alpha2": "SZ",
+      "alpha3": "SWZ",
+      "numeric_code": 748
+    },
+    "m49": {
+      "numeric_code": 748,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 18,
+        "name": "Southern Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "Lilangeni",
+      "numeric_code": 748,
+      "alphabetic_code": "SZL"
+    }
+  },
+  {
+    "id": 19,
+    "original_name": "Kuwait",
+    "original_symbol": "KWT",
+    "long_name": "Kuwait",
+    "short_name": "Kuwait",
+    "abbreviation": "KWT",
+    "names": {
+      "cldr": "Kuwait",
+      "official": "Kuwait",
+      "unterm_formal": "the State of Kuwait",
+      "unterm_short": "Kuwait"
+    },
+    "iso_3166_1": {
+      "alpha2": "KW",
+      "alpha3": "KWT",
+      "numeric_code": 414
+    },
+    "m49": {
+      "numeric_code": 414,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 145,
+        "name": "Western Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Kuwaiti Dinar",
+      "numeric_code": 414,
+      "alphabetic_code": "KWD"
+    }
+  },
+  {
+    "id": 20,
+    "original_name": "Fiji",
+    "original_symbol": "FJI",
+    "long_name": "Fiji",
+    "short_name": "Fiji",
+    "abbreviation": "FJI",
+    "names": {
+      "cldr": "Fiji",
+      "official": "Fiji",
+      "unterm_formal": "the Republic of Fiji",
+      "unterm_short": "Fiji"
+    },
+    "iso_3166_1": {
+      "alpha2": "FJ",
+      "alpha3": "FJI",
+      "numeric_code": 242
+    },
+    "m49": {
+      "numeric_code": 242,
+      "region": {
+        "numeric_code": 9,
+        "name": "Oceania"
+      },
+      "subregion": {
+        "numeric_code": 54,
+        "name": "Melanesia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Fiji Dollar",
+      "numeric_code": 242,
+      "alphabetic_code": "FJD"
+    }
+  },
+  {
+    "id": 21,
+    "original_name": "New Caledonia",
+    "original_symbol": "NCL",
+    "long_name": "New Caledonia",
+    "short_name": "New Caledonia",
+    "abbreviation": "NCL",
+    "names": {
+      "cldr": "New Caledonia",
+      "official": "New Caledonia",
+      "unterm_formal": null,
+      "unterm_short": null
+    },
+    "iso_3166_1": {
+      "alpha2": "NC",
+      "alpha3": "NCL",
+      "numeric_code": 540
+    },
+    "m49": {
+      "numeric_code": 540,
+      "region": {
+        "numeric_code": 9,
+        "name": "Oceania"
+      },
+      "subregion": {
+        "numeric_code": 54,
+        "name": "Melanesia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "CFP Franc",
+      "numeric_code": 953,
+      "alphabetic_code": "XPF"
+    }
+  },
+  {
+    "id": 22,
+    "original_name": "Slovenia",
+    "original_symbol": "SVN",
+    "long_name": "Slovenia",
+    "short_name": "Slovenia",
+    "abbreviation": "SVN",
+    "names": {
+      "cldr": "Slovenia",
+      "official": "Slovenia",
+      "unterm_formal": "the Republic of Slovenia",
+      "unterm_short": "Slovenia"
+    },
+    "iso_3166_1": {
+      "alpha2": "SI",
+      "alpha3": "SVN",
+      "numeric_code": 705
+    },
+    "m49": {
+      "numeric_code": 705,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 39,
+        "name": "Southern Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Euro",
+      "numeric_code": 978,
+      "alphabetic_code": "EUR"
+    }
+  },
+  {
+    "id": 23,
+    "original_name": "Israel",
+    "original_symbol": "ISR",
+    "long_name": "Israel",
+    "short_name": "Israel",
+    "abbreviation": "ISR",
+    "names": {
+      "cldr": "Israel",
+      "official": "Israel",
+      "unterm_formal": "the State of Israel",
+      "unterm_short": "Israel"
+    },
+    "iso_3166_1": {
+      "alpha2": "IL",
+      "alpha3": "ISR",
+      "numeric_code": 376
+    },
+    "m49": {
+      "numeric_code": 376,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 145,
+        "name": "Western Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "New Israeli Sheqel",
+      "numeric_code": 376,
+      "alphabetic_code": "ILS"
+    }
+  },
+  {
+    "id": 24,
+    "original_name": "El Salvador",
+    "original_symbol": "SLV",
+    "long_name": "El Salvador",
+    "short_name": "El Salvador",
+    "abbreviation": "SLV",
+    "names": {
+      "cldr": "El Salvador",
+      "official": "El Salvador",
+      "unterm_formal": "the Republic of El Salvador",
+      "unterm_short": "El Salvador"
+    },
+    "iso_3166_1": {
+      "alpha2": "SV",
+      "alpha3": "SLV",
+      "numeric_code": 222
+    },
+    "m49": {
+      "numeric_code": 222,
+      "region": {
+        "numeric_code": 19,
+        "name": "Americas"
+      },
+      "subregion": {
+        "numeric_code": 419,
+        "name": "Latin America and the Caribbean"
+      },
+      "intermediate_region": {
+        "numeric_code": 13,
+        "name": "Central America"
+      }
+    },
+    "iso_4217": {
+      "name": "El Salvador Colon,US Dollar",
+      "numeric_code": null,
+      "alphabetic_code": "SVC,USD"
+    }
+  },
+  {
+    "id": 25,
+    "original_name": "Belize",
+    "original_symbol": "BLZ",
+    "long_name": "Belize",
+    "short_name": "Belize",
+    "abbreviation": "BLZ",
+    "names": {
+      "cldr": "Belize",
+      "official": "Belize",
+      "unterm_formal": "Belize",
+      "unterm_short": "Belize"
+    },
+    "iso_3166_1": {
+      "alpha2": "BZ",
+      "alpha3": "BLZ",
+      "numeric_code": 84
+    },
+    "m49": {
+      "numeric_code": 84,
+      "region": {
+        "numeric_code": 19,
+        "name": "Americas"
+      },
+      "subregion": {
+        "numeric_code": 419,
+        "name": "Latin America and the Caribbean"
+      },
+      "intermediate_region": {
+        "numeric_code": 13,
+        "name": "Central America"
+      }
+    },
+    "iso_4217": {
+      "name": "Belize Dollar",
+      "numeric_code": 84,
+      "alphabetic_code": "BZD"
+    }
+  },
+  {
+    "id": 26,
+    "original_name": "Djibouti",
+    "original_symbol": "DJI",
+    "long_name": "Djibouti",
+    "short_name": "Djibouti",
+    "abbreviation": "DJI",
+    "names": {
+      "cldr": "Djibouti",
+      "official": "Djibouti",
+      "unterm_formal": "the Republic of Djibouti",
+      "unterm_short": "Djibouti"
+    },
+    "iso_3166_1": {
+      "alpha2": "DJ",
+      "alpha3": "DJI",
+      "numeric_code": 262
+    },
+    "m49": {
+      "numeric_code": 262,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 14,
+        "name": "Eastern Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "Djibouti Franc",
+      "numeric_code": 262,
+      "alphabetic_code": "DJF"
+    }
+  },
+  {
+    "id": 27,
+    "original_name": "Macedonia",
+    "original_symbol": "MKD",
+    "long_name": "The former Yugoslav Republic of Macedonia",
+    "short_name": "North Macedonia",
+    "abbreviation": "MKD",
+    "names": {
+      "cldr": "North Macedonia",
+      "official": "The former Yugoslav Republic of Macedonia",
+      "unterm_formal": "the former Yugoslav Republic of Macedonia",
+      "unterm_short": "the former Yugoslav Republic of Macedonia"
+    },
+    "iso_3166_1": {
+      "alpha2": "MK",
+      "alpha3": "MKD",
+      "numeric_code": 807
+    },
+    "m49": {
+      "numeric_code": 807,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 39,
+        "name": "Southern Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Denar",
+      "numeric_code": 807,
+      "alphabetic_code": "MKD"
+    }
+  },
+  {
+    "id": 28,
+    "original_name": "Rwanda",
+    "original_symbol": "RWA",
+    "long_name": "Rwanda",
+    "short_name": "Rwanda",
+    "abbreviation": "RWA",
+    "names": {
+      "cldr": "Rwanda",
+      "official": "Rwanda",
+      "unterm_formal": "the Republic of Rwanda",
+      "unterm_short": "Rwanda"
+    },
+    "iso_3166_1": {
+      "alpha2": "RW",
+      "alpha3": "RWA",
+      "numeric_code": 646
+    },
+    "m49": {
+      "numeric_code": 646,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 14,
+        "name": "Eastern Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "Rwanda Franc",
+      "numeric_code": 646,
+      "alphabetic_code": "RWF"
+    }
+  },
+  {
+    "id": 29,
+    "original_name": "Haiti",
+    "original_symbol": "HTI",
+    "long_name": "Haiti",
+    "short_name": "Haiti",
+    "abbreviation": "HTI",
+    "names": {
+      "cldr": "Haiti",
+      "official": "Haiti",
+      "unterm_formal": "the Republic of Haiti",
+      "unterm_short": "Haiti"
+    },
+    "iso_3166_1": {
+      "alpha2": "HT",
+      "alpha3": "HTI",
+      "numeric_code": 332
+    },
+    "m49": {
+      "numeric_code": 332,
+      "region": {
+        "numeric_code": 19,
+        "name": "Americas"
+      },
+      "subregion": {
+        "numeric_code": 419,
+        "name": "Latin America and the Caribbean"
+      },
+      "intermediate_region": {
+        "numeric_code": 29,
+        "name": "Caribbean"
+      }
+    },
+    "iso_4217": {
+      "name": "Gourde,US Dollar",
+      "numeric_code": null,
+      "alphabetic_code": "HTG,USD"
+    }
+  },
+  {
+    "id": 30,
+    "original_name": "Burundi",
+    "original_symbol": "BDI",
+    "long_name": "Burundi",
+    "short_name": "Burundi",
+    "abbreviation": "BDI",
+    "names": {
+      "cldr": "Burundi",
+      "official": "Burundi",
+      "unterm_formal": "the Republic of Burundi",
+      "unterm_short": "Burundi"
+    },
+    "iso_3166_1": {
+      "alpha2": "BI",
+      "alpha3": "BDI",
+      "numeric_code": 108
+    },
+    "m49": {
+      "numeric_code": 108,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 14,
+        "name": "Eastern Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "Burundi Franc",
+      "numeric_code": 108,
+      "alphabetic_code": "BIF"
+    }
+  },
+  {
+    "id": 31,
+    "original_name": "Equatorial Guinea",
+    "original_symbol": "GNQ",
+    "long_name": "Equatorial Guinea",
+    "short_name": "Equatorial Guinea",
+    "abbreviation": "GNQ",
+    "names": {
+      "cldr": "Equatorial Guinea",
+      "official": "Equatorial Guinea",
+      "unterm_formal": "the Republic of Equatorial Guinea",
+      "unterm_short": "Equatorial Guinea"
+    },
+    "iso_3166_1": {
+      "alpha2": "GQ",
+      "alpha3": "GNQ",
+      "numeric_code": 226
+    },
+    "m49": {
+      "numeric_code": 226,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 17,
+        "name": "Middle Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "CFA Franc BEAC",
+      "numeric_code": 950,
+      "alphabetic_code": "XAF"
+    }
+  },
+  {
+    "id": 32,
+    "original_name": "Albania",
+    "original_symbol": "ALB",
+    "long_name": "Albania",
+    "short_name": "Albania",
+    "abbreviation": "ALB",
+    "names": {
+      "cldr": "Albania",
+      "official": "Albania",
+      "unterm_formal": "the Republic of Albania",
+      "unterm_short": "Albania"
+    },
+    "iso_3166_1": {
+      "alpha2": "AL",
+      "alpha3": "ALB",
+      "numeric_code": 8
+    },
+    "m49": {
+      "numeric_code": 8,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 39,
+        "name": "Southern Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Lek",
+      "numeric_code": 8,
+      "alphabetic_code": "ALL"
+    }
+  },
+  {
+    "id": 33,
+    "original_name": "Solomon Islands",
+    "original_symbol": "SLB",
+    "long_name": "Solomon Islands",
+    "short_name": "Solomon Islands",
+    "abbreviation": "SLB",
+    "names": {
+      "cldr": "Solomon Islands",
+      "official": "Solomon Islands",
+      "unterm_formal": "Solomon Islands",
+      "unterm_short": "Solomon Islands"
+    },
+    "iso_3166_1": {
+      "alpha2": "SB",
+      "alpha3": "SLB",
+      "numeric_code": 90
+    },
+    "m49": {
+      "numeric_code": 90,
+      "region": {
+        "numeric_code": 9,
+        "name": "Oceania"
+      },
+      "subregion": {
+        "numeric_code": 54,
+        "name": "Melanesia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Solomon Islands Dollar",
+      "numeric_code": 90,
+      "alphabetic_code": "SBD"
+    }
+  },
+  {
+    "id": 34,
+    "original_name": "Armenia",
+    "original_symbol": "ARM",
+    "long_name": "Armenia",
+    "short_name": "Armenia",
+    "abbreviation": "ARM",
+    "names": {
+      "cldr": "Armenia",
+      "official": "Armenia",
+      "unterm_formal": "the Republic of Armenia",
+      "unterm_short": "Armenia"
+    },
+    "iso_3166_1": {
+      "alpha2": "AM",
+      "alpha3": "ARM",
+      "numeric_code": 51
+    },
+    "m49": {
+      "numeric_code": 51,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 145,
+        "name": "Western Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Armenian Dram",
+      "numeric_code": 51,
+      "alphabetic_code": "AMD"
+    }
+  },
+  {
+    "id": 35,
+    "original_name": "Lesotho",
+    "original_symbol": "LSO",
+    "long_name": "Lesotho",
+    "short_name": "Lesotho",
+    "abbreviation": "LSO",
+    "names": {
+      "cldr": "Lesotho",
+      "official": "Lesotho",
+      "unterm_formal": "the Kingdom of Lesotho",
+      "unterm_short": "Lesotho"
+    },
+    "iso_3166_1": {
+      "alpha2": "LS",
+      "alpha3": "LSO",
+      "numeric_code": 426
+    },
+    "m49": {
+      "numeric_code": 426,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 18,
+        "name": "Southern Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "Loti,Rand",
+      "numeric_code": null,
+      "alphabetic_code": "LSL,ZAR"
+    }
+  },
+  {
+    "id": 36,
+    "original_name": "Belgium",
+    "original_symbol": "BEL",
+    "long_name": "Belgium",
+    "short_name": "Belgium",
+    "abbreviation": "BEL",
+    "names": {
+      "cldr": "Belgium",
+      "official": "Belgium",
+      "unterm_formal": "the Kingdom of Belgium",
+      "unterm_short": "Belgium"
+    },
+    "iso_3166_1": {
+      "alpha2": "BE",
+      "alpha3": "BEL",
+      "numeric_code": 56
+    },
+    "m49": {
+      "numeric_code": 56,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 155,
+        "name": "Western Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Euro",
+      "numeric_code": 978,
+      "alphabetic_code": "EUR"
+    }
+  },
+  {
+    "id": 37,
+    "original_name": "Moldova",
+    "original_symbol": "MDA",
+    "long_name": "Republic of Moldova",
+    "short_name": "Moldova",
+    "abbreviation": "MDA",
+    "names": {
+      "cldr": "Moldova",
+      "official": "Republic of Moldova",
+      "unterm_formal": "the Republic of Moldova",
+      "unterm_short": "Republic of Moldova (the)"
+    },
+    "iso_3166_1": {
+      "alpha2": "MD",
+      "alpha3": "MDA",
+      "numeric_code": 498
+    },
+    "m49": {
+      "numeric_code": 498,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 151,
+        "name": "Eastern Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Moldovan Leu",
+      "numeric_code": 498,
+      "alphabetic_code": "MDL"
+    }
+  },
+  {
+    "id": 38,
+    "original_name": "Guinea Bissau",
+    "original_symbol": "GNB",
+    "long_name": "Guinea-Bissau",
+    "short_name": "Guinea-Bissau",
+    "abbreviation": "GNB",
+    "names": {
+      "cldr": "Guinea-Bissau",
+      "official": "Guinea-Bissau",
+      "unterm_formal": "the Republic of Guinea-Bissau",
+      "unterm_short": "Guinea-Bissau"
+    },
+    "iso_3166_1": {
+      "alpha2": "GW",
+      "alpha3": "GNB",
+      "numeric_code": 624
+    },
+    "m49": {
+      "numeric_code": 624,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 11,
+        "name": "Western Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "CFA Franc BCEAO",
+      "numeric_code": 952,
+      "alphabetic_code": "XOF"
+    }
+  },
+  {
+    "id": 39,
+    "original_name": "Taiwan",
+    "original_symbol": "TWN",
+    "long_name": null,
+    "short_name": "Taiwan",
+    "abbreviation": "TWN",
+    "names": {
+      "cldr": "Taiwan",
+      "official": null,
+      "unterm_formal": null,
+      "unterm_short": null
+    },
+    "iso_3166_1": {
+      "alpha2": "TW",
+      "alpha3": "TWN",
+      "numeric_code": 158
+    },
+    "m49": {
+      "numeric_code": null,
+      "region": null,
+      "subregion": null,
+      "intermediate_region": null
+    },
+    "iso_4217": null
+  },
+  {
+    "id": 40,
+    "original_name": "Bhutan",
+    "original_symbol": "BTN",
+    "long_name": "Bhutan",
+    "short_name": "Bhutan",
+    "abbreviation": "BTN",
+    "names": {
+      "cldr": "Bhutan",
+      "official": "Bhutan",
+      "unterm_formal": "the Kingdom of Bhutan",
+      "unterm_short": "Bhutan"
+    },
+    "iso_3166_1": {
+      "alpha2": "BT",
+      "alpha3": "BTN",
+      "numeric_code": 64
+    },
+    "m49": {
+      "numeric_code": 64,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 34,
+        "name": "Southern Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Indian Rupee,Ngultrum",
+      "numeric_code": null,
+      "alphabetic_code": "INR,BTN"
+    }
+  },
+  {
+    "id": 41,
+    "original_name": "Switzerland",
+    "original_symbol": "CHE",
+    "long_name": "Switzerland",
+    "short_name": "Switzerland",
+    "abbreviation": "CHE",
+    "names": {
+      "cldr": "Switzerland",
+      "official": "Switzerland",
+      "unterm_formal": "the Swiss Confederation",
+      "unterm_short": "Switzerland"
+    },
+    "iso_3166_1": {
+      "alpha2": "CH",
+      "alpha3": "CHE",
+      "numeric_code": 756
+    },
+    "m49": {
+      "numeric_code": 756,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 155,
+        "name": "Western Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Swiss Franc",
+      "numeric_code": 756,
+      "alphabetic_code": "CHF"
+    }
+  },
+  {
+    "id": 42,
+    "original_name": "Netherlands",
+    "original_symbol": "NLD",
+    "long_name": "Netherlands",
+    "short_name": "Netherlands",
+    "abbreviation": "NLD",
+    "names": {
+      "cldr": "Netherlands",
+      "official": "Netherlands",
+      "unterm_formal": "the Kingdom of the Netherlands",
+      "unterm_short": "Netherlands (the)"
+    },
+    "iso_3166_1": {
+      "alpha2": "NL",
+      "alpha3": "NLD",
+      "numeric_code": 528
+    },
+    "m49": {
+      "numeric_code": 528,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 155,
+        "name": "Western Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Euro",
+      "numeric_code": 978,
+      "alphabetic_code": "EUR"
+    }
+  },
+  {
+    "id": 43,
+    "original_name": "Denmark",
+    "original_symbol": "DNK",
+    "long_name": "Denmark",
+    "short_name": "Denmark",
+    "abbreviation": "DNK",
+    "names": {
+      "cldr": "Denmark",
+      "official": "Denmark",
+      "unterm_formal": "the Kingdom of Denmark",
+      "unterm_short": "Denmark"
+    },
+    "iso_3166_1": {
+      "alpha2": "DK",
+      "alpha3": "DNK",
+      "numeric_code": 208
+    },
+    "m49": {
+      "numeric_code": 208,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 154,
+        "name": "Northern Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Danish Krone",
+      "numeric_code": 208,
+      "alphabetic_code": "DKK"
+    }
+  },
+  {
+    "id": 44,
+    "original_name": "Estonia",
+    "original_symbol": "EST",
+    "long_name": "Estonia",
+    "short_name": "Estonia",
+    "abbreviation": "EST",
+    "names": {
+      "cldr": "Estonia",
+      "official": "Estonia",
+      "unterm_formal": "the Republic of Estonia",
+      "unterm_short": "Estonia"
+    },
+    "iso_3166_1": {
+      "alpha2": "EE",
+      "alpha3": "EST",
+      "numeric_code": 233
+    },
+    "m49": {
+      "numeric_code": 233,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 154,
+        "name": "Northern Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Euro",
+      "numeric_code": 978,
+      "alphabetic_code": "EUR"
+    }
+  },
+  {
+    "id": 45,
+    "original_name": "Dominican Republic",
+    "original_symbol": "DOM",
+    "long_name": "Dominican Republic",
+    "short_name": "Dominican Republic",
+    "abbreviation": "DOM",
+    "names": {
+      "cldr": "Dominican Republic",
+      "official": "Dominican Republic",
+      "unterm_formal": "the Dominican Republic",
+      "unterm_short": "Dominican Republic (the)"
+    },
+    "iso_3166_1": {
+      "alpha2": "DO",
+      "alpha3": "DOM",
+      "numeric_code": 214
+    },
+    "m49": {
+      "numeric_code": 214,
+      "region": {
+        "numeric_code": 19,
+        "name": "Americas"
+      },
+      "subregion": {
+        "numeric_code": 419,
+        "name": "Latin America and the Caribbean"
+      },
+      "intermediate_region": {
+        "numeric_code": 29,
+        "name": "Caribbean"
+      }
+    },
+    "iso_4217": {
+      "name": "Dominican Peso",
+      "numeric_code": 214,
+      "alphabetic_code": "DOP"
+    }
+  },
+  {
+    "id": 46,
+    "original_name": "Slovakia",
+    "original_symbol": "SVK",
+    "long_name": "Slovakia",
+    "short_name": "Slovakia",
+    "abbreviation": "SVK",
+    "names": {
+      "cldr": "Slovakia",
+      "official": "Slovakia",
+      "unterm_formal": "the Slovak Republic",
+      "unterm_short": "Slovakia"
+    },
+    "iso_3166_1": {
+      "alpha2": "SK",
+      "alpha3": "SVK",
+      "numeric_code": 703
+    },
+    "m49": {
+      "numeric_code": 703,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 151,
+        "name": "Eastern Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Euro",
+      "numeric_code": 978,
+      "alphabetic_code": "EUR"
+    }
+  },
+  {
+    "id": 47,
+    "original_name": "Costa Rica",
+    "original_symbol": "CRI",
+    "long_name": "Costa Rica",
+    "short_name": "Costa Rica",
+    "abbreviation": "CRI",
+    "names": {
+      "cldr": "Costa Rica",
+      "official": "Costa Rica",
+      "unterm_formal": "the Republic of Costa Rica",
+      "unterm_short": "Costa Rica"
+    },
+    "iso_3166_1": {
+      "alpha2": "CR",
+      "alpha3": "CRI",
+      "numeric_code": 188
+    },
+    "m49": {
+      "numeric_code": 188,
+      "region": {
+        "numeric_code": 19,
+        "name": "Americas"
+      },
+      "subregion": {
+        "numeric_code": 419,
+        "name": "Latin America and the Caribbean"
+      },
+      "intermediate_region": {
+        "numeric_code": 13,
+        "name": "Central America"
+      }
+    },
+    "iso_4217": {
+      "name": "Costa Rican Colon",
+      "numeric_code": 188,
+      "alphabetic_code": "CRC"
+    }
+  },
+  {
+    "id": 48,
+    "original_name": "Bosnia and Herzegovina",
+    "original_symbol": "BIH",
+    "long_name": "Bosnia and Herzegovina",
+    "short_name": "Bosnia",
+    "abbreviation": "BIH",
+    "names": {
+      "cldr": "Bosnia",
+      "official": "Bosnia and Herzegovina",
+      "unterm_formal": "Bosnia and Herzegovina",
+      "unterm_short": "Bosnia and Herzegovina"
+    },
+    "iso_3166_1": {
+      "alpha2": "BA",
+      "alpha3": "BIH",
+      "numeric_code": 70
+    },
+    "m49": {
+      "numeric_code": 70,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 39,
+        "name": "Southern Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Convertible Mark",
+      "numeric_code": 977,
+      "alphabetic_code": "BAM"
+    }
+  },
+  {
+    "id": 49,
+    "original_name": "Croatia",
+    "original_symbol": "HRV",
+    "long_name": "Croatia",
+    "short_name": "Croatia",
+    "abbreviation": "HRV",
+    "names": {
+      "cldr": "Croatia",
+      "official": "Croatia",
+      "unterm_formal": "the Republic of Croatia",
+      "unterm_short": "Croatia"
+    },
+    "iso_3166_1": {
+      "alpha2": "HR",
+      "alpha3": "HRV",
+      "numeric_code": 191
+    },
+    "m49": {
+      "numeric_code": 191,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 39,
+        "name": "Southern Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Kuna",
+      "numeric_code": 191,
+      "alphabetic_code": "HRK"
+    }
+  },
+  {
+    "id": 50,
+    "original_name": "Togo",
+    "original_symbol": "TGO",
+    "long_name": "Togo",
+    "short_name": "Togo",
+    "abbreviation": "TGO",
+    "names": {
+      "cldr": "Togo",
+      "official": "Togo",
+      "unterm_formal": "the Togolese Republic",
+      "unterm_short": "Togo"
+    },
+    "iso_3166_1": {
+      "alpha2": "TG",
+      "alpha3": "TGO",
+      "numeric_code": 768
+    },
+    "m49": {
+      "numeric_code": 768,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 11,
+        "name": "Western Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "CFA Franc BCEAO",
+      "numeric_code": 952,
+      "alphabetic_code": "XOF"
+    }
+  },
+  {
+    "id": 51,
+    "original_name": "Latvia",
+    "original_symbol": "LVA",
+    "long_name": "Latvia",
+    "short_name": "Latvia",
+    "abbreviation": "LVA",
+    "names": {
+      "cldr": "Latvia",
+      "official": "Latvia",
+      "unterm_formal": "the Republic of Latvia",
+      "unterm_short": "Latvia"
+    },
+    "iso_3166_1": {
+      "alpha2": "LV",
+      "alpha3": "LVA",
+      "numeric_code": 428
+    },
+    "m49": {
+      "numeric_code": 428,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 154,
+        "name": "Northern Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Euro",
+      "numeric_code": 978,
+      "alphabetic_code": "EUR"
+    }
+  },
+  {
+    "id": 52,
+    "original_name": "Lithuania",
+    "original_symbol": "LTU",
+    "long_name": "Lithuania",
+    "short_name": "Lithuania",
+    "abbreviation": "LTU",
+    "names": {
+      "cldr": "Lithuania",
+      "official": "Lithuania",
+      "unterm_formal": "the Republic of Lithuania",
+      "unterm_short": "Lithuania"
+    },
+    "iso_3166_1": {
+      "alpha2": "LT",
+      "alpha3": "LTU",
+      "numeric_code": 440
+    },
+    "m49": {
+      "numeric_code": 440,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 154,
+        "name": "Northern Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Euro",
+      "numeric_code": 978,
+      "alphabetic_code": "EUR"
+    }
+  },
+  {
+    "id": 53,
+    "original_name": "Sri Lanka",
+    "original_symbol": "LKA",
+    "long_name": "Sri Lanka",
+    "short_name": "Sri Lanka",
+    "abbreviation": "LKA",
+    "names": {
+      "cldr": "Sri Lanka",
+      "official": "Sri Lanka",
+      "unterm_formal": "the Democratic Socialist Republic of Sri Lanka",
+      "unterm_short": "Sri Lanka"
+    },
+    "iso_3166_1": {
+      "alpha2": "LK",
+      "alpha3": "LKA",
+      "numeric_code": 144
+    },
+    "m49": {
+      "numeric_code": 144,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 34,
+        "name": "Southern Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Sri Lanka Rupee",
+      "numeric_code": 144,
+      "alphabetic_code": "LKR"
+    }
+  },
+  {
+    "id": 54,
+    "original_name": "Georgia",
+    "original_symbol": "GEO",
+    "long_name": "Georgia",
+    "short_name": "Georgia",
+    "abbreviation": "GEO",
+    "names": {
+      "cldr": "Georgia",
+      "official": "Georgia",
+      "unterm_formal": "Georgia",
+      "unterm_short": "Georgia"
+    },
+    "iso_3166_1": {
+      "alpha2": "GE",
+      "alpha3": "GEO",
+      "numeric_code": 268
+    },
+    "m49": {
+      "numeric_code": 268,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 145,
+        "name": "Western Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Lari",
+      "numeric_code": 981,
+      "alphabetic_code": "GEL"
+    }
+  },
+  {
+    "id": 55,
+    "original_name": "Ireland",
+    "original_symbol": "IRL",
+    "long_name": "Ireland",
+    "short_name": "Ireland",
+    "abbreviation": "IRL",
+    "names": {
+      "cldr": "Ireland",
+      "official": "Ireland",
+      "unterm_formal": "Ireland",
+      "unterm_short": "Ireland"
+    },
+    "iso_3166_1": {
+      "alpha2": "IE",
+      "alpha3": "IRL",
+      "numeric_code": 372
+    },
+    "m49": {
+      "numeric_code": 372,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 154,
+        "name": "Northern Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Euro",
+      "numeric_code": 978,
+      "alphabetic_code": "EUR"
+    }
+  },
+  {
+    "id": 56,
+    "original_name": "Sierra Leone",
+    "original_symbol": "SLE",
+    "long_name": "Sierra Leone",
+    "short_name": "Sierra Leone",
+    "abbreviation": "SLE",
+    "names": {
+      "cldr": "Sierra Leone",
+      "official": "Sierra Leone",
+      "unterm_formal": "the Republic of Sierra Leone",
+      "unterm_short": "Sierra Leone"
+    },
+    "iso_3166_1": {
+      "alpha2": "SL",
+      "alpha3": "SLE",
+      "numeric_code": 694
+    },
+    "m49": {
+      "numeric_code": 694,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 11,
+        "name": "Western Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "Leone",
+      "numeric_code": 694,
+      "alphabetic_code": "SLL"
+    }
+  },
+  {
+    "id": 57,
+    "original_name": "Panama",
+    "original_symbol": "PAN",
+    "long_name": "Panama",
+    "short_name": "Panama",
+    "abbreviation": "PAN",
+    "names": {
+      "cldr": "Panama",
+      "official": "Panama",
+      "unterm_formal": "the Republic of Panama",
+      "unterm_short": "Panama"
+    },
+    "iso_3166_1": {
+      "alpha2": "PA",
+      "alpha3": "PAN",
+      "numeric_code": 591
+    },
+    "m49": {
+      "numeric_code": 591,
+      "region": {
+        "numeric_code": 19,
+        "name": "Americas"
+      },
+      "subregion": {
+        "numeric_code": 419,
+        "name": "Latin America and the Caribbean"
+      },
+      "intermediate_region": {
+        "numeric_code": 13,
+        "name": "Central America"
+      }
+    },
+    "iso_4217": {
+      "name": "Balboa,US Dollar",
+      "numeric_code": null,
+      "alphabetic_code": "PAB,USD"
+    }
+  },
+  {
+    "id": 58,
+    "original_name": "Czech Republic",
+    "original_symbol": "CZE",
+    "long_name": "Czechia",
+    "short_name": "Czechia",
+    "abbreviation": "CZE",
+    "names": {
+      "cldr": "Czechia",
+      "official": "Czechia",
+      "unterm_formal": "the Czech Republic",
+      "unterm_short": "Czech Republic (the)"
+    },
+    "iso_3166_1": {
+      "alpha2": "CZ",
+      "alpha3": "CZE",
+      "numeric_code": 203
+    },
+    "m49": {
+      "numeric_code": 203,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 151,
+        "name": "Eastern Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Czech Koruna",
+      "numeric_code": 203,
+      "alphabetic_code": "CZK"
+    }
+  },
+  {
+    "id": 59,
+    "original_name": "United Arab Emirates",
+    "original_symbol": "ARE",
+    "long_name": "United Arab Emirates",
+    "short_name": "United Arab Emirates",
+    "abbreviation": "ARE",
+    "names": {
+      "cldr": "United Arab Emirates",
+      "official": "United Arab Emirates",
+      "unterm_formal": "the United Arab Emirates",
+      "unterm_short": "United Arab Emirates (the)"
+    },
+    "iso_3166_1": {
+      "alpha2": "AE",
+      "alpha3": "ARE",
+      "numeric_code": 784
+    },
+    "m49": {
+      "numeric_code": 784,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 145,
+        "name": "Western Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "UAE Dirham",
+      "numeric_code": 784,
+      "alphabetic_code": "AED"
+    }
+  },
+  {
+    "id": 60,
+    "original_name": "Austria",
+    "original_symbol": "AUT",
+    "long_name": "Austria",
+    "short_name": "Austria",
+    "abbreviation": "AUT",
+    "names": {
+      "cldr": "Austria",
+      "official": "Austria",
+      "unterm_formal": "the Republic of Austria",
+      "unterm_short": "Austria"
+    },
+    "iso_3166_1": {
+      "alpha2": "AT",
+      "alpha3": "AUT",
+      "numeric_code": 40
+    },
+    "m49": {
+      "numeric_code": 40,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 155,
+        "name": "Western Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Euro",
+      "numeric_code": 978,
+      "alphabetic_code": "EUR"
+    }
+  },
+  {
+    "id": 61,
+    "original_name": "Azerbaijan",
+    "original_symbol": "AZE",
+    "long_name": "Azerbaijan",
+    "short_name": "Azerbaijan",
+    "abbreviation": "AZE",
+    "names": {
+      "cldr": "Azerbaijan",
+      "official": "Azerbaijan",
+      "unterm_formal": "the Republic of Azerbaijan",
+      "unterm_short": "Azerbaijan"
+    },
+    "iso_3166_1": {
+      "alpha2": "AZ",
+      "alpha3": "AZE",
+      "numeric_code": 31
+    },
+    "m49": {
+      "numeric_code": 31,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 145,
+        "name": "Western Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Azerbaijan Manat",
+      "numeric_code": 944,
+      "alphabetic_code": "AZN"
+    }
+  },
+  {
+    "id": 62,
+    "original_name": "Republic of Serbia",
+    "original_symbol": "SRB",
+    "long_name": "Serbia",
+    "short_name": "Serbia",
+    "abbreviation": "SRB",
+    "names": {
+      "cldr": "Serbia",
+      "official": "Serbia",
+      "unterm_formal": "the Republic of Serbia",
+      "unterm_short": "Serbia"
+    },
+    "iso_3166_1": {
+      "alpha2": "RS",
+      "alpha3": "SRB",
+      "numeric_code": 688
+    },
+    "m49": {
+      "numeric_code": 688,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 39,
+        "name": "Southern Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Serbian Dinar",
+      "numeric_code": 941,
+      "alphabetic_code": "RSD"
+    }
+  },
+  {
+    "id": 63,
+    "original_name": "Jordan",
+    "original_symbol": "JOR",
+    "long_name": "Jordan",
+    "short_name": "Jordan",
+    "abbreviation": "JOR",
+    "names": {
+      "cldr": "Jordan",
+      "official": "Jordan",
+      "unterm_formal": "the Hashemite Kingdom of Jordan",
+      "unterm_short": "Jordan"
+    },
+    "iso_3166_1": {
+      "alpha2": "JO",
+      "alpha3": "JOR",
+      "numeric_code": 400
+    },
+    "m49": {
+      "numeric_code": 400,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 145,
+        "name": "Western Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Jordanian Dinar",
+      "numeric_code": 400,
+      "alphabetic_code": "JOD"
+    }
+  },
+  {
+    "id": 64,
+    "original_name": "Portugal",
+    "original_symbol": "PRT",
+    "long_name": "Portugal",
+    "short_name": "Portugal",
+    "abbreviation": "PRT",
+    "names": {
+      "cldr": "Portugal",
+      "official": "Portugal",
+      "unterm_formal": "the Portuguese Republic",
+      "unterm_short": "Portugal"
+    },
+    "iso_3166_1": {
+      "alpha2": "PT",
+      "alpha3": "PRT",
+      "numeric_code": 620
+    },
+    "m49": {
+      "numeric_code": 620,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 39,
+        "name": "Southern Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Euro",
+      "numeric_code": 978,
+      "alphabetic_code": "EUR"
+    }
+  },
+  {
+    "id": 65,
+    "original_name": "Hungary",
+    "original_symbol": "HUN",
+    "long_name": "Hungary",
+    "short_name": "Hungary",
+    "abbreviation": "HUN",
+    "names": {
+      "cldr": "Hungary",
+      "official": "Hungary",
+      "unterm_formal": "Hungary",
+      "unterm_short": "Hungary"
+    },
+    "iso_3166_1": {
+      "alpha2": "HU",
+      "alpha3": "HUN",
+      "numeric_code": 348
+    },
+    "m49": {
+      "numeric_code": 348,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 151,
+        "name": "Eastern Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Forint",
+      "numeric_code": 348,
+      "alphabetic_code": "HUF"
+    }
+  },
+  {
+    "id": 66,
+    "original_name": "South Korea",
+    "original_symbol": "KOR",
+    "long_name": "Republic of Korea",
+    "short_name": "South Korea",
+    "abbreviation": "KOR",
+    "names": {
+      "cldr": "South Korea",
+      "official": "Republic of Korea",
+      "unterm_formal": "the Republic of Korea",
+      "unterm_short": "Republic of Korea (the)"
+    },
+    "iso_3166_1": {
+      "alpha2": "KR",
+      "alpha3": "KOR",
+      "numeric_code": 410
+    },
+    "m49": {
+      "numeric_code": 410,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 30,
+        "name": "Eastern Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Won",
+      "numeric_code": 410,
+      "alphabetic_code": "KRW"
+    }
+  },
+  {
+    "id": 67,
+    "original_name": "Iceland",
+    "original_symbol": "ISL",
+    "long_name": "Iceland",
+    "short_name": "Iceland",
+    "abbreviation": "ISL",
+    "names": {
+      "cldr": "Iceland",
+      "official": "Iceland",
+      "unterm_formal": "the Republic of Iceland",
+      "unterm_short": "Iceland"
+    },
+    "iso_3166_1": {
+      "alpha2": "IS",
+      "alpha3": "ISL",
+      "numeric_code": 352
+    },
+    "m49": {
+      "numeric_code": 352,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 154,
+        "name": "Northern Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Iceland Krona",
+      "numeric_code": 352,
+      "alphabetic_code": "ISK"
+    }
+  },
+  {
+    "id": 68,
+    "original_name": "Guatemala",
+    "original_symbol": "GTM",
+    "long_name": "Guatemala",
+    "short_name": "Guatemala",
+    "abbreviation": "GTM",
+    "names": {
+      "cldr": "Guatemala",
+      "official": "Guatemala",
+      "unterm_formal": "the Republic of Guatemala",
+      "unterm_short": "Guatemala"
+    },
+    "iso_3166_1": {
+      "alpha2": "GT",
+      "alpha3": "GTM",
+      "numeric_code": 320
+    },
+    "m49": {
+      "numeric_code": 320,
+      "region": {
+        "numeric_code": 19,
+        "name": "Americas"
+      },
+      "subregion": {
+        "numeric_code": 419,
+        "name": "Latin America and the Caribbean"
+      },
+      "intermediate_region": {
+        "numeric_code": 13,
+        "name": "Central America"
+      }
+    },
+    "iso_4217": {
+      "name": "Quetzal",
+      "numeric_code": 320,
+      "alphabetic_code": "GTQ"
+    }
+  },
+  {
+    "id": 69,
+    "original_name": "Cuba",
+    "original_symbol": "CUB",
+    "long_name": "Cuba",
+    "short_name": "Cuba",
+    "abbreviation": "CUB",
+    "names": {
+      "cldr": "Cuba",
+      "official": "Cuba",
+      "unterm_formal": "the Republic of Cuba",
+      "unterm_short": "Cuba"
+    },
+    "iso_3166_1": {
+      "alpha2": "CU",
+      "alpha3": "CUB",
+      "numeric_code": 192
+    },
+    "m49": {
+      "numeric_code": 192,
+      "region": {
+        "numeric_code": 19,
+        "name": "Americas"
+      },
+      "subregion": {
+        "numeric_code": 419,
+        "name": "Latin America and the Caribbean"
+      },
+      "intermediate_region": {
+        "numeric_code": 29,
+        "name": "Caribbean"
+      }
+    },
+    "iso_4217": {
+      "name": "Cuban Peso,Peso Convertible",
+      "numeric_code": null,
+      "alphabetic_code": "CUP,CUC"
+    }
+  },
+  {
+    "id": 70,
+    "original_name": "Bulgaria",
+    "original_symbol": "BGR",
+    "long_name": "Bulgaria",
+    "short_name": "Bulgaria",
+    "abbreviation": "BGR",
+    "names": {
+      "cldr": "Bulgaria",
+      "official": "Bulgaria",
+      "unterm_formal": "the Republic of Bulgaria",
+      "unterm_short": "Bulgaria"
+    },
+    "iso_3166_1": {
+      "alpha2": "BG",
+      "alpha3": "BGR",
+      "numeric_code": 100
+    },
+    "m49": {
+      "numeric_code": 100,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 151,
+        "name": "Eastern Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Bulgarian Lev",
+      "numeric_code": 975,
+      "alphabetic_code": "BGN"
+    }
+  },
+  {
+    "id": 71,
+    "original_name": "Liberia",
+    "original_symbol": "LBR",
+    "long_name": "Liberia",
+    "short_name": "Liberia",
+    "abbreviation": "LBR",
+    "names": {
+      "cldr": "Liberia",
+      "official": "Liberia",
+      "unterm_formal": "the Republic of Liberia",
+      "unterm_short": "Liberia"
+    },
+    "iso_3166_1": {
+      "alpha2": "LR",
+      "alpha3": "LBR",
+      "numeric_code": 430
+    },
+    "m49": {
+      "numeric_code": 430,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 11,
+        "name": "Western Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "Liberian Dollar",
+      "numeric_code": 430,
+      "alphabetic_code": "LRD"
+    }
+  },
+  {
+    "id": 72,
+    "original_name": "Honduras",
+    "original_symbol": "HND",
+    "long_name": "Honduras",
+    "short_name": "Honduras",
+    "abbreviation": "HND",
+    "names": {
+      "cldr": "Honduras",
+      "official": "Honduras",
+      "unterm_formal": "the Republic of Honduras",
+      "unterm_short": "Honduras"
+    },
+    "iso_3166_1": {
+      "alpha2": "HN",
+      "alpha3": "HND",
+      "numeric_code": 340
+    },
+    "m49": {
+      "numeric_code": 340,
+      "region": {
+        "numeric_code": 19,
+        "name": "Americas"
+      },
+      "subregion": {
+        "numeric_code": 419,
+        "name": "Latin America and the Caribbean"
+      },
+      "intermediate_region": {
+        "numeric_code": 13,
+        "name": "Central America"
+      }
+    },
+    "iso_4217": {
+      "name": "Lempira",
+      "numeric_code": 340,
+      "alphabetic_code": "HNL"
+    }
+  },
+  {
+    "id": 73,
+    "original_name": "Benin",
+    "original_symbol": "BEN",
+    "long_name": "Benin",
+    "short_name": "Benin",
+    "abbreviation": "BEN",
+    "names": {
+      "cldr": "Benin",
+      "official": "Benin",
+      "unterm_formal": "the Republic of Benin",
+      "unterm_short": "Benin"
+    },
+    "iso_3166_1": {
+      "alpha2": "BJ",
+      "alpha3": "BEN",
+      "numeric_code": 204
+    },
+    "m49": {
+      "numeric_code": 204,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 11,
+        "name": "Western Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "CFA Franc BCEAO",
+      "numeric_code": 952,
+      "alphabetic_code": "XOF"
+    }
+  },
+  {
+    "id": 74,
+    "original_name": "Eritrea",
+    "original_symbol": "ERI",
+    "long_name": "Eritrea",
+    "short_name": "Eritrea",
+    "abbreviation": "ERI",
+    "names": {
+      "cldr": "Eritrea",
+      "official": "Eritrea",
+      "unterm_formal": "the State of Eritrea",
+      "unterm_short": "Eritrea"
+    },
+    "iso_3166_1": {
+      "alpha2": "ER",
+      "alpha3": "ERI",
+      "numeric_code": 232
+    },
+    "m49": {
+      "numeric_code": 232,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 14,
+        "name": "Eastern Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "Nakfa",
+      "numeric_code": 232,
+      "alphabetic_code": "ERN"
+    }
+  },
+  {
+    "id": 75,
+    "original_name": "Malawi",
+    "original_symbol": "MWI",
+    "long_name": "Malawi",
+    "short_name": "Malawi",
+    "abbreviation": "MWI",
+    "names": {
+      "cldr": "Malawi",
+      "official": "Malawi",
+      "unterm_formal": "the Republic of Malawi",
+      "unterm_short": "Malawi"
+    },
+    "iso_3166_1": {
+      "alpha2": "MW",
+      "alpha3": "MWI",
+      "numeric_code": 454
+    },
+    "m49": {
+      "numeric_code": 454,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 14,
+        "name": "Eastern Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "Malawi Kwacha",
+      "numeric_code": 454,
+      "alphabetic_code": "MWK"
+    }
+  },
+  {
+    "id": 76,
+    "original_name": "North Korea",
+    "original_symbol": "PRK",
+    "long_name": "Democratic People's Republic of Korea",
+    "short_name": "North Korea",
+    "abbreviation": "PRK",
+    "names": {
+      "cldr": "North Korea",
+      "official": "Democratic People's Republic of Korea",
+      "unterm_formal": "the Democratic People's Republic of Korea",
+      "unterm_short": "Democratic People's Republic of Korea (the)"
+    },
+    "iso_3166_1": {
+      "alpha2": "KP",
+      "alpha3": "PRK",
+      "numeric_code": 408
+    },
+    "m49": {
+      "numeric_code": 408,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 30,
+        "name": "Eastern Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "North Korean Won",
+      "numeric_code": 408,
+      "alphabetic_code": "KPW"
+    }
+  },
+  {
+    "id": 77,
+    "original_name": "Nicaragua",
+    "original_symbol": "NIC",
+    "long_name": "Nicaragua",
+    "short_name": "Nicaragua",
+    "abbreviation": "NIC",
+    "names": {
+      "cldr": "Nicaragua",
+      "official": "Nicaragua",
+      "unterm_formal": "the Republic of Nicaragua",
+      "unterm_short": "Nicaragua"
+    },
+    "iso_3166_1": {
+      "alpha2": "NI",
+      "alpha3": "NIC",
+      "numeric_code": 558
+    },
+    "m49": {
+      "numeric_code": 558,
+      "region": {
+        "numeric_code": 19,
+        "name": "Americas"
+      },
+      "subregion": {
+        "numeric_code": 419,
+        "name": "Latin America and the Caribbean"
+      },
+      "intermediate_region": {
+        "numeric_code": 13,
+        "name": "Central America"
+      }
+    },
+    "iso_4217": {
+      "name": "Cordoba Oro",
+      "numeric_code": 558,
+      "alphabetic_code": "NIO"
+    }
+  },
+  {
+    "id": 78,
+    "original_name": "Greece",
+    "original_symbol": "GRC",
+    "long_name": "Greece",
+    "short_name": "Greece",
+    "abbreviation": "GRC",
+    "names": {
+      "cldr": "Greece",
+      "official": "Greece",
+      "unterm_formal": "the Hellenic Republic",
+      "unterm_short": "Greece"
+    },
+    "iso_3166_1": {
+      "alpha2": "GR",
+      "alpha3": "GRC",
+      "numeric_code": 300
+    },
+    "m49": {
+      "numeric_code": 300,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 39,
+        "name": "Southern Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Euro",
+      "numeric_code": 978,
+      "alphabetic_code": "EUR"
+    }
+  },
+  {
+    "id": 79,
+    "original_name": "Tajikistan",
+    "original_symbol": "TJK",
+    "long_name": "Tajikistan",
+    "short_name": "Tajikistan",
+    "abbreviation": "TJK",
+    "names": {
+      "cldr": "Tajikistan",
+      "official": "Tajikistan",
+      "unterm_formal": "the Republic of Tajikistan",
+      "unterm_short": "Tajikistan"
+    },
+    "iso_3166_1": {
+      "alpha2": "TJ",
+      "alpha3": "TJK",
+      "numeric_code": 762
+    },
+    "m49": {
+      "numeric_code": 762,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 143,
+        "name": "Central Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Somoni",
+      "numeric_code": 972,
+      "alphabetic_code": "TJS"
+    }
+  },
+  {
+    "id": 80,
+    "original_name": "Nepal",
+    "original_symbol": "NPL",
+    "long_name": "Nepal",
+    "short_name": "Nepal",
+    "abbreviation": "NPL",
+    "names": {
+      "cldr": "Nepal",
+      "official": "Nepal",
+      "unterm_formal": "the Federal Democratic Republic of Nepal",
+      "unterm_short": "Nepal"
+    },
+    "iso_3166_1": {
+      "alpha2": "NP",
+      "alpha3": "NPL",
+      "numeric_code": 524
+    },
+    "m49": {
+      "numeric_code": 524,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 34,
+        "name": "Southern Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Nepalese Rupee",
+      "numeric_code": 524,
+      "alphabetic_code": "NPR"
+    }
+  },
+  {
+    "id": 81,
+    "original_name": "Bangladesh",
+    "original_symbol": "BGD",
+    "long_name": "Bangladesh",
+    "short_name": "Bangladesh",
+    "abbreviation": "BGD",
+    "names": {
+      "cldr": "Bangladesh",
+      "official": "Bangladesh",
+      "unterm_formal": "the People's Republic of Bangladesh",
+      "unterm_short": "Bangladesh"
+    },
+    "iso_3166_1": {
+      "alpha2": "BD",
+      "alpha3": "BGD",
+      "numeric_code": 50
+    },
+    "m49": {
+      "numeric_code": 50,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 34,
+        "name": "Southern Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Taka",
+      "numeric_code": 50,
+      "alphabetic_code": "BDT"
+    }
+  },
+  {
+    "id": 82,
+    "original_name": "Tunisia",
+    "original_symbol": "TUN",
+    "long_name": "Tunisia",
+    "short_name": "Tunisia",
+    "abbreviation": "TUN",
+    "names": {
+      "cldr": "Tunisia",
+      "official": "Tunisia",
+      "unterm_formal": "the Republic of Tunisia",
+      "unterm_short": "Tunisia"
+    },
+    "iso_3166_1": {
+      "alpha2": "TN",
+      "alpha3": "TUN",
+      "numeric_code": 788
+    },
+    "m49": {
+      "numeric_code": 788,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 15,
+        "name": "Northern Africa"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Tunisian Dinar",
+      "numeric_code": 788,
+      "alphabetic_code": "TND"
+    }
+  },
+  {
+    "id": 83,
+    "original_name": "Suriname",
+    "original_symbol": "SUR",
+    "long_name": "Suriname",
+    "short_name": "Suriname",
+    "abbreviation": "SUR",
+    "names": {
+      "cldr": "Suriname",
+      "official": "Suriname",
+      "unterm_formal": "the Republic of Suriname",
+      "unterm_short": "Suriname"
+    },
+    "iso_3166_1": {
+      "alpha2": "SR",
+      "alpha3": "SUR",
+      "numeric_code": 740
+    },
+    "m49": {
+      "numeric_code": 740,
+      "region": {
+        "numeric_code": 19,
+        "name": "Americas"
+      },
+      "subregion": {
+        "numeric_code": 419,
+        "name": "Latin America and the Caribbean"
+      },
+      "intermediate_region": {
+        "numeric_code": 5,
+        "name": "South America"
+      }
+    },
+    "iso_4217": {
+      "name": "Surinam Dollar",
+      "numeric_code": 968,
+      "alphabetic_code": "SRD"
+    }
+  },
+  {
+    "id": 84,
+    "original_name": "Somaliland",
+    "original_symbol": "SOL",
+    "long_name": "Solomon Islands",
+    "short_name": "Solomon Islands",
+    "abbreviation": "SLB",
+    "names": {
+      "cldr": "Solomon Islands",
+      "official": "Solomon Islands",
+      "unterm_formal": "Solomon Islands",
+      "unterm_short": "Solomon Islands"
+    },
+    "iso_3166_1": {
+      "alpha2": "SB",
+      "alpha3": "SLB",
+      "numeric_code": 90
+    },
+    "m49": {
+      "numeric_code": 90,
+      "region": {
+        "numeric_code": 9,
+        "name": "Oceania"
+      },
+      "subregion": {
+        "numeric_code": 54,
+        "name": "Melanesia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Solomon Islands Dollar",
+      "numeric_code": 90,
+      "alphabetic_code": "SBD"
+    }
+  },
+  {
+    "id": 85,
+    "original_name": "Uruguay",
+    "original_symbol": "URY",
+    "long_name": "Uruguay",
+    "short_name": "Uruguay",
+    "abbreviation": "URY",
+    "names": {
+      "cldr": "Uruguay",
+      "official": "Uruguay",
+      "unterm_formal": "the Eastern Republic of Uruguay",
+      "unterm_short": "Uruguay"
+    },
+    "iso_3166_1": {
+      "alpha2": "UY",
+      "alpha3": "URY",
+      "numeric_code": 858
+    },
+    "m49": {
+      "numeric_code": 858,
+      "region": {
+        "numeric_code": 19,
+        "name": "Americas"
+      },
+      "subregion": {
+        "numeric_code": 419,
+        "name": "Latin America and the Caribbean"
+      },
+      "intermediate_region": {
+        "numeric_code": 5,
+        "name": "South America"
+      }
+    },
+    "iso_4217": {
+      "name": "Peso Uruguayo",
+      "numeric_code": 858,
+      "alphabetic_code": "UYU"
+    }
+  },
+  {
+    "id": 86,
+    "original_name": "Cambodia",
+    "original_symbol": "KHM",
+    "long_name": "Cambodia",
+    "short_name": "Cambodia",
+    "abbreviation": "KHM",
+    "names": {
+      "cldr": "Cambodia",
+      "official": "Cambodia",
+      "unterm_formal": "the Kingdom of Cambodia",
+      "unterm_short": "Cambodia"
+    },
+    "iso_3166_1": {
+      "alpha2": "KH",
+      "alpha3": "KHM",
+      "numeric_code": 116
+    },
+    "m49": {
+      "numeric_code": 116,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 35,
+        "name": "South-eastern Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Riel",
+      "numeric_code": 116,
+      "alphabetic_code": "KHR"
+    }
+  },
+  {
+    "id": 87,
+    "original_name": "Syria",
+    "original_symbol": "SYR",
+    "long_name": "Syrian Arab Republic",
+    "short_name": "Syria",
+    "abbreviation": "SYR",
+    "names": {
+      "cldr": "Syria",
+      "official": "Syrian Arab Republic",
+      "unterm_formal": "the Syrian Arab Republic",
+      "unterm_short": "Syrian Arab Republic"
+    },
+    "iso_3166_1": {
+      "alpha2": "SY",
+      "alpha3": "SYR",
+      "numeric_code": 760
+    },
+    "m49": {
+      "numeric_code": 760,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 145,
+        "name": "Western Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Syrian Pound",
+      "numeric_code": 760,
+      "alphabetic_code": "SYP"
+    }
+  },
+  {
+    "id": 88,
+    "original_name": "Senegal",
+    "original_symbol": "SEN",
+    "long_name": "Senegal",
+    "short_name": "Senegal",
+    "abbreviation": "SEN",
+    "names": {
+      "cldr": "Senegal",
+      "official": "Senegal",
+      "unterm_formal": "the Republic of Senegal",
+      "unterm_short": "Senegal"
+    },
+    "iso_3166_1": {
+      "alpha2": "SN",
+      "alpha3": "SEN",
+      "numeric_code": 686
+    },
+    "m49": {
+      "numeric_code": 686,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 11,
+        "name": "Western Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "CFA Franc BCEAO",
+      "numeric_code": 952,
+      "alphabetic_code": "XOF"
+    }
+  },
+  {
+    "id": 89,
+    "original_name": "Kyrgyzstan",
+    "original_symbol": "KGZ",
+    "long_name": "Kyrgyzstan",
+    "short_name": "Kyrgyzstan",
+    "abbreviation": "KGZ",
+    "names": {
+      "cldr": "Kyrgyzstan",
+      "official": "Kyrgyzstan",
+      "unterm_formal": "the Kyrgyz Republic",
+      "unterm_short": "Kyrgyzstan"
+    },
+    "iso_3166_1": {
+      "alpha2": "KG",
+      "alpha3": "KGZ",
+      "numeric_code": 417
+    },
+    "m49": {
+      "numeric_code": 417,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 143,
+        "name": "Central Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Som",
+      "numeric_code": 417,
+      "alphabetic_code": "KGS"
+    }
+  },
+  {
+    "id": 90,
+    "original_name": "Belarus",
+    "original_symbol": "BLR",
+    "long_name": "Belarus",
+    "short_name": "Belarus",
+    "abbreviation": "BLR",
+    "names": {
+      "cldr": "Belarus",
+      "official": "Belarus",
+      "unterm_formal": "the Republic of Belarus",
+      "unterm_short": "Belarus"
+    },
+    "iso_3166_1": {
+      "alpha2": "BY",
+      "alpha3": "BLR",
+      "numeric_code": 112
+    },
+    "m49": {
+      "numeric_code": 112,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 151,
+        "name": "Eastern Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Belarusian Ruble",
+      "numeric_code": 933,
+      "alphabetic_code": "BYN"
+    }
+  },
+  {
+    "id": 91,
+    "original_name": "Guyana",
+    "original_symbol": "GUY",
+    "long_name": "Guyana",
+    "short_name": "Guyana",
+    "abbreviation": "GUY",
+    "names": {
+      "cldr": "Guyana",
+      "official": "Guyana",
+      "unterm_formal": "the Republic of Guyana",
+      "unterm_short": "Guyana"
+    },
+    "iso_3166_1": {
+      "alpha2": "GY",
+      "alpha3": "GUY",
+      "numeric_code": 328
+    },
+    "m49": {
+      "numeric_code": 328,
+      "region": {
+        "numeric_code": 19,
+        "name": "Americas"
+      },
+      "subregion": {
+        "numeric_code": 419,
+        "name": "Latin America and the Caribbean"
+      },
+      "intermediate_region": {
+        "numeric_code": 5,
+        "name": "South America"
+      }
+    },
+    "iso_4217": {
+      "name": "Guyana Dollar",
+      "numeric_code": 328,
+      "alphabetic_code": "GYD"
+    }
+  },
+  {
+    "id": 92,
+    "original_name": "Laos",
+    "original_symbol": "LAO",
+    "long_name": "Lao People's Democratic Republic",
+    "short_name": "Laos",
+    "abbreviation": "LAO",
+    "names": {
+      "cldr": "Laos",
+      "official": "Lao People's Democratic Republic",
+      "unterm_formal": "the Lao People's Democratic Republic",
+      "unterm_short": "Lao People's Democratic Republic (the)"
+    },
+    "iso_3166_1": {
+      "alpha2": "LA",
+      "alpha3": "LAO",
+      "numeric_code": 418
+    },
+    "m49": {
+      "numeric_code": 418,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 35,
+        "name": "South-eastern Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Lao Kip",
+      "numeric_code": 418,
+      "alphabetic_code": "LAK"
+    }
+  },
+  {
+    "id": 93,
+    "original_name": "Romania",
+    "original_symbol": "ROU",
+    "long_name": "Romania",
+    "short_name": "Romania",
+    "abbreviation": "ROU",
+    "names": {
+      "cldr": "Romania",
+      "official": "Romania",
+      "unterm_formal": "Romania",
+      "unterm_short": "Romania"
+    },
+    "iso_3166_1": {
+      "alpha2": "RO",
+      "alpha3": "ROU",
+      "numeric_code": 642
+    },
+    "m49": {
+      "numeric_code": 642,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 151,
+        "name": "Eastern Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Romanian Leu",
+      "numeric_code": 946,
+      "alphabetic_code": "RON"
+    }
+  },
+  {
+    "id": 94,
+    "original_name": "Ghana",
+    "original_symbol": "GHA",
+    "long_name": "Ghana",
+    "short_name": "Ghana",
+    "abbreviation": "GHA",
+    "names": {
+      "cldr": "Ghana",
+      "official": "Ghana",
+      "unterm_formal": "the Republic of Ghana",
+      "unterm_short": "Ghana"
+    },
+    "iso_3166_1": {
+      "alpha2": "GH",
+      "alpha3": "GHA",
+      "numeric_code": 288
+    },
+    "m49": {
+      "numeric_code": 288,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 11,
+        "name": "Western Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "Ghana Cedi",
+      "numeric_code": 936,
+      "alphabetic_code": "GHS"
+    }
+  },
+  {
+    "id": 95,
+    "original_name": "Uganda",
+    "original_symbol": "UGA",
+    "long_name": "Uganda",
+    "short_name": "Uganda",
+    "abbreviation": "UGA",
+    "names": {
+      "cldr": "Uganda",
+      "official": "Uganda",
+      "unterm_formal": "the Republic of Uganda",
+      "unterm_short": "Uganda"
+    },
+    "iso_3166_1": {
+      "alpha2": "UG",
+      "alpha3": "UGA",
+      "numeric_code": 800
+    },
+    "m49": {
+      "numeric_code": 800,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 14,
+        "name": "Eastern Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "Uganda Shilling",
+      "numeric_code": 800,
+      "alphabetic_code": "UGX"
+    }
+  },
+  {
+    "id": 96,
+    "original_name": "United Kingdom",
+    "original_symbol": "GBR",
+    "long_name": "United Kingdom of Great Britain and Northern Ireland",
+    "short_name": "UK",
+    "abbreviation": "GBR",
+    "names": {
+      "cldr": "UK",
+      "official": "United Kingdom of Great Britain and Northern Ireland",
+      "unterm_formal": "the United Kingdom of Great Britain and Northern Ireland",
+      "unterm_short": "United Kingdom of Great Britain and Northern Ireland (the)"
+    },
+    "iso_3166_1": {
+      "alpha2": "GB",
+      "alpha3": "GBR",
+      "numeric_code": 826
+    },
+    "m49": {
+      "numeric_code": 826,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 154,
+        "name": "Northern Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Pound Sterling",
+      "numeric_code": 826,
+      "alphabetic_code": "GBP"
+    }
+  },
+  {
+    "id": 97,
+    "original_name": "Guinea",
+    "original_symbol": "GIN",
+    "long_name": "Guinea",
+    "short_name": "Guinea",
+    "abbreviation": "GIN",
+    "names": {
+      "cldr": "Guinea",
+      "official": "Guinea",
+      "unterm_formal": "the Republic of Guinea",
+      "unterm_short": "Guinea"
+    },
+    "iso_3166_1": {
+      "alpha2": "GN",
+      "alpha3": "GIN",
+      "numeric_code": 324
+    },
+    "m49": {
+      "numeric_code": 324,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 11,
+        "name": "Western Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "Guinean Franc",
+      "numeric_code": 324,
+      "alphabetic_code": "GNF"
+    }
+  },
+  {
+    "id": 98,
+    "original_name": "Western Sahara",
+    "original_symbol": "ESH",
+    "long_name": "Western Sahara",
+    "short_name": "Western Sahara",
+    "abbreviation": "ESH",
+    "names": {
+      "cldr": "Western Sahara",
+      "official": "Western Sahara",
+      "unterm_formal": null,
+      "unterm_short": null
+    },
+    "iso_3166_1": {
+      "alpha2": "EH",
+      "alpha3": "ESH",
+      "numeric_code": 732
+    },
+    "m49": {
+      "numeric_code": 732,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 15,
+        "name": "Northern Africa"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Moroccan Dirham",
+      "numeric_code": 504,
+      "alphabetic_code": "MAD"
+    }
+  },
+  {
+    "id": 99,
+    "original_name": "Gabon",
+    "original_symbol": "GAB",
+    "long_name": "Gabon",
+    "short_name": "Gabon",
+    "abbreviation": "GAB",
+    "names": {
+      "cldr": "Gabon",
+      "official": "Gabon",
+      "unterm_formal": "the Gabonese Republic",
+      "unterm_short": "Gabon"
+    },
+    "iso_3166_1": {
+      "alpha2": "GA",
+      "alpha3": "GAB",
+      "numeric_code": 266
+    },
+    "m49": {
+      "numeric_code": 266,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 17,
+        "name": "Middle Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "CFA Franc BEAC",
+      "numeric_code": 950,
+      "alphabetic_code": "XAF"
+    }
+  },
+  {
+    "id": 100,
+    "original_name": "New Zealand",
+    "original_symbol": "NZL",
+    "long_name": "New Zealand",
+    "short_name": "New Zealand",
+    "abbreviation": "NZL",
+    "names": {
+      "cldr": "New Zealand",
+      "official": "New Zealand",
+      "unterm_formal": "New Zealand",
+      "unterm_short": "New Zealand"
+    },
+    "iso_3166_1": {
+      "alpha2": "NZ",
+      "alpha3": "NZL",
+      "numeric_code": 554
+    },
+    "m49": {
+      "numeric_code": 554,
+      "region": {
+        "numeric_code": 9,
+        "name": "Oceania"
+      },
+      "subregion": {
+        "numeric_code": 53,
+        "name": "Australia and New Zealand"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "New Zealand Dollar",
+      "numeric_code": 554,
+      "alphabetic_code": "NZD"
+    }
+  },
+  {
+    "id": 101,
+    "original_name": "Burkina Faso",
+    "original_symbol": "BFA",
+    "long_name": "Burkina Faso",
+    "short_name": "Burkina Faso",
+    "abbreviation": "BFA",
+    "names": {
+      "cldr": "Burkina Faso",
+      "official": "Burkina Faso",
+      "unterm_formal": "Burkina Faso",
+      "unterm_short": "Burkina Faso"
+    },
+    "iso_3166_1": {
+      "alpha2": "BF",
+      "alpha3": "BFA",
+      "numeric_code": 854
+    },
+    "m49": {
+      "numeric_code": 854,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 11,
+        "name": "Western Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "CFA Franc BCEAO",
+      "numeric_code": 952,
+      "alphabetic_code": "XOF"
+    }
+  },
+  {
+    "id": 102,
+    "original_name": "Ecuador",
+    "original_symbol": "ECU",
+    "long_name": "Ecuador",
+    "short_name": "Ecuador",
+    "abbreviation": "ECU",
+    "names": {
+      "cldr": "Ecuador",
+      "official": "Ecuador",
+      "unterm_formal": "the Republic of Ecuador",
+      "unterm_short": "Ecuador"
+    },
+    "iso_3166_1": {
+      "alpha2": "EC",
+      "alpha3": "ECU",
+      "numeric_code": 218
+    },
+    "m49": {
+      "numeric_code": 218,
+      "region": {
+        "numeric_code": 19,
+        "name": "Americas"
+      },
+      "subregion": {
+        "numeric_code": 419,
+        "name": "Latin America and the Caribbean"
+      },
+      "intermediate_region": {
+        "numeric_code": 5,
+        "name": "South America"
+      }
+    },
+    "iso_4217": {
+      "name": "US Dollar",
+      "numeric_code": 840,
+      "alphabetic_code": "USD"
+    }
+  },
+  {
+    "id": 103,
+    "original_name": "Italy",
+    "original_symbol": "ITA",
+    "long_name": "Italy",
+    "short_name": "Italy",
+    "abbreviation": "ITA",
+    "names": {
+      "cldr": "Italy",
+      "official": "Italy",
+      "unterm_formal": "the Republic of Italy",
+      "unterm_short": "Italy"
+    },
+    "iso_3166_1": {
+      "alpha2": "IT",
+      "alpha3": "ITA",
+      "numeric_code": 380
+    },
+    "m49": {
+      "numeric_code": 380,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 39,
+        "name": "Southern Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Euro",
+      "numeric_code": 978,
+      "alphabetic_code": "EUR"
+    }
+  },
+  {
+    "id": 104,
+    "original_name": "Oman",
+    "original_symbol": "OMN",
+    "long_name": "Oman",
+    "short_name": "Oman",
+    "abbreviation": "OMN",
+    "names": {
+      "cldr": "Oman",
+      "official": "Oman",
+      "unterm_formal": "the Sultanate of Oman",
+      "unterm_short": "Oman"
+    },
+    "iso_3166_1": {
+      "alpha2": "OM",
+      "alpha3": "OMN",
+      "numeric_code": 512
+    },
+    "m49": {
+      "numeric_code": 512,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 145,
+        "name": "Western Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Rial Omani",
+      "numeric_code": 512,
+      "alphabetic_code": "OMR"
+    }
+  },
+  {
+    "id": 105,
+    "original_name": "Poland",
+    "original_symbol": "POL",
+    "long_name": "Poland",
+    "short_name": "Poland",
+    "abbreviation": "POL",
+    "names": {
+      "cldr": "Poland",
+      "official": "Poland",
+      "unterm_formal": "the Republic of Poland",
+      "unterm_short": "Poland"
+    },
+    "iso_3166_1": {
+      "alpha2": "PL",
+      "alpha3": "POL",
+      "numeric_code": 616
+    },
+    "m49": {
+      "numeric_code": 616,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 151,
+        "name": "Eastern Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Zloty",
+      "numeric_code": 985,
+      "alphabetic_code": "PLN"
+    }
+  },
+  {
+    "id": 106,
+    "original_name": "Ivory Coast",
+    "original_symbol": "CIV",
+    "long_name": "Côte d'Ivoire",
+    "short_name": "Côte d’Ivoire",
+    "abbreviation": "CIV",
+    "names": {
+      "cldr": "Côte d’Ivoire",
+      "official": "Côte d'Ivoire",
+      "unterm_formal": "the Republic of Côte d'Ivoire",
+      "unterm_short": "Côte d'Ivoire"
+    },
+    "iso_3166_1": {
+      "alpha2": "CI",
+      "alpha3": "CIV",
+      "numeric_code": 384
+    },
+    "m49": {
+      "numeric_code": 384,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 11,
+        "name": "Western Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "CFA Franc BCEAO",
+      "numeric_code": 952,
+      "alphabetic_code": "XOF"
+    }
+  },
+  {
+    "id": 107,
+    "original_name": "Norway",
+    "original_symbol": "NOR",
+    "long_name": "Norway",
+    "short_name": "Norway",
+    "abbreviation": "NOR",
+    "names": {
+      "cldr": "Norway",
+      "official": "Norway",
+      "unterm_formal": "the Kingdom of Norway",
+      "unterm_short": "Norway"
+    },
+    "iso_3166_1": {
+      "alpha2": "NO",
+      "alpha3": "NOR",
+      "numeric_code": 578
+    },
+    "m49": {
+      "numeric_code": 578,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 154,
+        "name": "Northern Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Norwegian Krone",
+      "numeric_code": 578,
+      "alphabetic_code": "NOK"
+    }
+  },
+  {
+    "id": 108,
+    "original_name": "Malaysia",
+    "original_symbol": "MYS",
+    "long_name": "Malaysia",
+    "short_name": "Malaysia",
+    "abbreviation": "MYS",
+    "names": {
+      "cldr": "Malaysia",
+      "official": "Malaysia",
+      "unterm_formal": "Malaysia",
+      "unterm_short": "Malaysia"
+    },
+    "iso_3166_1": {
+      "alpha2": "MY",
+      "alpha3": "MYS",
+      "numeric_code": 458
+    },
+    "m49": {
+      "numeric_code": 458,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 35,
+        "name": "South-eastern Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Malaysian Ringgit",
+      "numeric_code": 458,
+      "alphabetic_code": "MYR"
+    }
+  },
+  {
+    "id": 109,
+    "original_name": "Vietnam",
+    "original_symbol": "VNM",
+    "long_name": "Viet Nam",
+    "short_name": "Vietnam",
+    "abbreviation": "VNM",
+    "names": {
+      "cldr": "Vietnam",
+      "official": "Viet Nam",
+      "unterm_formal": "the Socialist Republic of Viet Nam",
+      "unterm_short": "Viet Nam"
+    },
+    "iso_3166_1": {
+      "alpha2": "VN",
+      "alpha3": "VNM",
+      "numeric_code": 704
+    },
+    "m49": {
+      "numeric_code": 704,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 35,
+        "name": "South-eastern Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Dong",
+      "numeric_code": 704,
+      "alphabetic_code": "VND"
+    }
+  },
+  {
+    "id": 110,
+    "original_name": "Finland",
+    "original_symbol": "FIN",
+    "long_name": "Finland",
+    "short_name": "Finland",
+    "abbreviation": "FIN",
+    "names": {
+      "cldr": "Finland",
+      "official": "Finland",
+      "unterm_formal": "the Republic of Finland",
+      "unterm_short": "Finland"
+    },
+    "iso_3166_1": {
+      "alpha2": "FI",
+      "alpha3": "FIN",
+      "numeric_code": 246
+    },
+    "m49": {
+      "numeric_code": 246,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 154,
+        "name": "Northern Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Euro",
+      "numeric_code": 978,
+      "alphabetic_code": "EUR"
+    }
+  },
+  {
+    "id": 111,
+    "original_name": "Republic of the Congo",
+    "original_symbol": "COG",
+    "long_name": "Congo",
+    "short_name": "Congo - Brazzaville",
+    "abbreviation": "COG",
+    "names": {
+      "cldr": "Congo - Brazzaville",
+      "official": "Congo",
+      "unterm_formal": "the Republic of the Congo",
+      "unterm_short": "Congo (the)"
+    },
+    "iso_3166_1": {
+      "alpha2": "CG",
+      "alpha3": "COG",
+      "numeric_code": 178
+    },
+    "m49": {
+      "numeric_code": 178,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 17,
+        "name": "Middle Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "CFA Franc BEAC",
+      "numeric_code": 950,
+      "alphabetic_code": "XAF"
+    }
+  },
+  {
+    "id": 112,
+    "original_name": "Philippines",
+    "original_symbol": "PHL",
+    "long_name": "Philippines",
+    "short_name": "Philippines",
+    "abbreviation": "PHL",
+    "names": {
+      "cldr": "Philippines",
+      "official": "Philippines",
+      "unterm_formal": "the Republic of the Philippines",
+      "unterm_short": "Philippines (the)"
+    },
+    "iso_3166_1": {
+      "alpha2": "PH",
+      "alpha3": "PHL",
+      "numeric_code": 608
+    },
+    "m49": {
+      "numeric_code": 608,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 35,
+        "name": "South-eastern Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Philippine Peso",
+      "numeric_code": 608,
+      "alphabetic_code": "PHP"
+    }
+  },
+  {
+    "id": 113,
+    "original_name": "Germany",
+    "original_symbol": "DEU",
+    "long_name": "Germany",
+    "short_name": "Germany",
+    "abbreviation": "DEU",
+    "names": {
+      "cldr": "Germany",
+      "official": "Germany",
+      "unterm_formal": "the Federal Republic of Germany",
+      "unterm_short": "Germany"
+    },
+    "iso_3166_1": {
+      "alpha2": "DE",
+      "alpha3": "DEU",
+      "numeric_code": 276
+    },
+    "m49": {
+      "numeric_code": 276,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 155,
+        "name": "Western Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Euro",
+      "numeric_code": 978,
+      "alphabetic_code": "EUR"
+    }
+  },
+  {
+    "id": 114,
+    "original_name": "Japan",
+    "original_symbol": "JPN",
+    "long_name": "Japan",
+    "short_name": "Japan",
+    "abbreviation": "JPN",
+    "names": {
+      "cldr": "Japan",
+      "official": "Japan",
+      "unterm_formal": "Japan",
+      "unterm_short": "Japan"
+    },
+    "iso_3166_1": {
+      "alpha2": "JP",
+      "alpha3": "JPN",
+      "numeric_code": 392
+    },
+    "m49": {
+      "numeric_code": 392,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 30,
+        "name": "Eastern Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Yen",
+      "numeric_code": 392,
+      "alphabetic_code": "JPY"
+    }
+  },
+  {
+    "id": 115,
+    "original_name": "West Bank",
+    "original_symbol": "PSE",
+    "long_name": "State of Palestine",
+    "short_name": "Palestine",
+    "abbreviation": "PSE",
+    "names": {
+      "cldr": "Palestine",
+      "official": "State of Palestine",
+      "unterm_formal": "State of Palestine",
+      "unterm_short": "State of Palestine  *"
+    },
+    "iso_3166_1": {
+      "alpha2": "PS",
+      "alpha3": "PSE",
+      "numeric_code": 275
+    },
+    "m49": {
+      "numeric_code": 275,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 145,
+        "name": "Western Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": null
+  },
+  {
+    "id": 116,
+    "original_name": "Zimbabwe",
+    "original_symbol": "ZWE",
+    "long_name": "Zimbabwe",
+    "short_name": "Zimbabwe",
+    "abbreviation": "ZWE",
+    "names": {
+      "cldr": "Zimbabwe",
+      "official": "Zimbabwe",
+      "unterm_formal": "the Republic of Zimbabwe",
+      "unterm_short": "Zimbabwe"
+    },
+    "iso_3166_1": {
+      "alpha2": "ZW",
+      "alpha3": "ZWE",
+      "numeric_code": 716
+    },
+    "m49": {
+      "numeric_code": 716,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 14,
+        "name": "Eastern Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "Zimbabwe Dollar",
+      "numeric_code": 932,
+      "alphabetic_code": "ZWL"
+    }
+  },
+  {
+    "id": 117,
+    "original_name": "French Guiana",
+    "original_symbol": "GUF",
+    "long_name": "French Guiana",
+    "short_name": "French Guiana",
+    "abbreviation": "GUF",
+    "names": {
+      "cldr": "French Guiana",
+      "official": "French Guiana",
+      "unterm_formal": null,
+      "unterm_short": null
+    },
+    "iso_3166_1": {
+      "alpha2": "GF",
+      "alpha3": "GUF",
+      "numeric_code": 254
+    },
+    "m49": {
+      "numeric_code": 254,
+      "region": {
+        "numeric_code": 19,
+        "name": "Americas"
+      },
+      "subregion": {
+        "numeric_code": 419,
+        "name": "Latin America and the Caribbean"
+      },
+      "intermediate_region": {
+        "numeric_code": 5,
+        "name": "South America"
+      }
+    },
+    "iso_4217": {
+      "name": "Euro",
+      "numeric_code": 978,
+      "alphabetic_code": "EUR"
+    }
+  },
+  {
+    "id": 118,
+    "original_name": "Paraguay",
+    "original_symbol": "PRY",
+    "long_name": "Paraguay",
+    "short_name": "Paraguay",
+    "abbreviation": "PRY",
+    "names": {
+      "cldr": "Paraguay",
+      "official": "Paraguay",
+      "unterm_formal": "the Republic of Paraguay",
+      "unterm_short": "Paraguay"
+    },
+    "iso_3166_1": {
+      "alpha2": "PY",
+      "alpha3": "PRY",
+      "numeric_code": 600
+    },
+    "m49": {
+      "numeric_code": 600,
+      "region": {
+        "numeric_code": 19,
+        "name": "Americas"
+      },
+      "subregion": {
+        "numeric_code": 419,
+        "name": "Latin America and the Caribbean"
+      },
+      "intermediate_region": {
+        "numeric_code": 5,
+        "name": "South America"
+      }
+    },
+    "iso_4217": {
+      "name": "Guarani",
+      "numeric_code": 600,
+      "alphabetic_code": "PYG"
+    }
+  },
+  {
+    "id": 119,
+    "original_name": "Iraq",
+    "original_symbol": "IRQ",
+    "long_name": "Iraq",
+    "short_name": "Iraq",
+    "abbreviation": "IRQ",
+    "names": {
+      "cldr": "Iraq",
+      "official": "Iraq",
+      "unterm_formal": "the Republic of Iraq",
+      "unterm_short": "Iraq"
+    },
+    "iso_3166_1": {
+      "alpha2": "IQ",
+      "alpha3": "IRQ",
+      "numeric_code": 368
+    },
+    "m49": {
+      "numeric_code": 368,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 145,
+        "name": "Western Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Iraqi Dinar",
+      "numeric_code": 368,
+      "alphabetic_code": "IQD"
+    }
+  },
+  {
+    "id": 120,
+    "original_name": "Morocco",
+    "original_symbol": "MAR",
+    "long_name": "Morocco",
+    "short_name": "Morocco",
+    "abbreviation": "MAR",
+    "names": {
+      "cldr": "Morocco",
+      "official": "Morocco",
+      "unterm_formal": "the Kingdom of Morocco",
+      "unterm_short": "Morocco"
+    },
+    "iso_3166_1": {
+      "alpha2": "MA",
+      "alpha3": "MAR",
+      "numeric_code": 504
+    },
+    "m49": {
+      "numeric_code": 504,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 15,
+        "name": "Northern Africa"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Moroccan Dirham",
+      "numeric_code": 504,
+      "alphabetic_code": "MAD"
+    }
+  },
+  {
+    "id": 121,
+    "original_name": "Uzbekistan",
+    "original_symbol": "UZB",
+    "long_name": "Uzbekistan",
+    "short_name": "Uzbekistan",
+    "abbreviation": "UZB",
+    "names": {
+      "cldr": "Uzbekistan",
+      "official": "Uzbekistan",
+      "unterm_formal": "the Republic of Uzbekistan",
+      "unterm_short": "Uzbekistan"
+    },
+    "iso_3166_1": {
+      "alpha2": "UZ",
+      "alpha3": "UZB",
+      "numeric_code": 860
+    },
+    "m49": {
+      "numeric_code": 860,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 143,
+        "name": "Central Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Uzbekistan Sum",
+      "numeric_code": 860,
+      "alphabetic_code": "UZS"
+    }
+  },
+  {
+    "id": 122,
+    "original_name": "Sweden",
+    "original_symbol": "SWE",
+    "long_name": "Sweden",
+    "short_name": "Sweden",
+    "abbreviation": "SWE",
+    "names": {
+      "cldr": "Sweden",
+      "official": "Sweden",
+      "unterm_formal": "the Kingdom of Sweden",
+      "unterm_short": "Sweden"
+    },
+    "iso_3166_1": {
+      "alpha2": "SE",
+      "alpha3": "SWE",
+      "numeric_code": 752
+    },
+    "m49": {
+      "numeric_code": 752,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 154,
+        "name": "Northern Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Swedish Krona",
+      "numeric_code": 752,
+      "alphabetic_code": "SEK"
+    }
+  },
+  {
+    "id": 123,
+    "original_name": "Papua New Guinea",
+    "original_symbol": "PNG",
+    "long_name": "Papua New Guinea",
+    "short_name": "Papua New Guinea",
+    "abbreviation": "PNG",
+    "names": {
+      "cldr": "Papua New Guinea",
+      "official": "Papua New Guinea",
+      "unterm_formal": "Independent State of Papua New Guinea",
+      "unterm_short": "Papua New Guinea"
+    },
+    "iso_3166_1": {
+      "alpha2": "PG",
+      "alpha3": "PNG",
+      "numeric_code": 598
+    },
+    "m49": {
+      "numeric_code": 598,
+      "region": {
+        "numeric_code": 9,
+        "name": "Oceania"
+      },
+      "subregion": {
+        "numeric_code": 54,
+        "name": "Melanesia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Kina",
+      "numeric_code": 598,
+      "alphabetic_code": "PGK"
+    }
+  },
+  {
+    "id": 124,
+    "original_name": "Cameroon",
+    "original_symbol": "CMR",
+    "long_name": "Cameroon",
+    "short_name": "Cameroon",
+    "abbreviation": "CMR",
+    "names": {
+      "cldr": "Cameroon",
+      "official": "Cameroon",
+      "unterm_formal": "the Republic of Cameroon",
+      "unterm_short": "Cameroon"
+    },
+    "iso_3166_1": {
+      "alpha2": "CM",
+      "alpha3": "CMR",
+      "numeric_code": 120
+    },
+    "m49": {
+      "numeric_code": 120,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 17,
+        "name": "Middle Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "CFA Franc BEAC",
+      "numeric_code": 950,
+      "alphabetic_code": "XAF"
+    }
+  },
+  {
+    "id": 125,
+    "original_name": "Turkmenistan",
+    "original_symbol": "TKM",
+    "long_name": "Turkmenistan",
+    "short_name": "Turkmenistan",
+    "abbreviation": "TKM",
+    "names": {
+      "cldr": "Turkmenistan",
+      "official": "Turkmenistan",
+      "unterm_formal": "Turkmenistan",
+      "unterm_short": "Turkmenistan"
+    },
+    "iso_3166_1": {
+      "alpha2": "TM",
+      "alpha3": "TKM",
+      "numeric_code": 795
+    },
+    "m49": {
+      "numeric_code": 795,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 143,
+        "name": "Central Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Turkmenistan New Manat",
+      "numeric_code": 934,
+      "alphabetic_code": "TMT"
+    }
+  },
+  {
+    "id": 126,
+    "original_name": "Spain",
+    "original_symbol": "ESP",
+    "long_name": "Spain",
+    "short_name": "Spain",
+    "abbreviation": "ESP",
+    "names": {
+      "cldr": "Spain",
+      "official": "Spain",
+      "unterm_formal": "the Kingdom of Spain",
+      "unterm_short": "Spain"
+    },
+    "iso_3166_1": {
+      "alpha2": "ES",
+      "alpha3": "ESP",
+      "numeric_code": 724
+    },
+    "m49": {
+      "numeric_code": 724,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 39,
+        "name": "Southern Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Euro",
+      "numeric_code": 978,
+      "alphabetic_code": "EUR"
+    }
+  },
+  {
+    "id": 127,
+    "original_name": "Thailand",
+    "original_symbol": "THA",
+    "long_name": "Thailand",
+    "short_name": "Thailand",
+    "abbreviation": "THA",
+    "names": {
+      "cldr": "Thailand",
+      "official": "Thailand",
+      "unterm_formal": "the Kingdom of Thailand",
+      "unterm_short": "Thailand"
+    },
+    "iso_3166_1": {
+      "alpha2": "TH",
+      "alpha3": "THA",
+      "numeric_code": 764
+    },
+    "m49": {
+      "numeric_code": 764,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 35,
+        "name": "South-eastern Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Baht",
+      "numeric_code": 764,
+      "alphabetic_code": "THB"
+    }
+  },
+  {
+    "id": 128,
+    "original_name": "Yemen",
+    "original_symbol": "YEM",
+    "long_name": "Yemen",
+    "short_name": "Yemen",
+    "abbreviation": "YEM",
+    "names": {
+      "cldr": "Yemen",
+      "official": "Yemen",
+      "unterm_formal": "the Republic of Yemen",
+      "unterm_short": "Yemen"
+    },
+    "iso_3166_1": {
+      "alpha2": "YE",
+      "alpha3": "YEM",
+      "numeric_code": 887
+    },
+    "m49": {
+      "numeric_code": 887,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 145,
+        "name": "Western Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Yemeni Rial",
+      "numeric_code": 886,
+      "alphabetic_code": "YER"
+    }
+  },
+  {
+    "id": 129,
+    "original_name": "Kenya",
+    "original_symbol": "KEN",
+    "long_name": "Kenya",
+    "short_name": "Kenya",
+    "abbreviation": "KEN",
+    "names": {
+      "cldr": "Kenya",
+      "official": "Kenya",
+      "unterm_formal": "the Republic of Kenya",
+      "unterm_short": "Kenya"
+    },
+    "iso_3166_1": {
+      "alpha2": "KE",
+      "alpha3": "KEN",
+      "numeric_code": 404
+    },
+    "m49": {
+      "numeric_code": 404,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 14,
+        "name": "Eastern Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "Kenyan Shilling",
+      "numeric_code": 404,
+      "alphabetic_code": "KES"
+    }
+  },
+  {
+    "id": 130,
+    "original_name": "Botswana",
+    "original_symbol": "BWA",
+    "long_name": "Botswana",
+    "short_name": "Botswana",
+    "abbreviation": "BWA",
+    "names": {
+      "cldr": "Botswana",
+      "official": "Botswana",
+      "unterm_formal": "the Republic of Botswana",
+      "unterm_short": "Botswana"
+    },
+    "iso_3166_1": {
+      "alpha2": "BW",
+      "alpha3": "BWA",
+      "numeric_code": 72
+    },
+    "m49": {
+      "numeric_code": 72,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 18,
+        "name": "Southern Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "Pula",
+      "numeric_code": 72,
+      "alphabetic_code": "BWP"
+    }
+  },
+  {
+    "id": 131,
+    "original_name": "Madagascar",
+    "original_symbol": "MDG",
+    "long_name": "Madagascar",
+    "short_name": "Madagascar",
+    "abbreviation": "MDG",
+    "names": {
+      "cldr": "Madagascar",
+      "official": "Madagascar",
+      "unterm_formal": "the Republic of Madagascar",
+      "unterm_short": "Madagascar"
+    },
+    "iso_3166_1": {
+      "alpha2": "MG",
+      "alpha3": "MDG",
+      "numeric_code": 450
+    },
+    "m49": {
+      "numeric_code": 450,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 14,
+        "name": "Eastern Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "Malagasy Ariary",
+      "numeric_code": 969,
+      "alphabetic_code": "MGA"
+    }
+  },
+  {
+    "id": 132,
+    "original_name": "Ukraine",
+    "original_symbol": "UKR",
+    "long_name": "Ukraine",
+    "short_name": "Ukraine",
+    "abbreviation": "UKR",
+    "names": {
+      "cldr": "Ukraine",
+      "official": "Ukraine",
+      "unterm_formal": "Ukraine",
+      "unterm_short": "Ukraine"
+    },
+    "iso_3166_1": {
+      "alpha2": "UA",
+      "alpha3": "UKR",
+      "numeric_code": 804
+    },
+    "m49": {
+      "numeric_code": 804,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 151,
+        "name": "Eastern Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Hryvnia",
+      "numeric_code": 980,
+      "alphabetic_code": "UAH"
+    }
+  },
+  {
+    "id": 133,
+    "original_name": "South Sudan",
+    "original_symbol": "SSD",
+    "long_name": "South Sudan",
+    "short_name": "South Sudan",
+    "abbreviation": "SSD",
+    "names": {
+      "cldr": "South Sudan",
+      "official": "South Sudan",
+      "unterm_formal": "the Republic of South Sudan",
+      "unterm_short": "South Sudan"
+    },
+    "iso_3166_1": {
+      "alpha2": "SS",
+      "alpha3": "SSD",
+      "numeric_code": 728
+    },
+    "m49": {
+      "numeric_code": 728,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 14,
+        "name": "Eastern Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "South Sudanese Pound",
+      "numeric_code": 728,
+      "alphabetic_code": "SSP"
+    }
+  },
+  {
+    "id": 134,
+    "original_name": "Central African Republic",
+    "original_symbol": "CAF",
+    "long_name": "Central African Republic",
+    "short_name": "Central African Republic",
+    "abbreviation": "CAF",
+    "names": {
+      "cldr": "Central African Republic",
+      "official": "Central African Republic",
+      "unterm_formal": "the Central African Republic",
+      "unterm_short": "Central African Republic (the)"
+    },
+    "iso_3166_1": {
+      "alpha2": "CF",
+      "alpha3": "CAF",
+      "numeric_code": 140
+    },
+    "m49": {
+      "numeric_code": 140,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 17,
+        "name": "Middle Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "CFA Franc BEAC",
+      "numeric_code": 950,
+      "alphabetic_code": "XAF"
+    }
+  },
+  {
+    "id": 135,
+    "original_name": "Somalia",
+    "original_symbol": "SOM",
+    "long_name": "Somalia",
+    "short_name": "Somalia",
+    "abbreviation": "SOM",
+    "names": {
+      "cldr": "Somalia",
+      "official": "Somalia",
+      "unterm_formal": "the Federal Republic of Somalia",
+      "unterm_short": "Somalia"
+    },
+    "iso_3166_1": {
+      "alpha2": "SO",
+      "alpha3": "SOM",
+      "numeric_code": 706
+    },
+    "m49": {
+      "numeric_code": 706,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 14,
+        "name": "Eastern Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "Somali Shilling",
+      "numeric_code": 706,
+      "alphabetic_code": "SOS"
+    }
+  },
+  {
+    "id": 136,
+    "original_name": "France",
+    "original_symbol": "FRA",
+    "long_name": "France",
+    "short_name": "France",
+    "abbreviation": "FRA",
+    "names": {
+      "cldr": "France",
+      "official": "France",
+      "unterm_formal": "the French Republic",
+      "unterm_short": "France"
+    },
+    "iso_3166_1": {
+      "alpha2": "FR",
+      "alpha3": "FRA",
+      "numeric_code": 250
+    },
+    "m49": {
+      "numeric_code": 250,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 155,
+        "name": "Western Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Euro",
+      "numeric_code": 978,
+      "alphabetic_code": "EUR"
+    }
+  },
+  {
+    "id": 137,
+    "original_name": "Afghanistan",
+    "original_symbol": "AFG",
+    "long_name": "Afghanistan",
+    "short_name": "Afghanistan",
+    "abbreviation": "AFG",
+    "names": {
+      "cldr": "Afghanistan",
+      "official": "Afghanistan",
+      "unterm_formal": "the Islamic Republic of Afghanistan",
+      "unterm_short": "Afghanistan"
+    },
+    "iso_3166_1": {
+      "alpha2": "AF",
+      "alpha3": "AFG",
+      "numeric_code": 4
+    },
+    "m49": {
+      "numeric_code": 4,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 34,
+        "name": "Southern Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Afghani",
+      "numeric_code": 971,
+      "alphabetic_code": "AFN"
+    }
+  },
+  {
+    "id": 138,
+    "original_name": "Myanmar",
+    "original_symbol": "MMR",
+    "long_name": "Myanmar",
+    "short_name": "Myanmar",
+    "abbreviation": "MMR",
+    "names": {
+      "cldr": "Myanmar",
+      "official": "Myanmar",
+      "unterm_formal": "the Republic of the Union of Myanmar",
+      "unterm_short": "Myanmar"
+    },
+    "iso_3166_1": {
+      "alpha2": "MM",
+      "alpha3": "MMR",
+      "numeric_code": 104
+    },
+    "m49": {
+      "numeric_code": 104,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 35,
+        "name": "South-eastern Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Kyat",
+      "numeric_code": 104,
+      "alphabetic_code": "MMK"
+    }
+  },
+  {
+    "id": 139,
+    "original_name": "Zambia",
+    "original_symbol": "ZMB",
+    "long_name": "Zambia",
+    "short_name": "Zambia",
+    "abbreviation": "ZMB",
+    "names": {
+      "cldr": "Zambia",
+      "official": "Zambia",
+      "unterm_formal": "the Republic of Zambia",
+      "unterm_short": "Zambia"
+    },
+    "iso_3166_1": {
+      "alpha2": "ZM",
+      "alpha3": "ZMB",
+      "numeric_code": 894
+    },
+    "m49": {
+      "numeric_code": 894,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 14,
+        "name": "Eastern Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "Zambian Kwacha",
+      "numeric_code": 967,
+      "alphabetic_code": "ZMW"
+    }
+  },
+  {
+    "id": 140,
+    "original_name": "Chile",
+    "original_symbol": "CHL",
+    "long_name": "Chile",
+    "short_name": "Chile",
+    "abbreviation": "CHL",
+    "names": {
+      "cldr": "Chile",
+      "official": "Chile",
+      "unterm_formal": "the Republic of Chile",
+      "unterm_short": "Chile"
+    },
+    "iso_3166_1": {
+      "alpha2": "CL",
+      "alpha3": "CHL",
+      "numeric_code": 152
+    },
+    "m49": {
+      "numeric_code": 152,
+      "region": {
+        "numeric_code": 19,
+        "name": "Americas"
+      },
+      "subregion": {
+        "numeric_code": 419,
+        "name": "Latin America and the Caribbean"
+      },
+      "intermediate_region": {
+        "numeric_code": 5,
+        "name": "South America"
+      }
+    },
+    "iso_4217": {
+      "name": "Chilean Peso",
+      "numeric_code": 152,
+      "alphabetic_code": "CLP"
+    }
+  },
+  {
+    "id": 141,
+    "original_name": "Turkey",
+    "original_symbol": "TUR",
+    "long_name": "Turkey",
+    "short_name": "Turkey",
+    "abbreviation": "TUR",
+    "names": {
+      "cldr": "Turkey",
+      "official": "Turkey",
+      "unterm_formal": "the Republic of Turkey",
+      "unterm_short": "Turkey"
+    },
+    "iso_3166_1": {
+      "alpha2": "TR",
+      "alpha3": "TUR",
+      "numeric_code": 792
+    },
+    "m49": {
+      "numeric_code": 792,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 145,
+        "name": "Western Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Turkish Lira",
+      "numeric_code": 949,
+      "alphabetic_code": "TRY"
+    }
+  },
+  {
+    "id": 142,
+    "original_name": "Mozambique",
+    "original_symbol": "MOZ",
+    "long_name": "Mozambique",
+    "short_name": "Mozambique",
+    "abbreviation": "MOZ",
+    "names": {
+      "cldr": "Mozambique",
+      "official": "Mozambique",
+      "unterm_formal": "the Republic of Mozambique",
+      "unterm_short": "Mozambique"
+    },
+    "iso_3166_1": {
+      "alpha2": "MZ",
+      "alpha3": "MOZ",
+      "numeric_code": 508
+    },
+    "m49": {
+      "numeric_code": 508,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 14,
+        "name": "Eastern Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "Mozambique Metical",
+      "numeric_code": 943,
+      "alphabetic_code": "MZN"
+    }
+  },
+  {
+    "id": 143,
+    "original_name": "Namibia",
+    "original_symbol": "NAM",
+    "long_name": "Namibia",
+    "short_name": "Namibia",
+    "abbreviation": "NAM",
+    "names": {
+      "cldr": "Namibia",
+      "official": "Namibia",
+      "unterm_formal": "the Republic of Namibia",
+      "unterm_short": "Namibia"
+    },
+    "iso_3166_1": {
+      "alpha2": "NA",
+      "alpha3": "NAM",
+      "numeric_code": 516
+    },
+    "m49": {
+      "numeric_code": 516,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 18,
+        "name": "Southern Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "Namibia Dollar,Rand",
+      "numeric_code": null,
+      "alphabetic_code": "NAD,ZAR"
+    }
+  },
+  {
+    "id": 144,
+    "original_name": "Pakistan",
+    "original_symbol": "PAK",
+    "long_name": "Pakistan",
+    "short_name": "Pakistan",
+    "abbreviation": "PAK",
+    "names": {
+      "cldr": "Pakistan",
+      "official": "Pakistan",
+      "unterm_formal": "the Islamic Republic of Pakistan",
+      "unterm_short": "Pakistan"
+    },
+    "iso_3166_1": {
+      "alpha2": "PK",
+      "alpha3": "PAK",
+      "numeric_code": 586
+    },
+    "m49": {
+      "numeric_code": 586,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 34,
+        "name": "Southern Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Pakistan Rupee",
+      "numeric_code": 586,
+      "alphabetic_code": "PKR"
+    }
+  },
+  {
+    "id": 145,
+    "original_name": "Venezuela",
+    "original_symbol": "VEN",
+    "long_name": "Venezuela (Bolivarian Republic of)",
+    "short_name": "Venezuela",
+    "abbreviation": "VEN",
+    "names": {
+      "cldr": "Venezuela",
+      "official": "Venezuela (Bolivarian Republic of)",
+      "unterm_formal": "the Bolivarian Republic of Venezuela",
+      "unterm_short": "Venezuela (Bolivarian Republic of)"
+    },
+    "iso_3166_1": {
+      "alpha2": "VE",
+      "alpha3": "VEN",
+      "numeric_code": 862
+    },
+    "m49": {
+      "numeric_code": 862,
+      "region": {
+        "numeric_code": 19,
+        "name": "Americas"
+      },
+      "subregion": {
+        "numeric_code": 419,
+        "name": "Latin America and the Caribbean"
+      },
+      "intermediate_region": {
+        "numeric_code": 5,
+        "name": "South America"
+      }
+    },
+    "iso_4217": {
+      "name": "Bolívar",
+      "numeric_code": 937,
+      "alphabetic_code": "VES"
+    }
+  },
+  {
+    "id": 146,
+    "original_name": "Nigeria",
+    "original_symbol": "NGA",
+    "long_name": "Nigeria",
+    "short_name": "Nigeria",
+    "abbreviation": "NGA",
+    "names": {
+      "cldr": "Nigeria",
+      "official": "Nigeria",
+      "unterm_formal": "the Federal Republic of Nigeria",
+      "unterm_short": "Nigeria"
+    },
+    "iso_3166_1": {
+      "alpha2": "NG",
+      "alpha3": "NGA",
+      "numeric_code": 566
+    },
+    "m49": {
+      "numeric_code": 566,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 11,
+        "name": "Western Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "Naira",
+      "numeric_code": 566,
+      "alphabetic_code": "NGN"
+    }
+  },
+  {
+    "id": 147,
+    "original_name": "United Republic of Tanzania",
+    "original_symbol": "TZA",
+    "long_name": "United Republic of Tanzania",
+    "short_name": "Tanzania",
+    "abbreviation": "TZA",
+    "names": {
+      "cldr": "Tanzania",
+      "official": "United Republic of Tanzania",
+      "unterm_formal": "the United Republic of Tanzania",
+      "unterm_short": "United Republic of Tanzania (the)"
+    },
+    "iso_3166_1": {
+      "alpha2": "TZ",
+      "alpha3": "TZA",
+      "numeric_code": 834
+    },
+    "m49": {
+      "numeric_code": 834,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 14,
+        "name": "Eastern Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "Tanzanian Shilling",
+      "numeric_code": 834,
+      "alphabetic_code": "TZS"
+    }
+  },
+  {
+    "id": 148,
+    "original_name": "Egypt",
+    "original_symbol": "EGY",
+    "long_name": "Egypt",
+    "short_name": "Egypt",
+    "abbreviation": "EGY",
+    "names": {
+      "cldr": "Egypt",
+      "official": "Egypt",
+      "unterm_formal": "the Arab Republic of Egypt",
+      "unterm_short": "Egypt"
+    },
+    "iso_3166_1": {
+      "alpha2": "EG",
+      "alpha3": "EGY",
+      "numeric_code": 818
+    },
+    "m49": {
+      "numeric_code": 818,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 15,
+        "name": "Northern Africa"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Egyptian Pound",
+      "numeric_code": 818,
+      "alphabetic_code": "EGP"
+    }
+  },
+  {
+    "id": 149,
+    "original_name": "Mauritania",
+    "original_symbol": "MRT",
+    "long_name": "Martinique",
+    "short_name": "Martinique",
+    "abbreviation": "MTQ",
+    "names": {
+      "cldr": "Martinique",
+      "official": "Martinique",
+      "unterm_formal": null,
+      "unterm_short": null
+    },
+    "iso_3166_1": {
+      "alpha2": "MQ",
+      "alpha3": "MTQ",
+      "numeric_code": 474
+    },
+    "m49": {
+      "numeric_code": 474,
+      "region": {
+        "numeric_code": 19,
+        "name": "Americas"
+      },
+      "subregion": {
+        "numeric_code": 419,
+        "name": "Latin America and the Caribbean"
+      },
+      "intermediate_region": {
+        "numeric_code": 29,
+        "name": "Caribbean"
+      }
+    },
+    "iso_4217": {
+      "name": "Euro",
+      "numeric_code": 978,
+      "alphabetic_code": "EUR"
+    }
+  },
+  {
+    "id": 150,
+    "original_name": "Bolivia",
+    "original_symbol": "BOL",
+    "long_name": "Bolivia (Plurinational State of)",
+    "short_name": "Bolivia",
+    "abbreviation": "BOL",
+    "names": {
+      "cldr": "Bolivia",
+      "official": "Bolivia (Plurinational State of)",
+      "unterm_formal": "the Plurinational State of Bolivia",
+      "unterm_short": "Bolivia (Plurinational State of)"
+    },
+    "iso_3166_1": {
+      "alpha2": "BO",
+      "alpha3": "BOL",
+      "numeric_code": 68
+    },
+    "m49": {
+      "numeric_code": 68,
+      "region": {
+        "numeric_code": 19,
+        "name": "Americas"
+      },
+      "subregion": {
+        "numeric_code": 419,
+        "name": "Latin America and the Caribbean"
+      },
+      "intermediate_region": {
+        "numeric_code": 5,
+        "name": "South America"
+      }
+    },
+    "iso_4217": {
+      "name": "Boliviano",
+      "numeric_code": 68,
+      "alphabetic_code": "BOB"
+    }
+  },
+  {
+    "id": 151,
+    "original_name": "Ethiopia",
+    "original_symbol": "ETH",
+    "long_name": "Ethiopia",
+    "short_name": "Ethiopia",
+    "abbreviation": "ETH",
+    "names": {
+      "cldr": "Ethiopia",
+      "official": "Ethiopia",
+      "unterm_formal": "the Federal Democratic Republic of Ethiopia",
+      "unterm_short": "Ethiopia"
+    },
+    "iso_3166_1": {
+      "alpha2": "ET",
+      "alpha3": "ETH",
+      "numeric_code": 231
+    },
+    "m49": {
+      "numeric_code": 231,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 14,
+        "name": "Eastern Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "Ethiopian Birr",
+      "numeric_code": 230,
+      "alphabetic_code": "ETB"
+    }
+  },
+  {
+    "id": 152,
+    "original_name": "Colombia",
+    "original_symbol": "COL",
+    "long_name": "Colombia",
+    "short_name": "Colombia",
+    "abbreviation": "COL",
+    "names": {
+      "cldr": "Colombia",
+      "official": "Colombia",
+      "unterm_formal": "the Republic of Colombia",
+      "unterm_short": "Colombia"
+    },
+    "iso_3166_1": {
+      "alpha2": "CO",
+      "alpha3": "COL",
+      "numeric_code": 170
+    },
+    "m49": {
+      "numeric_code": 170,
+      "region": {
+        "numeric_code": 19,
+        "name": "Americas"
+      },
+      "subregion": {
+        "numeric_code": 419,
+        "name": "Latin America and the Caribbean"
+      },
+      "intermediate_region": {
+        "numeric_code": 5,
+        "name": "South America"
+      }
+    },
+    "iso_4217": {
+      "name": "Colombian Peso",
+      "numeric_code": 170,
+      "alphabetic_code": "COP"
+    }
+  },
+  {
+    "id": 153,
+    "original_name": "South Africa",
+    "original_symbol": "ZAF",
+    "long_name": "South Africa",
+    "short_name": "South Africa",
+    "abbreviation": "ZAF",
+    "names": {
+      "cldr": "South Africa",
+      "official": "South Africa",
+      "unterm_formal": "the Republic of South Africa",
+      "unterm_short": "South Africa"
+    },
+    "iso_3166_1": {
+      "alpha2": "ZA",
+      "alpha3": "ZAF",
+      "numeric_code": 710
+    },
+    "m49": {
+      "numeric_code": 710,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 18,
+        "name": "Southern Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "Rand",
+      "numeric_code": 710,
+      "alphabetic_code": "ZAR"
+    }
+  },
+  {
+    "id": 154,
+    "original_name": "Mali",
+    "original_symbol": "MLI",
+    "long_name": "Mali",
+    "short_name": "Mali",
+    "abbreviation": "MLI",
+    "names": {
+      "cldr": "Mali",
+      "official": "Mali",
+      "unterm_formal": "the Republic of Mali",
+      "unterm_short": "Mali"
+    },
+    "iso_3166_1": {
+      "alpha2": "ML",
+      "alpha3": "MLI",
+      "numeric_code": 466
+    },
+    "m49": {
+      "numeric_code": 466,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 11,
+        "name": "Western Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "CFA Franc BCEAO",
+      "numeric_code": 952,
+      "alphabetic_code": "XOF"
+    }
+  },
+  {
+    "id": 155,
+    "original_name": "Angola",
+    "original_symbol": "AGO",
+    "long_name": "Angola",
+    "short_name": "Angola",
+    "abbreviation": "AGO",
+    "names": {
+      "cldr": "Angola",
+      "official": "Angola",
+      "unterm_formal": "the Republic of Angola",
+      "unterm_short": "Angola"
+    },
+    "iso_3166_1": {
+      "alpha2": "AO",
+      "alpha3": "AGO",
+      "numeric_code": 24
+    },
+    "m49": {
+      "numeric_code": 24,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 17,
+        "name": "Middle Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "Kwanza",
+      "numeric_code": 973,
+      "alphabetic_code": "AOA"
+    }
+  },
+  {
+    "id": 156,
+    "original_name": "Niger",
+    "original_symbol": "NER",
+    "long_name": "Niger",
+    "short_name": "Niger",
+    "abbreviation": "NER",
+    "names": {
+      "cldr": "Niger",
+      "official": "Niger",
+      "unterm_formal": "the Republic of the Niger",
+      "unterm_short": "Niger (the)"
+    },
+    "iso_3166_1": {
+      "alpha2": "NE",
+      "alpha3": "NER",
+      "numeric_code": 562
+    },
+    "m49": {
+      "numeric_code": 562,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 11,
+        "name": "Western Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "CFA Franc BCEAO",
+      "numeric_code": 952,
+      "alphabetic_code": "XOF"
+    }
+  },
+  {
+    "id": 157,
+    "original_name": "Chad",
+    "original_symbol": "TCD",
+    "long_name": "Chad",
+    "short_name": "Chad",
+    "abbreviation": "TCD",
+    "names": {
+      "cldr": "Chad",
+      "official": "Chad",
+      "unterm_formal": "the Republic of Chad",
+      "unterm_short": "Chad"
+    },
+    "iso_3166_1": {
+      "alpha2": "TD",
+      "alpha3": "TCD",
+      "numeric_code": 148
+    },
+    "m49": {
+      "numeric_code": 148,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 17,
+        "name": "Middle Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "CFA Franc BEAC",
+      "numeric_code": 950,
+      "alphabetic_code": "XAF"
+    }
+  },
+  {
+    "id": 158,
+    "original_name": "Peru",
+    "original_symbol": "PER",
+    "long_name": "Peru",
+    "short_name": "Peru",
+    "abbreviation": "PER",
+    "names": {
+      "cldr": "Peru",
+      "official": "Peru",
+      "unterm_formal": "the Republic of Peru",
+      "unterm_short": "Peru"
+    },
+    "iso_3166_1": {
+      "alpha2": "PE",
+      "alpha3": "PER",
+      "numeric_code": 604
+    },
+    "m49": {
+      "numeric_code": 604,
+      "region": {
+        "numeric_code": 19,
+        "name": "Americas"
+      },
+      "subregion": {
+        "numeric_code": 419,
+        "name": "Latin America and the Caribbean"
+      },
+      "intermediate_region": {
+        "numeric_code": 5,
+        "name": "South America"
+      }
+    },
+    "iso_4217": {
+      "name": "Sol",
+      "numeric_code": 604,
+      "alphabetic_code": "PEN"
+    }
+  },
+  {
+    "id": 159,
+    "original_name": "Mongolia",
+    "original_symbol": "MNG",
+    "long_name": "Mongolia",
+    "short_name": "Mongolia",
+    "abbreviation": "MNG",
+    "names": {
+      "cldr": "Mongolia",
+      "official": "Mongolia",
+      "unterm_formal": "Mongolia",
+      "unterm_short": "Mongolia"
+    },
+    "iso_3166_1": {
+      "alpha2": "MN",
+      "alpha3": "MNG",
+      "numeric_code": 496
+    },
+    "m49": {
+      "numeric_code": 496,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 30,
+        "name": "Eastern Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Tugrik",
+      "numeric_code": 496,
+      "alphabetic_code": "MNT"
+    }
+  },
+  {
+    "id": 160,
+    "original_name": "Iran",
+    "original_symbol": "IRN",
+    "long_name": "Iran (Islamic Republic of)",
+    "short_name": "Iran",
+    "abbreviation": "IRN",
+    "names": {
+      "cldr": "Iran",
+      "official": "Iran (Islamic Republic of)",
+      "unterm_formal": "the Islamic Republic of Iran",
+      "unterm_short": "Iran (Islamic Republic of)"
+    },
+    "iso_3166_1": {
+      "alpha2": "IR",
+      "alpha3": "IRN",
+      "numeric_code": 364
+    },
+    "m49": {
+      "numeric_code": 364,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 34,
+        "name": "Southern Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Iranian Rial",
+      "numeric_code": 364,
+      "alphabetic_code": "IRR"
+    }
+  },
+  {
+    "id": 161,
+    "original_name": "Libya",
+    "original_symbol": "LBY",
+    "long_name": "Libya",
+    "short_name": "Libya",
+    "abbreviation": "LBY",
+    "names": {
+      "cldr": "Libya",
+      "official": "Libya",
+      "unterm_formal": "Libya",
+      "unterm_short": "Libya"
+    },
+    "iso_3166_1": {
+      "alpha2": "LY",
+      "alpha3": "LBY",
+      "numeric_code": 434
+    },
+    "m49": {
+      "numeric_code": 434,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 15,
+        "name": "Northern Africa"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Libyan Dinar",
+      "numeric_code": 434,
+      "alphabetic_code": "LYD"
+    }
+  },
+  {
+    "id": 162,
+    "original_name": "Sudan",
+    "original_symbol": "SDN",
+    "long_name": "Sudan",
+    "short_name": "Sudan",
+    "abbreviation": "SDN",
+    "names": {
+      "cldr": "Sudan",
+      "official": "Sudan",
+      "unterm_formal": "the Republic of the Sudan",
+      "unterm_short": "Sudan (the)"
+    },
+    "iso_3166_1": {
+      "alpha2": "SD",
+      "alpha3": "SDN",
+      "numeric_code": 729
+    },
+    "m49": {
+      "numeric_code": 729,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 15,
+        "name": "Northern Africa"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Sudanese Pound",
+      "numeric_code": 938,
+      "alphabetic_code": "SDG"
+    }
+  },
+  {
+    "id": 163,
+    "original_name": "Indonesia",
+    "original_symbol": "IDN",
+    "long_name": "Indonesia",
+    "short_name": "Indonesia",
+    "abbreviation": "IDN",
+    "names": {
+      "cldr": "Indonesia",
+      "official": "Indonesia",
+      "unterm_formal": "the Republic of Indonesia",
+      "unterm_short": "Indonesia"
+    },
+    "iso_3166_1": {
+      "alpha2": "ID",
+      "alpha3": "IDN",
+      "numeric_code": 360
+    },
+    "m49": {
+      "numeric_code": 360,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 35,
+        "name": "South-eastern Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Rupiah",
+      "numeric_code": 360,
+      "alphabetic_code": "IDR"
+    }
+  },
+  {
+    "id": 164,
+    "original_name": "Mexico",
+    "original_symbol": "MEX",
+    "long_name": "Mexico",
+    "short_name": "Mexico",
+    "abbreviation": "MEX",
+    "names": {
+      "cldr": "Mexico",
+      "official": "Mexico",
+      "unterm_formal": "the United Mexican States",
+      "unterm_short": "Mexico"
+    },
+    "iso_3166_1": {
+      "alpha2": "MX",
+      "alpha3": "MEX",
+      "numeric_code": 484
+    },
+    "m49": {
+      "numeric_code": 484,
+      "region": {
+        "numeric_code": 19,
+        "name": "Americas"
+      },
+      "subregion": {
+        "numeric_code": 419,
+        "name": "Latin America and the Caribbean"
+      },
+      "intermediate_region": {
+        "numeric_code": 13,
+        "name": "Central America"
+      }
+    },
+    "iso_4217": {
+      "name": "Mexican Peso",
+      "numeric_code": 484,
+      "alphabetic_code": "MXN"
+    }
+  },
+  {
+    "id": 165,
+    "original_name": "Saudi Arabia",
+    "original_symbol": "SAU",
+    "long_name": "Saudi Arabia",
+    "short_name": "Saudi Arabia",
+    "abbreviation": "SAU",
+    "names": {
+      "cldr": "Saudi Arabia",
+      "official": "Saudi Arabia",
+      "unterm_formal": "the Kingdom of Saudi Arabia",
+      "unterm_short": "Saudi Arabia"
+    },
+    "iso_3166_1": {
+      "alpha2": "SA",
+      "alpha3": "SAU",
+      "numeric_code": 682
+    },
+    "m49": {
+      "numeric_code": 682,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 145,
+        "name": "Western Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Saudi Riyal",
+      "numeric_code": 682,
+      "alphabetic_code": "SAR"
+    }
+  },
+  {
+    "id": 166,
+    "original_name": "Greenland",
+    "original_symbol": "GRL",
+    "long_name": "Greenland",
+    "short_name": "Greenland",
+    "abbreviation": "GRL",
+    "names": {
+      "cldr": "Greenland",
+      "official": "Greenland",
+      "unterm_formal": null,
+      "unterm_short": null
+    },
+    "iso_3166_1": {
+      "alpha2": "GL",
+      "alpha3": "GRL",
+      "numeric_code": 304
+    },
+    "m49": {
+      "numeric_code": 304,
+      "region": {
+        "numeric_code": 19,
+        "name": "Americas"
+      },
+      "subregion": {
+        "numeric_code": 21,
+        "name": "Northern America"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Danish Krone",
+      "numeric_code": 208,
+      "alphabetic_code": "DKK"
+    }
+  },
+  {
+    "id": 167,
+    "original_name": "Democratic Republic of the Congo",
+    "original_symbol": "COD",
+    "long_name": "Democratic Republic of the Congo",
+    "short_name": "Congo - Kinshasa",
+    "abbreviation": "COD",
+    "names": {
+      "cldr": "Congo - Kinshasa",
+      "official": "Democratic Republic of the Congo",
+      "unterm_formal": "the Democratic Republic of the Congo",
+      "unterm_short": "Democratic Republic of the Congo (the)"
+    },
+    "iso_3166_1": {
+      "alpha2": "CD",
+      "alpha3": "COD",
+      "numeric_code": 180
+    },
+    "m49": {
+      "numeric_code": 180,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 202,
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediate_region": {
+        "numeric_code": 17,
+        "name": "Middle Africa"
+      }
+    },
+    "iso_4217": {
+      "name": "Congolese Franc",
+      "numeric_code": 976,
+      "alphabetic_code": "CDF"
+    }
+  },
+  {
+    "id": 168,
+    "original_name": "Algeria",
+    "original_symbol": "DZA",
+    "long_name": "Algeria",
+    "short_name": "Algeria",
+    "abbreviation": "DZA",
+    "names": {
+      "cldr": "Algeria",
+      "official": "Algeria",
+      "unterm_formal": "the People's Democratic Republic of Algeria",
+      "unterm_short": "Algeria"
+    },
+    "iso_3166_1": {
+      "alpha2": "DZ",
+      "alpha3": "DZA",
+      "numeric_code": 12
+    },
+    "m49": {
+      "numeric_code": 12,
+      "region": {
+        "numeric_code": 2,
+        "name": "Africa"
+      },
+      "subregion": {
+        "numeric_code": 15,
+        "name": "Northern Africa"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Algerian Dinar",
+      "numeric_code": 12,
+      "alphabetic_code": "DZD"
+    }
+  },
+  {
+    "id": 169,
+    "original_name": "Kazakhstan",
+    "original_symbol": "KAZ",
+    "long_name": "Kazakhstan",
+    "short_name": "Kazakhstan",
+    "abbreviation": "KAZ",
+    "names": {
+      "cldr": "Kazakhstan",
+      "official": "Kazakhstan",
+      "unterm_formal": "the Republic of Kazakhstan",
+      "unterm_short": "Kazakhstan"
+    },
+    "iso_3166_1": {
+      "alpha2": "KZ",
+      "alpha3": "KAZ",
+      "numeric_code": 398
+    },
+    "m49": {
+      "numeric_code": 398,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 143,
+        "name": "Central Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Tenge",
+      "numeric_code": 398,
+      "alphabetic_code": "KZT"
+    }
+  },
+  {
+    "id": 170,
+    "original_name": "Argentina",
+    "original_symbol": "ARG",
+    "long_name": "Argentina",
+    "short_name": "Argentina",
+    "abbreviation": "ARG",
+    "names": {
+      "cldr": "Argentina",
+      "official": "Argentina",
+      "unterm_formal": "the Argentine Republic",
+      "unterm_short": "Argentina"
+    },
+    "iso_3166_1": {
+      "alpha2": "AR",
+      "alpha3": "ARG",
+      "numeric_code": 32
+    },
+    "m49": {
+      "numeric_code": 32,
+      "region": {
+        "numeric_code": 19,
+        "name": "Americas"
+      },
+      "subregion": {
+        "numeric_code": 419,
+        "name": "Latin America and the Caribbean"
+      },
+      "intermediate_region": {
+        "numeric_code": 5,
+        "name": "South America"
+      }
+    },
+    "iso_4217": {
+      "name": "Argentine Peso",
+      "numeric_code": 32,
+      "alphabetic_code": "ARS"
+    }
+  },
+  {
+    "id": 171,
+    "original_name": "India",
+    "original_symbol": "IND",
+    "long_name": "India",
+    "short_name": "India",
+    "abbreviation": "IND",
+    "names": {
+      "cldr": "India",
+      "official": "India",
+      "unterm_formal": "the Republic of India",
+      "unterm_short": "India"
+    },
+    "iso_3166_1": {
+      "alpha2": "IN",
+      "alpha3": "IND",
+      "numeric_code": 356
+    },
+    "m49": {
+      "numeric_code": 356,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 34,
+        "name": "Southern Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Indian Rupee",
+      "numeric_code": 356,
+      "alphabetic_code": "INR"
+    }
+  },
+  {
+    "id": 172,
+    "original_name": "Australia",
+    "original_symbol": "AUS",
+    "long_name": "Australia",
+    "short_name": "Australia",
+    "abbreviation": "AUS",
+    "names": {
+      "cldr": "Australia",
+      "official": "Australia",
+      "unterm_formal": "Australia",
+      "unterm_short": "Australia"
+    },
+    "iso_3166_1": {
+      "alpha2": "AU",
+      "alpha3": "AUS",
+      "numeric_code": 36
+    },
+    "m49": {
+      "numeric_code": 36,
+      "region": {
+        "numeric_code": 9,
+        "name": "Oceania"
+      },
+      "subregion": {
+        "numeric_code": 53,
+        "name": "Australia and New Zealand"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Australian Dollar",
+      "numeric_code": 36,
+      "alphabetic_code": "AUD"
+    }
+  },
+  {
+    "id": 173,
+    "original_name": "Brazil",
+    "original_symbol": "BRA",
+    "long_name": "Brazil",
+    "short_name": "Brazil",
+    "abbreviation": "BRA",
+    "names": {
+      "cldr": "Brazil",
+      "official": "Brazil",
+      "unterm_formal": "the Federative Republic of Brazil",
+      "unterm_short": "Brazil"
+    },
+    "iso_3166_1": {
+      "alpha2": "BR",
+      "alpha3": "BRA",
+      "numeric_code": 76
+    },
+    "m49": {
+      "numeric_code": 76,
+      "region": {
+        "numeric_code": 19,
+        "name": "Americas"
+      },
+      "subregion": {
+        "numeric_code": 419,
+        "name": "Latin America and the Caribbean"
+      },
+      "intermediate_region": {
+        "numeric_code": 5,
+        "name": "South America"
+      }
+    },
+    "iso_4217": {
+      "name": "Brazilian Real",
+      "numeric_code": 986,
+      "alphabetic_code": "BRL"
+    }
+  },
+  {
+    "id": 174,
+    "original_name": "United States of America",
+    "original_symbol": "USA",
+    "long_name": "United States of America",
+    "short_name": "US",
+    "abbreviation": "USA",
+    "names": {
+      "cldr": "US",
+      "official": "United States of America",
+      "unterm_formal": "the United States of America",
+      "unterm_short": "United States of America (the)"
+    },
+    "iso_3166_1": {
+      "alpha2": "US",
+      "alpha3": "USA",
+      "numeric_code": 840
+    },
+    "m49": {
+      "numeric_code": 840,
+      "region": {
+        "numeric_code": 19,
+        "name": "Americas"
+      },
+      "subregion": {
+        "numeric_code": 21,
+        "name": "Northern America"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "US Dollar",
+      "numeric_code": 840,
+      "alphabetic_code": "USD"
+    }
+  },
+  {
+    "id": 175,
+    "original_name": "China",
+    "original_symbol": "CHN",
+    "long_name": "China",
+    "short_name": "China",
+    "abbreviation": "CHN",
+    "names": {
+      "cldr": "China",
+      "official": "China",
+      "unterm_formal": "the People's Republic of China",
+      "unterm_short": "China"
+    },
+    "iso_3166_1": {
+      "alpha2": "CN",
+      "alpha3": "CHN",
+      "numeric_code": 156
+    },
+    "m49": {
+      "numeric_code": 156,
+      "region": {
+        "numeric_code": 142,
+        "name": "Asia"
+      },
+      "subregion": {
+        "numeric_code": 30,
+        "name": "Eastern Asia"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Yuan Renminbi",
+      "numeric_code": 156,
+      "alphabetic_code": "CNY"
+    }
+  },
+  {
+    "id": 176,
+    "original_name": "Canada",
+    "original_symbol": "CAN",
+    "long_name": "Canada",
+    "short_name": "Canada",
+    "abbreviation": "CAN",
+    "names": {
+      "cldr": "Canada",
+      "official": "Canada",
+      "unterm_formal": "Canada",
+      "unterm_short": "Canada"
+    },
+    "iso_3166_1": {
+      "alpha2": "CA",
+      "alpha3": "CAN",
+      "numeric_code": 124
+    },
+    "m49": {
+      "numeric_code": 124,
+      "region": {
+        "numeric_code": 19,
+        "name": "Americas"
+      },
+      "subregion": {
+        "numeric_code": 21,
+        "name": "Northern America"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Canadian Dollar",
+      "numeric_code": 124,
+      "alphabetic_code": "CAD"
+    }
+  },
+  {
+    "id": 177,
+    "original_name": "Antarctica",
+    "original_symbol": "ATA",
+    "long_name": "Antarctica",
+    "short_name": "Antarctica",
+    "abbreviation": "ATA",
+    "names": {
+      "cldr": "Antarctica",
+      "official": "Antarctica",
+      "unterm_formal": null,
+      "unterm_short": null
+    },
+    "iso_3166_1": {
+      "alpha2": "AQ",
+      "alpha3": "ATA",
+      "numeric_code": 10
+    },
+    "m49": {
+      "numeric_code": 10,
+      "region": null,
+      "subregion": null,
+      "intermediate_region": null
+    },
+    "iso_4217": null
+  },
+  {
+    "id": 178,
+    "original_name": "Russia",
+    "original_symbol": "RUS",
+    "long_name": "Russian Federation",
+    "short_name": "Russia",
+    "abbreviation": "RUS",
+    "names": {
+      "cldr": "Russia",
+      "official": "Russian Federation",
+      "unterm_formal": "the Russian Federation",
+      "unterm_short": "Russian Federation (the)"
+    },
+    "iso_3166_1": {
+      "alpha2": "RU",
+      "alpha3": "RUS",
+      "numeric_code": 643
+    },
+    "m49": {
+      "numeric_code": 643,
+      "region": {
+        "numeric_code": 150,
+        "name": "Europe"
+      },
+      "subregion": {
+        "numeric_code": 151,
+        "name": "Eastern Europe"
+      },
+      "intermediate_region": null
+    },
+    "iso_4217": {
+      "name": "Russian Ruble",
+      "numeric_code": 643,
+      "alphabetic_code": "RUB"
+    }
+  }
+]

@@ -1,0 +1,892 @@
+[
+  {
+    "id": 1,
+    "name": "Luxembourg",
+    "symbol": "LUX"
+  },
+  {
+    "id": 2,
+    "name": "Northern Cyprus",
+    "symbol": "NCY"
+  },
+  {
+    "id": 3,
+    "name": "Trinidad and Tobago",
+    "symbol": "TTO"
+  },
+  {
+    "id": 4,
+    "name": "Brunei",
+    "symbol": "BRN"
+  },
+  {
+    "id": 5,
+    "name": "French Southern and Antarctic Lands",
+    "symbol": "ATF"
+  },
+  {
+    "id": 6,
+    "name": "Puerto Rico",
+    "symbol": "PRI"
+  },
+  {
+    "id": 7,
+    "name": "Cyprus",
+    "symbol": "CYP"
+  },
+  {
+    "id": 8,
+    "name": "Lebanon",
+    "symbol": "LBN"
+  },
+  {
+    "id": 9,
+    "name": "Kosovo",
+    "symbol": "KOS"
+  },
+  {
+    "id": 10,
+    "name": "Jamaica",
+    "symbol": "JAM"
+  },
+  {
+    "id": 11,
+    "name": "Gambia",
+    "symbol": "GMB"
+  },
+  {
+    "id": 12,
+    "name": "Qatar",
+    "symbol": "QAT"
+  },
+  {
+    "id": 13,
+    "name": "Falkland Islands",
+    "symbol": "FLK"
+  },
+  {
+    "id": 14,
+    "name": "Vanuatu",
+    "symbol": "VUT"
+  },
+  {
+    "id": 15,
+    "name": "Montenegro",
+    "symbol": "MNE"
+  },
+  {
+    "id": 16,
+    "name": "The Bahamas",
+    "symbol": "BHS"
+  },
+  {
+    "id": 17,
+    "name": "East Timor",
+    "symbol": "TLS"
+  },
+  {
+    "id": 18,
+    "name": "Swaziland",
+    "symbol": "SWZ"
+  },
+  {
+    "id": 19,
+    "name": "Kuwait",
+    "symbol": "KWT"
+  },
+  {
+    "id": 20,
+    "name": "Fiji",
+    "symbol": "FJI"
+  },
+  {
+    "id": 21,
+    "name": "New Caledonia",
+    "symbol": "NCL"
+  },
+  {
+    "id": 22,
+    "name": "Slovenia",
+    "symbol": "SVN"
+  },
+  {
+    "id": 23,
+    "name": "Israel",
+    "symbol": "ISR"
+  },
+  {
+    "id": 24,
+    "name": "El Salvador",
+    "symbol": "SLV"
+  },
+  {
+    "id": 25,
+    "name": "Belize",
+    "symbol": "BLZ"
+  },
+  {
+    "id": 26,
+    "name": "Djibouti",
+    "symbol": "DJI"
+  },
+  {
+    "id": 27,
+    "name": "Macedonia",
+    "symbol": "MKD"
+  },
+  {
+    "id": 28,
+    "name": "Rwanda",
+    "symbol": "RWA"
+  },
+  {
+    "id": 29,
+    "name": "Haiti",
+    "symbol": "HTI"
+  },
+  {
+    "id": 30,
+    "name": "Burundi",
+    "symbol": "BDI"
+  },
+  {
+    "id": 31,
+    "name": "Equatorial Guinea",
+    "symbol": "GNQ"
+  },
+  {
+    "id": 32,
+    "name": "Albania",
+    "symbol": "ALB"
+  },
+  {
+    "id": 33,
+    "name": "Solomon Islands",
+    "symbol": "SLB"
+  },
+  {
+    "id": 34,
+    "name": "Armenia",
+    "symbol": "ARM"
+  },
+  {
+    "id": 35,
+    "name": "Lesotho",
+    "symbol": "LSO"
+  },
+  {
+    "id": 36,
+    "name": "Belgium",
+    "symbol": "BEL"
+  },
+  {
+    "id": 37,
+    "name": "Moldova",
+    "symbol": "MDA"
+  },
+  {
+    "id": 38,
+    "name": "Guinea Bissau",
+    "symbol": "GNB"
+  },
+  {
+    "id": 39,
+    "name": "Taiwan",
+    "symbol": "TWN"
+  },
+  {
+    "id": 40,
+    "name": "Bhutan",
+    "symbol": "BTN"
+  },
+  {
+    "id": 41,
+    "name": "Switzerland",
+    "symbol": "CHE"
+  },
+  {
+    "id": 42,
+    "name": "Netherlands",
+    "symbol": "NLD"
+  },
+  {
+    "id": 43,
+    "name": "Denmark",
+    "symbol": "DNK"
+  },
+  {
+    "id": 44,
+    "name": "Estonia",
+    "symbol": "EST"
+  },
+  {
+    "id": 45,
+    "name": "Dominican Republic",
+    "symbol": "DOM"
+  },
+  {
+    "id": 46,
+    "name": "Slovakia",
+    "symbol": "SVK"
+  },
+  {
+    "id": 47,
+    "name": "Costa Rica",
+    "symbol": "CRI"
+  },
+  {
+    "id": 48,
+    "name": "Bosnia and Herzegovina",
+    "symbol": "BIH"
+  },
+  {
+    "id": 49,
+    "name": "Croatia",
+    "symbol": "HRV"
+  },
+  {
+    "id": 50,
+    "name": "Togo",
+    "symbol": "TGO"
+  },
+  {
+    "id": 51,
+    "name": "Latvia",
+    "symbol": "LVA"
+  },
+  {
+    "id": 52,
+    "name": "Lithuania",
+    "symbol": "LTU"
+  },
+  {
+    "id": 53,
+    "name": "Sri Lanka",
+    "symbol": "LKA"
+  },
+  {
+    "id": 54,
+    "name": "Georgia",
+    "symbol": "GEO"
+  },
+  {
+    "id": 55,
+    "name": "Ireland",
+    "symbol": "IRL"
+  },
+  {
+    "id": 56,
+    "name": "Sierra Leone",
+    "symbol": "SLE"
+  },
+  {
+    "id": 57,
+    "name": "Panama",
+    "symbol": "PAN"
+  },
+  {
+    "id": 58,
+    "name": "Czech Republic",
+    "symbol": "CZE"
+  },
+  {
+    "id": 59,
+    "name": "United Arab Emirates",
+    "symbol": "ARE"
+  },
+  {
+    "id": 60,
+    "name": "Austria",
+    "symbol": "AUT"
+  },
+  {
+    "id": 61,
+    "name": "Azerbaijan",
+    "symbol": "AZE"
+  },
+  {
+    "id": 62,
+    "name": "Republic of Serbia",
+    "symbol": "SRB"
+  },
+  {
+    "id": 63,
+    "name": "Jordan",
+    "symbol": "JOR"
+  },
+  {
+    "id": 64,
+    "name": "Portugal",
+    "symbol": "PRT"
+  },
+  {
+    "id": 65,
+    "name": "Hungary",
+    "symbol": "HUN"
+  },
+  {
+    "id": 66,
+    "name": "South Korea",
+    "symbol": "KOR"
+  },
+  {
+    "id": 67,
+    "name": "Iceland",
+    "symbol": "ISL"
+  },
+  {
+    "id": 68,
+    "name": "Guatemala",
+    "symbol": "GTM"
+  },
+  {
+    "id": 69,
+    "name": "Cuba",
+    "symbol": "CUB"
+  },
+  {
+    "id": 70,
+    "name": "Bulgaria",
+    "symbol": "BGR"
+  },
+  {
+    "id": 71,
+    "name": "Liberia",
+    "symbol": "LBR"
+  },
+  {
+    "id": 72,
+    "name": "Honduras",
+    "symbol": "HND"
+  },
+  {
+    "id": 73,
+    "name": "Benin",
+    "symbol": "BEN"
+  },
+  {
+    "id": 74,
+    "name": "Eritrea",
+    "symbol": "ERI"
+  },
+  {
+    "id": 75,
+    "name": "Malawi",
+    "symbol": "MWI"
+  },
+  {
+    "id": 76,
+    "name": "North Korea",
+    "symbol": "PRK"
+  },
+  {
+    "id": 77,
+    "name": "Nicaragua",
+    "symbol": "NIC"
+  },
+  {
+    "id": 78,
+    "name": "Greece",
+    "symbol": "GRC"
+  },
+  {
+    "id": 79,
+    "name": "Tajikistan",
+    "symbol": "TJK"
+  },
+  {
+    "id": 80,
+    "name": "Nepal",
+    "symbol": "NPL"
+  },
+  {
+    "id": 81,
+    "name": "Bangladesh",
+    "symbol": "BGD"
+  },
+  {
+    "id": 82,
+    "name": "Tunisia",
+    "symbol": "TUN"
+  },
+  {
+    "id": 83,
+    "name": "Suriname",
+    "symbol": "SUR"
+  },
+  {
+    "id": 84,
+    "name": "Somaliland",
+    "symbol": "SOL"
+  },
+  {
+    "id": 85,
+    "name": "Uruguay",
+    "symbol": "URY"
+  },
+  {
+    "id": 86,
+    "name": "Cambodia",
+    "symbol": "KHM"
+  },
+  {
+    "id": 87,
+    "name": "Syria",
+    "symbol": "SYR"
+  },
+  {
+    "id": 88,
+    "name": "Senegal",
+    "symbol": "SEN"
+  },
+  {
+    "id": 89,
+    "name": "Kyrgyzstan",
+    "symbol": "KGZ"
+  },
+  {
+    "id": 90,
+    "name": "Belarus",
+    "symbol": "BLR"
+  },
+  {
+    "id": 91,
+    "name": "Guyana",
+    "symbol": "GUY"
+  },
+  {
+    "id": 92,
+    "name": "Laos",
+    "symbol": "LAO"
+  },
+  {
+    "id": 93,
+    "name": "Romania",
+    "symbol": "ROU"
+  },
+  {
+    "id": 94,
+    "name": "Ghana",
+    "symbol": "GHA"
+  },
+  {
+    "id": 95,
+    "name": "Uganda",
+    "symbol": "UGA"
+  },
+  {
+    "id": 96,
+    "name": "United Kingdom",
+    "symbol": "GBR"
+  },
+  {
+    "id": 97,
+    "name": "Guinea",
+    "symbol": "GIN"
+  },
+  {
+    "id": 98,
+    "name": "Western Sahara",
+    "symbol": "ESH"
+  },
+  {
+    "id": 99,
+    "name": "Gabon",
+    "symbol": "GAB"
+  },
+  {
+    "id": 100,
+    "name": "New Zealand",
+    "symbol": "NZL"
+  },
+  {
+    "id": 101,
+    "name": "Burkina Faso",
+    "symbol": "BFA"
+  },
+  {
+    "id": 102,
+    "name": "Ecuador",
+    "symbol": "ECU"
+  },
+  {
+    "id": 103,
+    "name": "Italy",
+    "symbol": "ITA"
+  },
+  {
+    "id": 104,
+    "name": "Oman",
+    "symbol": "OMN"
+  },
+  {
+    "id": 105,
+    "name": "Poland",
+    "symbol": "POL"
+  },
+  {
+    "id": 106,
+    "name": "Ivory Coast",
+    "symbol": "CIV"
+  },
+  {
+    "id": 107,
+    "name": "Norway",
+    "symbol": "NOR"
+  },
+  {
+    "id": 108,
+    "name": "Malaysia",
+    "symbol": "MYS"
+  },
+  {
+    "id": 109,
+    "name": "Vietnam",
+    "symbol": "VNM"
+  },
+  {
+    "id": 110,
+    "name": "Finland",
+    "symbol": "FIN"
+  },
+  {
+    "id": 111,
+    "name": "Republic of the Congo",
+    "symbol": "COG"
+  },
+  {
+    "id": 112,
+    "name": "Philippines",
+    "symbol": "PHL"
+  },
+  {
+    "id": 113,
+    "name": "Germany",
+    "symbol": "DEU"
+  },
+  {
+    "id": 114,
+    "name": "Japan",
+    "symbol": "JPN"
+  },
+  {
+    "id": 115,
+    "name": "West Bank",
+    "symbol": "PSE"
+  },
+  {
+    "id": 116,
+    "name": "Zimbabwe",
+    "symbol": "ZWE"
+  },
+  {
+    "id": 117,
+    "name": "French Guiana",
+    "symbol": "GUF"
+  },
+  {
+    "id": 118,
+    "name": "Paraguay",
+    "symbol": "PRY"
+  },
+  {
+    "id": 119,
+    "name": "Iraq",
+    "symbol": "IRQ"
+  },
+  {
+    "id": 120,
+    "name": "Morocco",
+    "symbol": "MAR"
+  },
+  {
+    "id": 121,
+    "name": "Uzbekistan",
+    "symbol": "UZB"
+  },
+  {
+    "id": 122,
+    "name": "Sweden",
+    "symbol": "SWE"
+  },
+  {
+    "id": 123,
+    "name": "Papua New Guinea",
+    "symbol": "PNG"
+  },
+  {
+    "id": 124,
+    "name": "Cameroon",
+    "symbol": "CMR"
+  },
+  {
+    "id": 125,
+    "name": "Turkmenistan",
+    "symbol": "TKM"
+  },
+  {
+    "id": 126,
+    "name": "Spain",
+    "symbol": "ESP"
+  },
+  {
+    "id": 127,
+    "name": "Thailand",
+    "symbol": "THA"
+  },
+  {
+    "id": 128,
+    "name": "Yemen",
+    "symbol": "YEM"
+  },
+  {
+    "id": 129,
+    "name": "Kenya",
+    "symbol": "KEN"
+  },
+  {
+    "id": 130,
+    "name": "Botswana",
+    "symbol": "BWA"
+  },
+  {
+    "id": 131,
+    "name": "Madagascar",
+    "symbol": "MDG"
+  },
+  {
+    "id": 132,
+    "name": "Ukraine",
+    "symbol": "UKR"
+  },
+  {
+    "id": 133,
+    "name": "South Sudan",
+    "symbol": "SSD"
+  },
+  {
+    "id": 134,
+    "name": "Central African Republic",
+    "symbol": "CAF"
+  },
+  {
+    "id": 135,
+    "name": "Somalia",
+    "symbol": "SOM"
+  },
+  {
+    "id": 136,
+    "name": "France",
+    "symbol": "FRA"
+  },
+  {
+    "id": 137,
+    "name": "Afghanistan",
+    "symbol": "AFG"
+  },
+  {
+    "id": 138,
+    "name": "Myanmar",
+    "symbol": "MMR"
+  },
+  {
+    "id": 139,
+    "name": "Zambia",
+    "symbol": "ZMB"
+  },
+  {
+    "id": 140,
+    "name": "Chile",
+    "symbol": "CHL"
+  },
+  {
+    "id": 141,
+    "name": "Turkey",
+    "symbol": "TUR"
+  },
+  {
+    "id": 142,
+    "name": "Mozambique",
+    "symbol": "MOZ"
+  },
+  {
+    "id": 143,
+    "name": "Namibia",
+    "symbol": "NAM"
+  },
+  {
+    "id": 144,
+    "name": "Pakistan",
+    "symbol": "PAK"
+  },
+  {
+    "id": 145,
+    "name": "Venezuela",
+    "symbol": "VEN"
+  },
+  {
+    "id": 146,
+    "name": "Nigeria",
+    "symbol": "NGA"
+  },
+  {
+    "id": 147,
+    "name": "United Republic of Tanzania",
+    "symbol": "TZA"
+  },
+  {
+    "id": 148,
+    "name": "Egypt",
+    "symbol": "EGY"
+  },
+  {
+    "id": 149,
+    "name": "Mauritania",
+    "symbol": "MRT"
+  },
+  {
+    "id": 150,
+    "name": "Bolivia",
+    "symbol": "BOL"
+  },
+  {
+    "id": 151,
+    "name": "Ethiopia",
+    "symbol": "ETH"
+  },
+  {
+    "id": 152,
+    "name": "Colombia",
+    "symbol": "COL"
+  },
+  {
+    "id": 153,
+    "name": "South Africa",
+    "symbol": "ZAF"
+  },
+  {
+    "id": 154,
+    "name": "Mali",
+    "symbol": "MLI"
+  },
+  {
+    "id": 155,
+    "name": "Angola",
+    "symbol": "AGO"
+  },
+  {
+    "id": 156,
+    "name": "Niger",
+    "symbol": "NER"
+  },
+  {
+    "id": 157,
+    "name": "Chad",
+    "symbol": "TCD"
+  },
+  {
+    "id": 158,
+    "name": "Peru",
+    "symbol": "PER"
+  },
+  {
+    "id": 159,
+    "name": "Mongolia",
+    "symbol": "MNG"
+  },
+  {
+    "id": 160,
+    "name": "Iran",
+    "symbol": "IRN"
+  },
+  {
+    "id": 161,
+    "name": "Libya",
+    "symbol": "LBY"
+  },
+  {
+    "id": 162,
+    "name": "Sudan",
+    "symbol": "SDN"
+  },
+  {
+    "id": 163,
+    "name": "Indonesia",
+    "symbol": "IDN"
+  },
+  {
+    "id": 164,
+    "name": "Mexico",
+    "symbol": "MEX"
+  },
+  {
+    "id": 165,
+    "name": "Saudi Arabia",
+    "symbol": "SAU"
+  },
+  {
+    "id": 166,
+    "name": "Greenland",
+    "symbol": "GRL"
+  },
+  {
+    "id": 167,
+    "name": "Democratic Republic of the Congo",
+    "symbol": "COD"
+  },
+  {
+    "id": 168,
+    "name": "Algeria",
+    "symbol": "DZA"
+  },
+  {
+    "id": 169,
+    "name": "Kazakhstan",
+    "symbol": "KAZ"
+  },
+  {
+    "id": 170,
+    "name": "Argentina",
+    "symbol": "ARG"
+  },
+  {
+    "id": 171,
+    "name": "India",
+    "symbol": "IND"
+  },
+  {
+    "id": 172,
+    "name": "Australia",
+    "symbol": "AUS"
+  },
+  {
+    "id": 173,
+    "name": "Brazil",
+    "symbol": "BRA"
+  },
+  {
+    "id": 174,
+    "name": "United States of America",
+    "symbol": "USA"
+  },
+  {
+    "id": 175,
+    "name": "China",
+    "symbol": "CHN"
+  },
+  {
+    "id": 176,
+    "name": "Canada",
+    "symbol": "CAN"
+  },
+  {
+    "id": 177,
+    "name": "Antarctica",
+    "symbol": "ATA"
+  },
+  {
+    "id": 178,
+    "name": "Russia",
+    "symbol": "RUS"
+  }
+]
