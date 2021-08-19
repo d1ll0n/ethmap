@@ -8,13 +8,15 @@ describe('ETHMapZones.sol', () => {
   const [wallet, wallet1] = waffle.provider.getWallets()
 
   let map: IEthMap
+  let old: ETHMapZones
   let zones: ETHMapZones
 
   let reset: () => Promise<void>
 
   before(async () => {
     map = await ethers.getContractAt('IEthMap', '0xB6bbf89c3DbBa20Cb4d5cABAa4A386ACbbAb455e')
-    zones = await deployContract<ETHMapZones>('ETHMapZones')
+    old = await deployContract<ETHMapZones>('ETHMapZonesOld')
+    zones = await deployContract<ETHMapZones>('ETHMapZones', old.address)
     reset = await createSnapshot()
   })
 
@@ -41,6 +43,7 @@ describe('ETHMapZones.sol', () => {
     })
 
     it('symbol()', async () => {
+      zones.ownerOf
       expect(await zones.symbol()).to.eq('ZONES')
     })
 
@@ -140,6 +143,62 @@ describe('ETHMapZones.sol', () => {
       expect(await zones.tokenOfOwnerByIndex(wallet.address, 0)).to.eq(1)
       expect(await zones.ownerOf(1)).to.eq(wallet.address)
       expect(await zones.totalSupply()).to.eq(1)
+    })
+
+    it('Should reset sellPrice', async () => {
+      await stealZone(1)
+      await zones.prepareToWrapZone(1)
+      await map.sellZone(1, 5000)
+      expect((await map.getZone(1)).sellPrice).to.eq(5000)
+      await map.transferZone(1, zones.address)
+      await zones.wrapZone(1)
+      expect(await zones.pendingZoneOwners(1)).to.eq(constants.AddressZero)
+      expect(await zones.tokenByIndex(0)).to.eq(1)
+      expect(await zones.tokenOfOwnerByIndex(wallet.address, 0)).to.eq(1)
+      expect(await zones.ownerOf(1)).to.eq(wallet.address)
+      expect(await zones.totalSupply()).to.eq(1)
+      expect((await map.getZone(1)).sellPrice).to.eq(0)
+    })
+  })
+
+  describe('migrate()', () => {
+    it('Should revert if transferFrom fails', async () => {
+      await stealZone(1)
+      await old.prepareToWrapZone(1)
+      await map.transferZone(1, old.address)
+      await old.wrapZone(1)
+      await expect(zones.migrate(1))
+        .to.be.reverted
+    })
+
+    it('Should revert if unwrap fails', async () => {
+      await stealZone(1)
+      await old.prepareToWrapZone(1)
+      await map.sellZone(1, 5000)
+      expect((await map.getZone(1)).sellPrice).to.eq(5000)
+      await map.transferZone(1, old.address)
+      await old.wrapZone(1)
+      await old.approve(zones.address, 1)
+      await map.buyZone(1, { value: 5000 })
+      await expect(zones.migrate(1))
+        .to.be.reverted
+    })
+
+    it('Should migrate zone and reset price', async () => {
+      await stealZone(1)
+      await old.prepareToWrapZone(1)
+      await map.sellZone(1, 5000)
+      expect((await map.getZone(1)).sellPrice).to.eq(5000)
+      await map.transferZone(1, old.address)
+      await old.wrapZone(1)
+      await old.approve(zones.address, 1)
+      await zones.migrate(1)
+      expect(await zones.pendingZoneOwners(1)).to.eq(constants.AddressZero)
+      expect(await zones.tokenByIndex(0)).to.eq(1)
+      expect(await zones.tokenOfOwnerByIndex(wallet.address, 0)).to.eq(1)
+      expect(await zones.ownerOf(1)).to.eq(wallet.address)
+      expect(await zones.totalSupply()).to.eq(1)
+      expect((await map.getZone(1)).sellPrice).to.eq(0)
     })
   })
 
