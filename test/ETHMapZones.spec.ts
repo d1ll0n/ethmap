@@ -57,7 +57,21 @@ describe('ETHMapZones.sol', () => {
     })
   })
 
-  describe('prepareToWrapZone()', async () => {
+  describe('setBaseURI()', () => {
+    it('Should revert if not owner', async () => {
+      await expect(zones.connect(wallet1).setBaseURI('x'))
+        .to.be.revertedWith('Ownable: caller is not the owner')
+    })
+
+    it('Should update URI', async () => {
+      await zones.setBaseURI('x/')
+      expect(await zones.baseURI()).to.eq(`x/`)
+      expect(await zones.baseTokenURI()).to.eq(`x/`)
+      expect(await zones.tokenURI(5)).to.eq(`x/5`)
+    })
+  })
+
+  describe('prepareToWrapZone()', () => {
     it('Should revert if caller does not own zone', async () => {
       await expect(zones.prepareToWrapZone(1))
         .to.be.revertedWith('ETHMapZones: caller is not zone owner.')

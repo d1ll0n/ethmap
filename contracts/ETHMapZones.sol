@@ -16,17 +16,19 @@ contract ETHMapZones is OpenSeaWhitelistERC721("ETH Map Zones", "ZONES"), Ownabl
 
   mapping(uint256 => address) public pendingZoneOwners;
 
+/** ==========  Constructor  ========== */
+
+  constructor() {
+    _setBaseURI("https://ethmap.zone/");
+  }
+
 /** ==========  Queries  ========== */
 
-  function baseTokenURI() public pure virtual returns (string memory) {
-    return "https://ethmap.zone/";
+  function baseTokenURI() public view virtual returns (string memory) {
+    return baseURI();
   }
 
-  function baseURI() public view virtual override returns (string memory) {
-    return baseTokenURI();
-  }
-
-  function tokenURI(uint256 _tokenId) public pure virtual override returns (string memory) {
+  function tokenURI(uint256 _tokenId) public view virtual override returns (string memory) {
     return string(abi.encodePacked(baseTokenURI(), Strings.toString(_tokenId)));
   }
 
@@ -39,6 +41,10 @@ contract ETHMapZones is OpenSeaWhitelistERC721("ETH Map Zones", "ZONES"), Ownabl
   }
 
 /** ==========  Actions  ========== */
+
+  function setBaseURI(string memory _baseURI) external onlyOwner {
+    _setBaseURI(_baseURI);
+  }
 
   function prepareToWrapZone(uint256 zoneId) external {
     require(zoneOwner(zoneId) == msg.sender, "ETHMapZones: caller is not zone owner.");
