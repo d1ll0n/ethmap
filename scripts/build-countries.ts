@@ -9,8 +9,12 @@ import {
   ISO_3166_1,
   M49_Regions,
   Names,
-  FullCountry
+  FullCountry,
+  Stats
 } from '../data/types'
+import languages from '../data/languages/ietf-to-iso-639-1.json';
+import stats from '../data/stats/stats.json'
+import gdp from '../data/gdp-by-abbreviation.json'
 
 type CountryData = typeof countries[number]
 
@@ -65,6 +69,15 @@ const getNames = ({
   "UNTERM English Short": unterm_short,
 }: CountryData): Names => ({ cldr, official, unterm_formal, unterm_short })
 
+const getLanguages = (country: CountryData): string[] => {
+  return (country.Languages ?? "")
+    .split(',')
+    .map(l => l.replace(/ /g, ''))
+    .filter(Boolean)
+    .map((l: string) => (languages as Record<string, { English: string }>)[l]?.English)
+    .filter(Boolean)
+}
+
 const getFirstFilledProp = (
   country: CountryData,
   keys: Array<keyof Omit<Omit<CountryData, "Geoname ID">, "M49">>
@@ -94,6 +107,35 @@ const getAbbreviation = (country: CountryData): string | null => getFirstFilledP
   ]
 );
 
+const getContinent = (country: CountryData): string | null => {
+  const continentCodes: Record<string, string> = {
+    "OC": "Oceania",
+    "AS": "Asia",
+    "AF": "Africa",
+    "NA": "North America",
+    "SA": "South America",
+    "EU": "Europe",
+    "AN": "Antarctica",
+  };
+  return country.Continent ? continentCodes[country.Continent] : null;
+}
+
+const emptyStats = {
+  area: null,
+  population: null,
+  government: null,
+  income: null,
+  nuclear: null,
+  alliances: [],
+  lifeExpectancy: null
+}
+
+const getStats = (country: CountryData): Stats => {
+  const a2 = country['ISO3166-1-Alpha-2']
+  if (!a2) return emptyStats;
+  return (stats as Record<string, Stats>)[a2] ?? emptyStats;
+}
+
 const getM49_Regions = ({
   "M49": numeric_code,
   "Region Code": region_code,
@@ -109,6 +151,12 @@ const getM49_Regions = ({
   intermediate_region: (intermediate_region_code && intermediate_region_name) ? { numeric_code: +intermediate_region_code, name: intermediate_region_name } : null,
 })
 
+const getGDP = (country: CountryData): number | null => {
+  const abbreviation = getAbbreviation(country);
+  if (!abbreviation) return null;
+  return (gdp as Record<string, number | null>)[abbreviation] || null;
+}
+
 function findByAbbreviation(abbreviation: string): CountryData | null {
   return countries.find(c =>
     c["ISO3166-1-Alpha-3"] === abbreviation ||
@@ -123,13 +171,19 @@ function getFullCountry(country: CountryData, original: OriginalCountry): FullCo
     id: original.id,
     original_name: original.name,
     original_symbol: original.symbol,
+    capital: country.Capital,
+    continent: getContinent(country),
+    economy: country['Developed / Developing Countries'],
     long_name: getLongName(country),
     short_name: getShortName(country),
     abbreviation: getAbbreviation(country),
     names: getNames(country),
     iso_3166_1: getISO_3166_1(country),
     m49: getM49_Regions(country),
-    iso_4217: getISO_4217(country)
+    iso_4217: getISO_4217(country),
+    languages: getLanguages(country),
+    gdp: getGDP(country),
+    ...getStats(country)
   }
 }
 
@@ -145,15 +199,15 @@ async function mapCountry(country: OriginalCountry) {
   } else {
     const fullCountry = getFullCountry(countryISO, country);
     fullCountries.push(fullCountry);
-    const alpha2 = fullCountry.iso_3166_1?.alpha2;
-    if (alpha2 && fullCountry.abbreviation) {
-      const err = await downloadFile(alpha2, fullCountry.abbreviation);
-      if (err) {
-        imageNotFound.push(country.symbol)
-      }
-    } else {
-      imageNotFound.push(country.symbol)
-    }
+    // const alpha2 = fullCountry.iso_3166_1?.alpha2;
+    // if (alpha2 && fullCountry.abbreviation) {
+    //   const err = await downloadFile(alpha2, fullCountry.abbreviation);
+    //   if (err) {
+    //     imageNotFound.push(country.symbol)
+    //   }
+    // } else {
+    //   imageNotFound.push(country.symbol)
+    // }
   }
 }
 
