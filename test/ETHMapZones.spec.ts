@@ -37,7 +37,7 @@ describe('ETHMapZones.sol', () => {
     })
 
     it('name()', async () => {
-      expect(await zones.name()).to.eq('ETH Map Zones')
+      expect(await zones.name()).to.eq('ETHMap Zones')
     })
 
     it('symbol()', async () => {

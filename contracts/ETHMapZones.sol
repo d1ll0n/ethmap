@@ -7,7 +7,7 @@ import "./OpenSeaWhitelistERC721.sol";
 import "./IEthMap.sol";
 
 
-contract ETHMapZones is OpenSeaWhitelistERC721("ETH Map Zones", "ZONES"), Ownable() {
+contract ETHMapZones is OpenSeaWhitelistERC721("ETHMap Zones", "ZONES"), Ownable() {
 /** ==========  Constants  ========== */
 
   IEthMap public constant map = IEthMap(0xB6bbf89c3DbBa20Cb4d5cABAa4A386ACbbAb455e);
