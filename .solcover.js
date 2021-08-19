@@ -1,4 +1,5 @@
+require('dotenv').config()
+
 module.exports = {
-  norpc: true,
-  skipFiles: ["mocks/", "interfaces/", "test/"],
+  skipFiles: ["ZoneMap.sol", "IEthMap.sol", "OpenSeaWhitelistERC721.sol"],
 }
