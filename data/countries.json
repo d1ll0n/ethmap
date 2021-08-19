@@ -150,7 +150,7 @@
     "languages": [
       "English",
       "French",
-      "Spanish; Castilian",
+      "Spanish",
       "Chinese"
     ],
     "gdp": 21529824769,
@@ -318,7 +318,7 @@
     },
     "languages": [
       "English",
-      "Spanish; Castilian"
+      "Spanish"
     ],
     "gdp": 103138300000,
     "area": 8875,
@@ -644,7 +644,7 @@
     },
     "languages": [
       "Arabic",
-      "Spanish; Castilian"
+      "Spanish"
     ],
     "gdp": 146373588867,
     "area": 11000,
@@ -1279,7 +1279,7 @@
       "alphabetic_code": "SVC,USD"
     },
     "languages": [
-      "Spanish; Castilian"
+      "Spanish"
     ],
     "gdp": 24638720000,
     "area": 21041,
@@ -1336,7 +1336,7 @@
     },
     "languages": [
       "English",
-      "Spanish; Castilian"
+      "Spanish"
     ],
     "gdp": 1763696119,
     "area": 22696,
@@ -1678,7 +1678,7 @@
       "alphabetic_code": "XAF"
     },
     "languages": [
-      "Spanish; Castilian",
+      "Spanish",
       "French"
     ],
     "gdp": 10021856754,
@@ -2415,7 +2415,7 @@
       "alphabetic_code": "DOP"
     },
     "languages": [
-      "Spanish; Castilian"
+      "Spanish"
     ],
     "gdp": 78844702329,
     "area": 48511,
@@ -2525,7 +2525,7 @@
       "alphabetic_code": "CRC"
     },
     "languages": [
-      "Spanish; Castilian",
+      "Spanish",
       "English"
     ],
     "gdp": 61520669890,
@@ -3070,7 +3070,7 @@
       "alphabetic_code": "PAB,USD"
     },
     "languages": [
-      "Spanish; Castilian",
+      "Spanish",
       "English"
     ],
     "gdp": 52938100000,
@@ -3668,7 +3668,7 @@
       "alphabetic_code": "GTQ"
     },
     "languages": [
-      "Spanish; Castilian"
+      "Spanish"
     ],
     "gdp": 77604632171,
     "area": 108889,
@@ -3724,7 +3724,7 @@
       "alphabetic_code": "CUP,CUC"
     },
     "languages": [
-      "Spanish; Castilian"
+      "Spanish"
     ],
     "gdp": 103131000000,
     "area": 110861,
@@ -3886,7 +3886,7 @@
       "alphabetic_code": "HNL"
     },
     "languages": [
-      "Spanish; Castilian"
+      "Spanish"
     ],
     "gdp": 23827840810,
     "area": 112088,
@@ -4158,7 +4158,7 @@
       "alphabetic_code": "NIO"
     },
     "languages": [
-      "Spanish; Castilian",
+      "Spanish",
       "English"
     ],
     "gdp": 12621476264,
@@ -4590,7 +4590,7 @@
       "alphabetic_code": "UYU"
     },
     "languages": [
-      "Spanish; Castilian"
+      "Spanish"
     ],
     "gdp": 53628827440,
     "area": 175016,
@@ -5311,7 +5311,7 @@
     "gdp": 908100000,
     "area": 266000,
     "population": 652271,
-    "government": "Occupied by Marocco",
+    "government": "Occupied by Morocco",
     "alliances": [
       "African Union"
     ],
@@ -5525,7 +5525,7 @@
       "alphabetic_code": "USD"
     },
     "languages": [
-      "Spanish; Castilian"
+      "Spanish"
     ],
     "gdp": 98808010000,
     "area": 283561,
@@ -6399,7 +6399,7 @@
       "alphabetic_code": "PYG"
     },
     "languages": [
-      "Spanish; Castilian"
+      "Spanish"
     ],
     "gdp": 35304238230,
     "area": 406752,
@@ -6831,7 +6831,7 @@
       "alphabetic_code": "EUR"
     },
     "languages": [
-      "Spanish; Castilian",
+      "Spanish",
       "Catalan; Valencian",
       "Galician",
       "Basque"
@@ -7600,7 +7600,7 @@
       "alphabetic_code": "CLP"
     },
     "languages": [
-      "Spanish; Castilian"
+      "Spanish"
     ],
     "gdp": 252940023046,
     "area": 756626,
@@ -7882,7 +7882,7 @@
       "alphabetic_code": "VES"
     },
     "languages": [
-      "Spanish; Castilian"
+      "Spanish"
     ],
     "gdp": 482359318768,
     "area": 912050,
@@ -8165,7 +8165,7 @@
       "alphabetic_code": "BOB"
     },
     "languages": [
-      "Spanish; Castilian",
+      "Spanish",
       "Quechua"
     ],
     "gdp": 36688861203,
@@ -8280,7 +8280,7 @@
       "alphabetic_code": "COP"
     },
     "languages": [
-      "Spanish; Castilian"
+      "Spanish"
     ],
     "gdp": 271346896626,
     "area": 1138914,
@@ -8624,7 +8624,7 @@
       "alphabetic_code": "PEN"
     },
     "languages": [
-      "Spanish; Castilian",
+      "Spanish",
       "Quechua"
     ],
     "gdp": 202014363787,
@@ -8951,7 +8951,7 @@
       "alphabetic_code": "MXN"
     },
     "languages": [
-      "Spanish; Castilian"
+      "Spanish"
     ],
     "gdp": 1076163316175,
     "area": 1958201,
@@ -9275,7 +9275,7 @@
       "alphabetic_code": "ARS"
     },
     "languages": [
-      "Spanish; Castilian",
+      "Spanish",
       "English",
       "Italian",
       "German",
@@ -9457,7 +9457,7 @@
     },
     "languages": [
       "Portuguese",
-      "Spanish; Castilian",
+      "Spanish",
       "English",
       "French"
     ],
@@ -9514,7 +9514,7 @@
     },
     "languages": [
       "English",
-      "Spanish; Castilian",
+      "Spanish",
       "French"
     ],
     "gdp": 20936600000000,
