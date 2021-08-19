@@ -1,4 +1,4 @@
-# EthMap Data
+# EthMap
 
 Sources:
 - https://datahub.io/core/country-list
