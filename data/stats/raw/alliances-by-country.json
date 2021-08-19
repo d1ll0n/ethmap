@@ -1,0 +1,1077 @@
+[
+  {
+    "country": "Albania",
+    "alliances": [
+      "NATO",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Belgium",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ]
+  },
+  {
+    "country": "Bulgaria",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ]
+  },
+  {
+    "country": "Canada",
+    "alliances": [
+      "NATO",
+      "OAS",
+      "G7",
+      "G20"
+    ]
+  },
+  {
+    "country": "Croatia",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ]
+  },
+  {
+    "country": "Denmark",
+    "alliances": [
+      "NATO"
+    ]
+  },
+  {
+    "country": "Estonia",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ]
+  },
+  {
+    "country": "France",
+    "alliances": [
+      "NATO",
+      "European Union",
+      "G7",
+      "G20"
+    ]
+  },
+  {
+    "country": "Germany",
+    "alliances": [
+      "NATO",
+      "European Union",
+      "European Union",
+      "G7",
+      "G20"
+    ]
+  },
+  {
+    "country": "Greece",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ]
+  },
+  {
+    "country": "Hungary",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ]
+  },
+  {
+    "country": "Iceland",
+    "alliances": [
+      "NATO"
+    ]
+  },
+  {
+    "country": "Italy",
+    "alliances": [
+      "NATO",
+      "European Union",
+      "G7",
+      "G20"
+    ]
+  },
+  {
+    "country": "Latvia",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ]
+  },
+  {
+    "country": "Luxembourg",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ]
+  },
+  {
+    "country": "Montenegro",
+    "alliances": [
+      "NATO"
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ]
+  },
+  {
+    "country": "North Macedonia",
+    "alliances": [
+      "NATO"
+    ]
+  },
+  {
+    "country": "Norway",
+    "alliances": [
+      "NATO"
+    ]
+  },
+  {
+    "country": "Poland",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ]
+  },
+  {
+    "country": "Portugal",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ]
+  },
+  {
+    "country": "Romania",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ]
+  },
+  {
+    "country": "Slovakia",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ]
+  },
+  {
+    "country": "Slovenia",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ]
+  },
+  {
+    "country": "Spain",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ]
+  },
+  {
+    "country": "Turkey",
+    "alliances": [
+      "NATO",
+      "G20",
+      "OIC"
+    ]
+  },
+  {
+    "country": "United Kingdom",
+    "alliances": [
+      "NATO",
+      "G7",
+      "G20"
+    ]
+  },
+  {
+    "country": "United States",
+    "alliances": [
+      "NATO",
+      "OAS",
+      "G7",
+      "G20",
+      "Rio Pact"
+    ]
+  },
+  {
+    "country": "Austria",
+    "alliances": [
+      "European Union"
+    ]
+  },
+  {
+    "country": "Cyprus",
+    "alliances": [
+      "European Union"
+    ]
+  },
+  {
+    "country": "Finland",
+    "alliances": [
+      "European Union"
+    ]
+  },
+  {
+    "country": "Ireland",
+    "alliances": [
+      "European Union"
+    ]
+  },
+  {
+    "country": "Lithuania",
+    "alliances": [
+      "European Union"
+    ]
+  },
+  {
+    "country": "Malta",
+    "alliances": [
+      "European Union"
+    ]
+  },
+  {
+    "country": "Sweden",
+    "alliances": [
+      "European Union"
+    ]
+  },
+  {
+    "country": "Algeria",
+    "alliances": [
+      "Arab League",
+      "African Union",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Bahrain",
+    "alliances": [
+      "Arab League",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Comoros",
+    "alliances": [
+      "Arab League",
+      "African Union",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Djibouti",
+    "alliances": [
+      "Arab League",
+      "African Union",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Egypt",
+    "alliances": [
+      "Arab League",
+      "African Union",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Iraq",
+    "alliances": [
+      "Arab League",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Jordan",
+    "alliances": [
+      "Arab League",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Kuwait",
+    "alliances": [
+      "Arab League",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Lebanon",
+    "alliances": [
+      "Arab League",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Mauritania",
+    "alliances": [
+      "Arab League",
+      "African Union",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Morocco",
+    "alliances": [
+      "Arab League",
+      "African Union",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Oman",
+    "alliances": [
+      "Arab League",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Palestine",
+    "alliances": [
+      "Arab League",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Qatar",
+    "alliances": [
+      "Arab League",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "alliances": [
+      "Arab League",
+      "G20",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Somalia",
+    "alliances": [
+      "Arab League",
+      "African Union",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Sudan",
+    "alliances": [
+      "Arab League",
+      "African Union",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "alliances": [
+      "Arab League",
+      "African Union",
+      "OIC"
+    ]
+  },
+  {
+    "country": "United Arab Emirates",
+    "alliances": [
+      "Arab League",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Yemen",
+    "alliances": [
+      "Arab League",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Angola",
+    "alliances": [
+      "African Union",
+      "ZPCAS"
+    ]
+  },
+  {
+    "country": "Benin",
+    "alliances": [
+      "African Union",
+      "ZPCAS",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Botswana",
+    "alliances": [
+      "African Union"
+    ]
+  },
+  {
+    "country": "Burkina Faso",
+    "alliances": [
+      "African Union",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Burundi",
+    "alliances": [
+      "African Union"
+    ]
+  },
+  {
+    "country": "Cameroon",
+    "alliances": [
+      "African Union",
+      "ZPCAS",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Cape Verde",
+    "alliances": [
+      "African Union",
+      "ZPCAS"
+    ]
+  },
+  {
+    "country": "Central African Republic",
+    "alliances": [
+      "African Union"
+    ]
+  },
+  {
+    "country": "Chad",
+    "alliances": [
+      "African Union",
+      "OIC",
+      "Based"
+    ]
+  },
+  {
+    "country": "Republic of the Congo",
+    "alliances": [
+      "African Union",
+      "ZPCAS"
+    ]
+  },
+  {
+    "country": "Equatorial Guinea",
+    "alliances": [
+      "African Union",
+      "ZPCAS"
+    ]
+  },
+  {
+    "country": "Eritrea",
+    "alliances": [
+      "African Union"
+    ]
+  },
+  {
+    "country": "Swaziland",
+    "alliances": [
+      "African Union"
+    ]
+  },
+  {
+    "country": "Ethiopia",
+    "alliances": [
+      "African Union",
+      "Future Of France"
+    ]
+  },
+  {
+    "country": "Gabon",
+    "alliances": [
+      "African Union",
+      "ZPCAS",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Gambia",
+    "alliances": [
+      "African Union",
+      "ZPCAS",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Ghana",
+    "alliances": [
+      "African Union",
+      "ZPCAS"
+    ]
+  },
+  {
+    "country": "Guinea",
+    "alliances": [
+      "African Union",
+      "ZPCAS",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Guinea-Bissau",
+    "alliances": [
+      "African Union",
+      "ZPCAS",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Ivory Coast",
+    "alliances": [
+      "African Union",
+      "ZPCAS",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Kenya",
+    "alliances": [
+      "African Union"
+    ]
+  },
+  {
+    "country": "Lesotho",
+    "alliances": [
+      "African Union"
+    ]
+  },
+  {
+    "country": "Liberia",
+    "alliances": [
+      "African Union",
+      "ZPCAS"
+    ]
+  },
+  {
+    "country": "Libyan Arab Jamahiriya",
+    "alliances": [
+      "African Union",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Madagascar",
+    "alliances": [
+      "African Union"
+    ]
+  },
+  {
+    "country": "Malawi",
+    "alliances": [
+      "African Union"
+    ]
+  },
+  {
+    "country": "Mali",
+    "alliances": [
+      "African Union",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Mauritius",
+    "alliances": [
+      "African Union"
+    ]
+  },
+  {
+    "country": "Mozambique",
+    "alliances": [
+      "African Union",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Namibia",
+    "alliances": [
+      "African Union",
+      "ZPCAS"
+    ]
+  },
+  {
+    "country": "Niger",
+    "alliances": [
+      "African Union",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Nigeria",
+    "alliances": [
+      "African Union",
+      "ZPCAS",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Republic of the Congo",
+    "alliances": [
+      "African Union",
+      "ZPCAS"
+    ]
+  },
+  {
+    "country": "Rwanda",
+    "alliances": [
+      "African Union"
+    ]
+  },
+  {
+    "country": "Western Sahara",
+    "alliances": [
+      "African Union"
+    ]
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "alliances": [
+      "African Union",
+      "ZPCAS"
+    ]
+  },
+  {
+    "country": "Senegal",
+    "alliances": [
+      "African Union",
+      "ZPCAS",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Seychelles",
+    "alliances": [
+      "African Union"
+    ]
+  },
+  {
+    "country": "Sierra Leone",
+    "alliances": [
+      "African Union",
+      "ZPCAS",
+      "OIC"
+    ]
+  },
+  {
+    "country": "South Africa",
+    "alliances": [
+      "African Union",
+      "G20",
+      "ZPCAS"
+    ]
+  },
+  {
+    "country": "Tanzania",
+    "alliances": [
+      "African Union"
+    ]
+  },
+  {
+    "country": "Togo",
+    "alliances": [
+      "African Union",
+      "ZPCAS",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Uganda",
+    "alliances": [
+      "African Union",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Zambia",
+    "alliances": [
+      "African Union"
+    ]
+  },
+  {
+    "country": "Zimbabwe",
+    "alliances": [
+      "African Union"
+    ]
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "alliances": [
+      "OAS",
+      "CARICOM"
+    ]
+  },
+  {
+    "country": "Argentina",
+    "alliances": [
+      "OAS",
+      "G20",
+      "Rio Pact",
+      "ZPCAS"
+    ]
+  },
+  {
+    "country": "Bahamas",
+    "alliances": [
+      "OAS",
+      "CARICOM",
+      "Rio Pact"
+    ]
+  },
+  {
+    "country": "Barbados",
+    "alliances": [
+      "OAS",
+      "CARICOM"
+    ]
+  },
+  {
+    "country": "Belize",
+    "alliances": [
+      "OAS",
+      "CARICOM",
+      "ZPCAS"
+    ]
+  },
+  {
+    "country": "Bolivia",
+    "alliances": [
+      "OAS"
+    ]
+  },
+  {
+    "country": "Brazil",
+    "alliances": [
+      "OAS",
+      "G20",
+      "Rio Pact"
+    ]
+  },
+  {
+    "country": "Chile",
+    "alliances": [
+      "OAS",
+      "Rio Pact"
+    ]
+  },
+  {
+    "country": "Colombia",
+    "alliances": [
+      "OAS",
+      "Rio Pact"
+    ]
+  },
+  {
+    "country": "Costa Rica",
+    "alliances": [
+      "OAS",
+      "Rio Pact"
+    ]
+  },
+  {
+    "country": "Dominica",
+    "alliances": [
+      "OAS",
+      "CARICOM"
+    ]
+  },
+  {
+    "country": "Dominican Republic",
+    "alliances": [
+      "OAS",
+      "Rio Pact"
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "alliances": [
+      "OAS"
+    ]
+  },
+  {
+    "country": "El Salvador",
+    "alliances": [
+      "OAS",
+      "Rio Pact"
+    ]
+  },
+  {
+    "country": "Grenada",
+    "alliances": [
+      "OAS",
+      "CARICOM"
+    ]
+  },
+  {
+    "country": "Guatemala",
+    "alliances": [
+      "OAS",
+      "Rio Pact"
+    ]
+  },
+  {
+    "country": "Guyana",
+    "alliances": [
+      "OAS",
+      "CARICOM",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Haiti",
+    "alliances": [
+      "OAS",
+      "CARICOM",
+      "Rio Pact"
+    ]
+  },
+  {
+    "country": "Honduras",
+    "alliances": [
+      "OAS",
+      "Rio Pact"
+    ]
+  },
+  {
+    "country": "Jamaica",
+    "alliances": [
+      "OAS",
+      "CARICOM"
+    ]
+  },
+  {
+    "country": "Mexico",
+    "alliances": [
+      "OAS",
+      "G20"
+    ]
+  },
+  {
+    "country": "Nicaragua",
+    "alliances": [
+      "OAS"
+    ]
+  },
+  {
+    "country": "Panama",
+    "alliances": [
+      "OAS",
+      "Rio Pact"
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "alliances": [
+      "OAS",
+      "Rio Pact"
+    ]
+  },
+  {
+    "country": "Peru",
+    "alliances": [
+      "OAS",
+      "Rio Pact"
+    ]
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "alliances": [
+      "OAS",
+      "CARICOM"
+    ]
+  },
+  {
+    "country": "Saint Lucia",
+    "alliances": [
+      "OAS",
+      "CARICOM"
+    ]
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "alliances": [
+      "OAS",
+      "CARICOM"
+    ]
+  },
+  {
+    "country": "Suriname",
+    "alliances": [
+      "OAS",
+      "CARICOM",
+      "OIC"
+    ]
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "alliances": [
+      "OAS",
+      "CARICOM",
+      "Rio Pact"
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "alliances": [
+      "OAS",
+      "Rio Pact",
+      "ZPCAS"
+    ]
+  },
+  {
+    "country": "Venezuela",
+    "alliances": [
+      "OAS",
+      "Rio Pact"
+    ]
+  },
+  {
+    "country": "Japan",
+    "alliances": [
+      "G7",
+      "G20"
+    ]
+  },
+  {
+    "country": "Australia",
+    "alliances": [
+      "G20"
+    ]
+  },
+  {
+    "country": "India",
+    "alliances": [
+      "G20"
+    ]
+  },
+  {
+    "country": "Russian Federation",
+    "alliances": [
+      "G20"
+    ]
+  },
+  {
+    "country": "China",
+    "alliances": [
+      "G20"
+    ]
+  },
+  {
+    "country": "Indonesia",
+    "alliances": [
+      "G20",
+      "OIC"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "alliances": [
+      "G20"
+    ]
+  },
+  {
+    "country": "Montserrat",
+    "alliances": [
+      "CARICOM"
+    ]
+  },
+  {
+    "country": "Afghanistan",
+    "alliances": [
+      "OIC"
+    ]
+  },
+  {
+    "country": "Azerbaijan",
+    "alliances": [
+      "OIC"
+    ]
+  },
+  {
+    "country": "Bangladesh",
+    "alliances": [
+      "OIC"
+    ]
+  },
+  {
+    "country": "Brunei",
+    "alliances": [
+      "OIC"
+    ]
+  },
+  {
+    "country": "Iran",
+    "alliances": [
+      "OIC"
+    ]
+  },
+  {
+    "country": "Kazakhstan",
+    "alliances": [
+      "OIC"
+    ]
+  },
+  {
+    "country": "Kyrgyzstan",
+    "alliances": [
+      "OIC"
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "alliances": [
+      "OIC"
+    ]
+  },
+  {
+    "country": "Maldives",
+    "alliances": [
+      "OIC"
+    ]
+  },
+  {
+    "country": "Pakistan",
+    "alliances": [
+      "OIC"
+    ]
+  },
+  {
+    "country": "Tajikistan",
+    "alliances": [
+      "OIC"
+    ]
+  },
+  {
+    "country": "Turkmenistan",
+    "alliances": [
+      "OIC"
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "alliances": [
+      "OIC"
+    ]
+  }
+]

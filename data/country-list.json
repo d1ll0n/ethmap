@@ -756,7 +756,7 @@
   {
     "CLDR display name": "Australia",
     "Capital": "Canberra",
-    "Continent": "OC",
+    "Continent": "AUS",
     "DS": "AUS",
     "Developed / Developing Countries": "Developed",
     "Dial": "61",
@@ -3436,8 +3436,8 @@
     "Global Code": "True",
     "Global Name": "World",
     "IOC": "TRNC",
-    "ISO3166-1-Alpha-2": null,
-    "ISO3166-1-Alpha-3": null,
+    "ISO3166-1-Alpha-2": "NT",
+    "ISO3166-1-Alpha-3": "NCY",
     "ISO3166-1-numeric": null,
     "ISO4217-currency_alphabetic_code": "TRY",
     "ISO4217-currency_country_name": "TURKEY",
@@ -13920,7 +13920,7 @@
     "official_name_ru": "\u0412\u0438\u0440\u0433\u0438\u043d\u0441\u043a\u0438\u0435 o\u0441\u0442\u0440\u043e\u0432\u0430 Coe\u0434\u0438\u043de\u043d\u043d\u044bx \u0428\u0442a\u0442o\u0432"
   },
   {
-    "CLDR display name": "US",
+    "CLDR display name": "United States",
     "Capital": "Washington",
     "Continent": "NA",
     "DS": "USA",

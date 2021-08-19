@@ -1,0 +1,2004 @@
+{
+  "AF": {
+    "area": 652090,
+    "population": 37172386,
+    "government": "Islamic Emirate",
+    "income": "Low income",
+    "alliances": [
+      "OIC"
+    ],
+    "lifeExpectancy": 45.9,
+    "nuclear": null
+  },
+  "AO": {
+    "area": 1246700,
+    "population": 30809762,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "African Union",
+      "ZPCAS"
+    ],
+    "lifeExpectancy": 38.3,
+    "nuclear": null
+  },
+  "AL": {
+    "area": 28748,
+    "population": 2866376,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "NATO",
+      "OIC"
+    ],
+    "lifeExpectancy": 71.6,
+    "nuclear": null
+  },
+  "AE": {
+    "area": 83600,
+    "population": 9630959,
+    "government": "Emirate Federation",
+    "income": "High income",
+    "alliances": [
+      "Arab League",
+      "OIC"
+    ],
+    "lifeExpectancy": 74.1,
+    "nuclear": null
+  },
+  "AR": {
+    "area": 2780400,
+    "population": 44494502,
+    "government": "Federal Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "OAS",
+      "G20",
+      "Rio Pact",
+      "ZPCAS"
+    ],
+    "lifeExpectancy": 75.1,
+    "nuclear": null
+  },
+  "AM": {
+    "area": 29800,
+    "population": 2951776,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "lifeExpectancy": 66.4,
+    "alliances": [],
+    "nuclear": null
+  },
+  "AQ": {
+    "area": 13120000,
+    "population": 1106,
+    "government": "Co-administrated",
+    "lifeExpectancy": null,
+    "alliances": [],
+    "income": null,
+    "nuclear": null
+  },
+  "TF": {
+    "area": 7780,
+    "population": null,
+    "government": "Nonmetropolitan Territory of France",
+    "lifeExpectancy": null,
+    "alliances": [],
+    "income": null,
+    "nuclear": null
+  },
+  "AU": {
+    "area": 7741220,
+    "population": 24982688,
+    "government": "Federation Constitutional Monarchy",
+    "income": "High income",
+    "alliances": [
+      "G20"
+    ],
+    "lifeExpectancy": 79.8,
+    "nuclear": null
+  },
+  "AT": {
+    "area": 83859,
+    "population": 8840521,
+    "government": "Federal Republic",
+    "income": "High income",
+    "alliances": [
+      "European Union"
+    ],
+    "lifeExpectancy": 77.7,
+    "nuclear": null
+  },
+  "AZ": {
+    "area": 86600,
+    "population": 9939800,
+    "government": "Federal Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "OIC"
+    ],
+    "lifeExpectancy": 62.9,
+    "nuclear": null
+  },
+  "BI": {
+    "area": 27834,
+    "population": 11175378,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union"
+    ],
+    "lifeExpectancy": 46.2,
+    "nuclear": null
+  },
+  "BE": {
+    "area": 30518,
+    "population": 11433256,
+    "government": "Federation Constitutional Monarchy",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ],
+    "lifeExpectancy": 77.8,
+    "nuclear": null
+  },
+  "BJ": {
+    "area": 112622,
+    "population": 11485048,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "African Union",
+      "ZPCAS",
+      "OIC"
+    ],
+    "lifeExpectancy": 50.2,
+    "nuclear": null
+  },
+  "BF": {
+    "area": 274000,
+    "population": 19751535,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union",
+      "OIC"
+    ],
+    "lifeExpectancy": 46.7,
+    "nuclear": null
+  },
+  "BD": {
+    "area": 143998,
+    "population": 161356039,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "OIC"
+    ],
+    "lifeExpectancy": 60.2,
+    "nuclear": null
+  },
+  "BG": {
+    "area": 110994,
+    "population": 7025037,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ],
+    "lifeExpectancy": 70.9,
+    "nuclear": null
+  },
+  "BH": {
+    "area": 694,
+    "population": 1569439,
+    "government": "Monarchy (Emirate)",
+    "income": "High income",
+    "alliances": [
+      "Arab League",
+      "OIC"
+    ],
+    "lifeExpectancy": 73,
+    "nuclear": null
+  },
+  "BS": {
+    "area": 13878,
+    "population": 385640,
+    "government": "Constitutional Monarchy",
+    "income": "High income",
+    "alliances": [
+      "OAS",
+      "CARICOM",
+      "Rio Pact"
+    ],
+    "lifeExpectancy": 71.1,
+    "nuclear": null
+  },
+  "BA": {
+    "area": 51197,
+    "population": 3323929,
+    "government": "Federal Republic",
+    "income": "Upper middle income",
+    "lifeExpectancy": 71.5,
+    "alliances": [],
+    "nuclear": null
+  },
+  "BY": {
+    "area": 207600,
+    "population": 9483499,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "lifeExpectancy": 68,
+    "alliances": [],
+    "nuclear": null
+  },
+  "BZ": {
+    "area": 22696,
+    "population": 383071,
+    "government": "Constitutional Monarchy",
+    "income": "Lower middle income",
+    "alliances": [
+      "OAS",
+      "CARICOM",
+      "ZPCAS"
+    ],
+    "lifeExpectancy": 70.9,
+    "nuclear": null
+  },
+  "BO": {
+    "area": 1098581,
+    "population": 11353142,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "OAS"
+    ],
+    "lifeExpectancy": 63.7,
+    "nuclear": null
+  },
+  "BR": {
+    "area": 8547403,
+    "population": 209469333,
+    "government": "Federal Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "OAS",
+      "G20",
+      "Rio Pact"
+    ],
+    "lifeExpectancy": 62.9,
+    "nuclear": null
+  },
+  "BT": {
+    "area": 47000,
+    "population": 754394,
+    "government": "Monarchy",
+    "income": "Lower middle income",
+    "lifeExpectancy": 52.4,
+    "alliances": [],
+    "nuclear": null
+  },
+  "BW": {
+    "area": 581730,
+    "population": 2254126,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "African Union"
+    ],
+    "lifeExpectancy": 39.3,
+    "nuclear": null
+  },
+  "CF": {
+    "area": 622984,
+    "population": 4666377,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union"
+    ],
+    "lifeExpectancy": 44,
+    "nuclear": null
+  },
+  "CA": {
+    "area": 9970610,
+    "population": 37057765,
+    "government": "Constitutional Monarchy, Federation",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "OAS",
+      "G7",
+      "G20"
+    ],
+    "lifeExpectancy": 79.4,
+    "nuclear": null
+  },
+  "CH": {
+    "area": 41284,
+    "population": 8513227,
+    "government": "Federation",
+    "income": "High income",
+    "lifeExpectancy": 79.6,
+    "alliances": [],
+    "nuclear": null
+  },
+  "CL": {
+    "area": 756626,
+    "population": 18729160,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "OAS",
+      "Rio Pact"
+    ],
+    "lifeExpectancy": 75.7,
+    "nuclear": null
+  },
+  "CN": {
+    "area": 9572900,
+    "population": 1392730000,
+    "government": "People's Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "G20"
+    ],
+    "nuclear": "Nuclear Triad",
+    "lifeExpectancy": 71.4
+  },
+  "CI": {
+    "area": 322463,
+    "population": 25069229,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "African Union",
+      "ZPCAS",
+      "OIC"
+    ],
+    "lifeExpectancy": 45.2,
+    "nuclear": null
+  },
+  "CM": {
+    "area": 475442,
+    "population": 25216237,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "African Union",
+      "ZPCAS",
+      "OIC"
+    ],
+    "lifeExpectancy": 54.8,
+    "nuclear": null
+  },
+  "CD": {
+    "area": 2344858,
+    "population": 105044646,
+    "government": "Republic",
+    "income": "Low income",
+    "lifeExpectancy": 60.37,
+    "alliances": [],
+    "nuclear": null
+  },
+  "ME": {
+    "area": 5333,
+    "population": 631219,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "NATO"
+    ],
+    "lifeExpectancy": 76.77,
+    "nuclear": null
+  },
+  "CG": {
+    "area": 342000,
+    "population": 5244363,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "African Union",
+      "ZPCAS"
+    ],
+    "lifeExpectancy": 64.29,
+    "nuclear": null
+  },
+  "CO": {
+    "area": 1138914,
+    "population": 49648685,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "OAS",
+      "Rio Pact"
+    ],
+    "lifeExpectancy": 70.3,
+    "nuclear": null
+  },
+  "CR": {
+    "area": 51100,
+    "population": 4999441,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "OAS",
+      "Rio Pact"
+    ],
+    "lifeExpectancy": 75.8,
+    "nuclear": null
+  },
+  "CU": {
+    "area": 110861,
+    "population": 11338138,
+    "government": "Socialistic Republic",
+    "income": "Upper middle income",
+    "lifeExpectancy": 76.2,
+    "alliances": [],
+    "nuclear": null
+  },
+  "CY": {
+    "area": 9251,
+    "population": 1189265,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "European Union"
+    ],
+    "lifeExpectancy": 76.7,
+    "nuclear": null
+  },
+  "NT": {
+    "area": 3355,
+    "population": 326000,
+    "government": "Republic",
+    "income": "High income",
+    "lifeExpectancy": 76.7,
+    "alliances": [],
+    "nuclear": null
+  },
+  "CZ": {
+    "area": 78866,
+    "population": 10629928,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ],
+    "lifeExpectancy": 74.5,
+    "nuclear": null
+  },
+  "DE": {
+    "area": 357022,
+    "population": 82905782,
+    "government": "Federal Republic",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "European Union",
+      "European Union",
+      "G7",
+      "G20"
+    ],
+    "lifeExpectancy": 77.4,
+    "nuclear": null
+  },
+  "DJ": {
+    "area": 23200,
+    "population": 958920,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "Arab League",
+      "African Union",
+      "OIC"
+    ],
+    "lifeExpectancy": 50.8,
+    "nuclear": null
+  },
+  "DK": {
+    "area": 43094,
+    "population": 5793636,
+    "government": "Constitutional Monarchy",
+    "income": "High income",
+    "alliances": [
+      "NATO"
+    ],
+    "lifeExpectancy": 76.5,
+    "nuclear": null
+  },
+  "DO": {
+    "area": 48511,
+    "population": 10627165,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "OAS",
+      "Rio Pact"
+    ],
+    "lifeExpectancy": 73.2,
+    "nuclear": null
+  },
+  "DZ": {
+    "area": 2381741,
+    "population": 42228429,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "Arab League",
+      "African Union",
+      "OIC"
+    ],
+    "lifeExpectancy": 69.7,
+    "nuclear": null
+  },
+  "EC": {
+    "area": 283561,
+    "population": 17084357,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "OAS"
+    ],
+    "lifeExpectancy": 71.1,
+    "nuclear": null
+  },
+  "EG": {
+    "area": 1001449,
+    "population": 98423595,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "Arab League",
+      "African Union",
+      "OIC"
+    ],
+    "lifeExpectancy": 63.3,
+    "nuclear": null
+  },
+  "ER": {
+    "area": 117600,
+    "population": 6213972,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union"
+    ],
+    "lifeExpectancy": 55.8,
+    "nuclear": null
+  },
+  "EH": {
+    "area": 266000,
+    "population": 652271,
+    "government": "Occupied by Marocco",
+    "alliances": [
+      "African Union"
+    ],
+    "lifeExpectancy": 49.8,
+    "income": null,
+    "nuclear": null
+  },
+  "ES": {
+    "area": 505992,
+    "population": 46796540,
+    "government": "Constitutional Monarchy",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ],
+    "lifeExpectancy": 78.8,
+    "nuclear": null
+  },
+  "EE": {
+    "area": 45227,
+    "population": 1321977,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ],
+    "lifeExpectancy": 69.5,
+    "nuclear": null
+  },
+  "ET": {
+    "area": 1104300,
+    "population": 109224559,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union",
+      "Future Of France"
+    ],
+    "lifeExpectancy": 45.2,
+    "nuclear": null
+  },
+  "FI": {
+    "area": 338145,
+    "population": 5515525,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "European Union"
+    ],
+    "lifeExpectancy": 77.4,
+    "nuclear": null
+  },
+  "FJ": {
+    "area": 18274,
+    "population": 883483,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "lifeExpectancy": 67.9,
+    "alliances": [],
+    "nuclear": null
+  },
+  "FK": {
+    "area": 12173,
+    "population": 2840,
+    "government": "Dependent Territory of the UK",
+    "lifeExpectancy": null,
+    "alliances": [],
+    "income": null,
+    "nuclear": null
+  },
+  "FR": {
+    "area": 551500,
+    "population": 66977107,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "European Union",
+      "G7",
+      "G20"
+    ],
+    "nuclear": "Sea & Air",
+    "lifeExpectancy": 78.8
+  },
+  "GA": {
+    "area": 267668,
+    "population": 2119275,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "African Union",
+      "ZPCAS",
+      "OIC"
+    ],
+    "lifeExpectancy": 50.1,
+    "nuclear": null
+  },
+  "GB": {
+    "area": 242900,
+    "population": 66460344,
+    "government": "Constitutional Monarchy",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "G7",
+      "G20"
+    ],
+    "nuclear": "Sea",
+    "lifeExpectancy": 77.7
+  },
+  "GE": {
+    "area": 69700,
+    "population": 3726549,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "lifeExpectancy": 64.5,
+    "alliances": [],
+    "nuclear": null
+  },
+  "GH": {
+    "area": 238533,
+    "population": 29767108,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "African Union",
+      "ZPCAS"
+    ],
+    "lifeExpectancy": 57.4,
+    "nuclear": null
+  },
+  "GN": {
+    "area": 245857,
+    "population": 12414318,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union",
+      "ZPCAS",
+      "OIC"
+    ],
+    "lifeExpectancy": 45.6,
+    "nuclear": null
+  },
+  "GM": {
+    "area": 11295,
+    "population": 2280102,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union",
+      "ZPCAS",
+      "OIC"
+    ],
+    "lifeExpectancy": 53.2,
+    "nuclear": null
+  },
+  "GW": {
+    "area": 36125,
+    "population": 1874309,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union",
+      "ZPCAS",
+      "OIC"
+    ],
+    "lifeExpectancy": 49,
+    "nuclear": null
+  },
+  "GQ": {
+    "area": 28051,
+    "population": 1308974,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "African Union",
+      "ZPCAS"
+    ],
+    "lifeExpectancy": 53.6,
+    "nuclear": null
+  },
+  "GR": {
+    "area": 131626,
+    "population": 10731726,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ],
+    "lifeExpectancy": 78.4,
+    "nuclear": null
+  },
+  "GL": {
+    "area": 2166090,
+    "population": 56025,
+    "government": "Part of Denmark",
+    "income": "High income",
+    "lifeExpectancy": 68.1,
+    "alliances": [],
+    "nuclear": null
+  },
+  "GT": {
+    "area": 108889,
+    "population": 17247807,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "OAS",
+      "Rio Pact"
+    ],
+    "lifeExpectancy": 66.2,
+    "nuclear": null
+  },
+  "GF": {
+    "area": 90000,
+    "population": 290691,
+    "government": "Overseas Department of France",
+    "lifeExpectancy": 76.1,
+    "alliances": [],
+    "income": null,
+    "nuclear": null
+  },
+  "GY": {
+    "area": 214969,
+    "population": 779004,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "OAS",
+      "CARICOM",
+      "OIC"
+    ],
+    "lifeExpectancy": 64,
+    "nuclear": null
+  },
+  "HN": {
+    "area": 112088,
+    "population": 9587522,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "OAS",
+      "Rio Pact"
+    ],
+    "lifeExpectancy": 69.9,
+    "nuclear": null
+  },
+  "HR": {
+    "area": 56538,
+    "population": 4087843,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ],
+    "lifeExpectancy": 73.7,
+    "nuclear": null
+  },
+  "HT": {
+    "area": 27750,
+    "population": 11123176,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "OAS",
+      "CARICOM",
+      "Rio Pact"
+    ],
+    "lifeExpectancy": 49.2,
+    "nuclear": null
+  },
+  "HU": {
+    "area": 93030,
+    "population": 9775564,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ],
+    "lifeExpectancy": 71.4,
+    "nuclear": null
+  },
+  "ID": {
+    "area": 1904569,
+    "population": 267663435,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "G20",
+      "OIC"
+    ],
+    "lifeExpectancy": 70.1,
+    "nuclear": null
+  },
+  "IN": {
+    "area": 3287263,
+    "population": 1352617328,
+    "government": "Federal Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "G20"
+    ],
+    "nuclear": "Nuclear Triad",
+    "lifeExpectancy": 62.5
+  },
+  "IE": {
+    "area": 70273,
+    "population": 4867309,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "European Union"
+    ],
+    "lifeExpectancy": 76.8,
+    "nuclear": null
+  },
+  "IR": {
+    "area": 1648195,
+    "population": 81800269,
+    "government": "Islamic Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "OIC"
+    ],
+    "lifeExpectancy": 69.7,
+    "nuclear": null
+  },
+  "IQ": {
+    "area": 438317,
+    "population": 38433600,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "Arab League",
+      "OIC"
+    ],
+    "lifeExpectancy": 66.5,
+    "nuclear": null
+  },
+  "IS": {
+    "area": 103000,
+    "population": 352721,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "NATO"
+    ],
+    "lifeExpectancy": 79.4,
+    "nuclear": null
+  },
+  "IL": {
+    "area": 21056,
+    "population": 8882800,
+    "government": "Republic",
+    "income": "High income",
+    "nuclear": "Suspected Nuclear Triad",
+    "lifeExpectancy": 78.6,
+    "alliances": []
+  },
+  "IT": {
+    "area": 301316,
+    "population": 60421760,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "European Union",
+      "G7",
+      "G20"
+    ],
+    "lifeExpectancy": 79,
+    "nuclear": null
+  },
+  "JM": {
+    "area": 10990,
+    "population": 2934855,
+    "government": "Constitutional Monarchy",
+    "income": "Upper middle income",
+    "alliances": [
+      "OAS",
+      "CARICOM"
+    ],
+    "lifeExpectancy": 75.2,
+    "nuclear": null
+  },
+  "JO": {
+    "area": 88946,
+    "population": 9956011,
+    "government": "Constitutional Monarchy",
+    "income": "Upper middle income",
+    "alliances": [
+      "Arab League",
+      "OIC"
+    ],
+    "lifeExpectancy": 77.4,
+    "nuclear": null
+  },
+  "JP": {
+    "area": 377829,
+    "population": 126529100,
+    "government": "Constitutional Monarchy",
+    "income": "High income",
+    "alliances": [
+      "G7",
+      "G20"
+    ],
+    "lifeExpectancy": 80.7,
+    "nuclear": null
+  },
+  "KZ": {
+    "area": 2724900,
+    "population": 18272430,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "OIC"
+    ],
+    "lifeExpectancy": 63.2,
+    "nuclear": null
+  },
+  "KE": {
+    "area": 580367,
+    "population": 51393010,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "African Union"
+    ],
+    "lifeExpectancy": 48,
+    "nuclear": null
+  },
+  "KG": {
+    "area": 199900,
+    "population": 6322800,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "OIC"
+    ],
+    "lifeExpectancy": 63.4,
+    "nuclear": null
+  },
+  "KH": {
+    "area": 181035,
+    "population": 16249798,
+    "government": "Constitutional Monarchy",
+    "income": "Lower middle income",
+    "lifeExpectancy": 56.5,
+    "alliances": [],
+    "nuclear": null
+  },
+  "KR": {
+    "area": 99434,
+    "population": 51606633,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "G20"
+    ],
+    "lifeExpectancy": 74.4,
+    "nuclear": null
+  },
+  "KW": {
+    "area": 17818,
+    "population": 4137309,
+    "government": "Constitutional Monarchy (Emirate)",
+    "income": "High income",
+    "alliances": [
+      "Arab League",
+      "OIC"
+    ],
+    "lifeExpectancy": 76.1,
+    "nuclear": null
+  },
+  "LA": {
+    "area": 236800,
+    "population": 7061507,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "lifeExpectancy": 53.1,
+    "alliances": [],
+    "nuclear": null
+  },
+  "LB": {
+    "area": 10400,
+    "population": 6848925,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "Arab League",
+      "OIC"
+    ],
+    "lifeExpectancy": 71.3,
+    "nuclear": null
+  },
+  "LR": {
+    "area": 111369,
+    "population": 4818977,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union",
+      "ZPCAS"
+    ],
+    "lifeExpectancy": 51,
+    "nuclear": null
+  },
+  "LY": {
+    "area": 1759540,
+    "population": 6678567,
+    "government": "Socialistic State",
+    "income": "Upper middle income",
+    "alliances": [
+      "African Union",
+      "OIC"
+    ],
+    "lifeExpectancy": 75.5,
+    "nuclear": null
+  },
+  "LK": {
+    "area": 65610,
+    "population": 21670000,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "lifeExpectancy": 76.81,
+    "alliances": [],
+    "nuclear": null
+  },
+  "LS": {
+    "area": 30355,
+    "population": 2108132,
+    "government": "Constitutional Monarchy",
+    "income": "Lower middle income",
+    "alliances": [
+      "African Union"
+    ],
+    "lifeExpectancy": 50.8,
+    "nuclear": null
+  },
+  "LT": {
+    "area": 65301,
+    "population": 2801543,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "European Union"
+    ],
+    "lifeExpectancy": 69.1,
+    "nuclear": null
+  },
+  "LU": {
+    "area": 2586,
+    "population": 607950,
+    "government": "Constitutional Monarchy",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ],
+    "lifeExpectancy": 77.1,
+    "nuclear": null
+  },
+  "LV": {
+    "area": 64589,
+    "population": 1927174,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ],
+    "lifeExpectancy": 68.4,
+    "nuclear": null
+  },
+  "MA": {
+    "area": 446550,
+    "population": 36029138,
+    "government": "Constitutional Monarchy",
+    "income": "Lower middle income",
+    "alliances": [
+      "Arab League",
+      "African Union",
+      "OIC"
+    ],
+    "lifeExpectancy": 69.1,
+    "nuclear": null
+  },
+  "MD": {
+    "area": 33851,
+    "population": 2706049,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "lifeExpectancy": 64.5,
+    "alliances": [],
+    "nuclear": null
+  },
+  "MG": {
+    "area": 587041,
+    "population": 26262368,
+    "government": "Federal Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union"
+    ],
+    "lifeExpectancy": 55,
+    "nuclear": null
+  },
+  "MX": {
+    "area": 1958201,
+    "population": 126190788,
+    "government": "Federal Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "OAS",
+      "G20"
+    ],
+    "lifeExpectancy": 71.5,
+    "nuclear": null
+  },
+  "MK": {
+    "area": 25713,
+    "population": 2084367,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "NATO"
+    ],
+    "lifeExpectancy": 73.8,
+    "nuclear": null
+  },
+  "ML": {
+    "area": 1240192,
+    "population": 19077690,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union",
+      "OIC"
+    ],
+    "lifeExpectancy": 46.7,
+    "nuclear": null
+  },
+  "MM": {
+    "area": 676578,
+    "population": 53708395,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "lifeExpectancy": 54.9,
+    "alliances": [],
+    "nuclear": null
+  },
+  "MN": {
+    "area": 1566500,
+    "population": 3170208,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "lifeExpectancy": 67.3,
+    "alliances": [],
+    "nuclear": null
+  },
+  "MZ": {
+    "area": 801590,
+    "population": 29495962,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union",
+      "OIC"
+    ],
+    "lifeExpectancy": 37.5,
+    "nuclear": null
+  },
+  "MQ": {
+    "area": 1102,
+    "population": 376480,
+    "government": "Overseas Department of France",
+    "lifeExpectancy": 78.3,
+    "alliances": [],
+    "income": null,
+    "nuclear": null
+  },
+  "MW": {
+    "area": 118484,
+    "population": 18143315,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union"
+    ],
+    "lifeExpectancy": 37.6,
+    "nuclear": null
+  },
+  "MY": {
+    "area": 329758,
+    "population": 31528585,
+    "government": "Constitutional Monarchy",
+    "income": "Upper middle income",
+    "alliances": [
+      "OIC"
+    ],
+    "lifeExpectancy": 70.8,
+    "nuclear": null
+  },
+  "NA": {
+    "area": 824292,
+    "population": 2448255,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "African Union",
+      "ZPCAS"
+    ],
+    "lifeExpectancy": 42.5,
+    "nuclear": null
+  },
+  "NC": {
+    "area": 18575,
+    "population": 284060,
+    "government": "Nonmetropolitan Territory of France",
+    "income": "High income",
+    "lifeExpectancy": 72.8,
+    "alliances": [],
+    "nuclear": null
+  },
+  "NE": {
+    "area": 1267000,
+    "population": 22442948,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union",
+      "OIC"
+    ],
+    "lifeExpectancy": 41.3,
+    "nuclear": null
+  },
+  "NG": {
+    "area": 923768,
+    "population": 195874740,
+    "government": "Federal Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "African Union",
+      "ZPCAS",
+      "OIC"
+    ],
+    "lifeExpectancy": 51.6,
+    "nuclear": null
+  },
+  "NI": {
+    "area": 130000,
+    "population": 6465513,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "OAS"
+    ],
+    "lifeExpectancy": 68.7,
+    "nuclear": null
+  },
+  "NL": {
+    "area": 41526,
+    "population": 17231624,
+    "government": "Constitutional Monarchy",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ],
+    "lifeExpectancy": 78.3,
+    "nuclear": null
+  },
+  "NO": {
+    "area": 323877,
+    "population": 5311916,
+    "government": "Constitutional Monarchy",
+    "income": "High income",
+    "alliances": [
+      "NATO"
+    ],
+    "lifeExpectancy": 78.7,
+    "nuclear": null
+  },
+  "NP": {
+    "area": 147181,
+    "population": 28087871,
+    "government": "Federal parliamentary republic",
+    "income": "Lower middle income",
+    "lifeExpectancy": 57.8,
+    "alliances": [],
+    "nuclear": null
+  },
+  "NZ": {
+    "area": 270534,
+    "population": 4841000,
+    "government": "Constitutional Monarchy",
+    "income": "High income",
+    "lifeExpectancy": 77.8,
+    "alliances": [],
+    "nuclear": null
+  },
+  "OM": {
+    "area": 309500,
+    "population": 4829483,
+    "government": "Monarchy (Sultanate)",
+    "income": "High income",
+    "alliances": [
+      "Arab League",
+      "OIC"
+    ],
+    "lifeExpectancy": 71.8,
+    "nuclear": null
+  },
+  "PK": {
+    "area": 796095,
+    "population": 212215030,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "OIC"
+    ],
+    "nuclear": "Land & Air",
+    "lifeExpectancy": 61.1
+  },
+  "PA": {
+    "area": 75517,
+    "population": 4176873,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "OAS",
+      "Rio Pact"
+    ],
+    "lifeExpectancy": 75.5,
+    "nuclear": null
+  },
+  "PE": {
+    "area": 1285216,
+    "population": 31989256,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "OAS",
+      "Rio Pact"
+    ],
+    "lifeExpectancy": 70,
+    "nuclear": null
+  },
+  "PH": {
+    "area": 300000,
+    "population": 106651922,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "lifeExpectancy": 67.5,
+    "alliances": [],
+    "nuclear": null
+  },
+  "PG": {
+    "area": 462840,
+    "population": 8606316,
+    "government": "Constitutional Monarchy",
+    "income": "Lower middle income",
+    "lifeExpectancy": 63.1,
+    "alliances": [],
+    "nuclear": null
+  },
+  "PL": {
+    "area": 323250,
+    "population": 37974750,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ],
+    "lifeExpectancy": 73.2,
+    "nuclear": null
+  },
+  "PR": {
+    "area": 8875,
+    "population": 3195153,
+    "government": "Commonwealth of the US",
+    "income": "High income",
+    "lifeExpectancy": 75.6,
+    "alliances": [],
+    "nuclear": null
+  },
+  "KP": {
+    "area": 120538,
+    "population": 25549819,
+    "government": "Socialistic Republic",
+    "income": "Low income",
+    "nuclear": "Land & Sea",
+    "lifeExpectancy": 70.7,
+    "alliances": []
+  },
+  "PT": {
+    "area": 91982,
+    "population": 10283822,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ],
+    "lifeExpectancy": 75.8,
+    "nuclear": null
+  },
+  "PY": {
+    "area": 406752,
+    "population": 6956071,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "OAS",
+      "Rio Pact"
+    ],
+    "lifeExpectancy": 73.7,
+    "nuclear": null
+  },
+  "PS": {
+    "area": 6257,
+    "population": 4569087,
+    "government": "Autonomous Area",
+    "income": "Lower middle income",
+    "alliances": [
+      "Arab League",
+      "OIC"
+    ],
+    "lifeExpectancy": 71.4,
+    "nuclear": null
+  },
+  "QA": {
+    "area": 11000,
+    "population": 2781677,
+    "government": "Monarchy",
+    "income": "High income",
+    "alliances": [
+      "Arab League",
+      "OIC"
+    ],
+    "lifeExpectancy": 72.4,
+    "nuclear": null
+  },
+  "RO": {
+    "area": 238391,
+    "population": 19466145,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ],
+    "lifeExpectancy": 69.9,
+    "nuclear": null
+  },
+  "RU": {
+    "area": 17075400,
+    "population": 144478050,
+    "government": "Federal Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "G20"
+    ],
+    "nuclear": "Nuclear Triad",
+    "lifeExpectancy": 67.2
+  },
+  "RW": {
+    "area": 26338,
+    "population": 12301939,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union"
+    ],
+    "lifeExpectancy": 39.3,
+    "nuclear": null
+  },
+  "SA": {
+    "area": 2149690,
+    "population": 33699947,
+    "government": "Monarchy",
+    "income": "High income",
+    "alliances": [
+      "Arab League",
+      "G20",
+      "OIC"
+    ],
+    "lifeExpectancy": 67.8,
+    "nuclear": null
+  },
+  "SD": {
+    "area": 1886068,
+    "population": 41801533,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "Arab League",
+      "African Union",
+      "OIC"
+    ],
+    "lifeExpectancy": 56.6,
+    "nuclear": null
+  },
+  "SS": {
+    "area": 619745,
+    "population": 10975920,
+    "government": "Republic",
+    "income": "Low income",
+    "lifeExpectancy": 57.6,
+    "alliances": [],
+    "nuclear": null
+  },
+  "SN": {
+    "area": 196722,
+    "population": 15854360,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "African Union",
+      "ZPCAS",
+      "OIC"
+    ],
+    "lifeExpectancy": 62.2,
+    "nuclear": null
+  },
+  "RS": {
+    "area": 88361,
+    "population": 6963764,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "lifeExpectancy": 76.05,
+    "alliances": [],
+    "nuclear": null
+  },
+  "SB": {
+    "area": 28896,
+    "population": 652858,
+    "government": "Constitutional Monarchy",
+    "income": "Lower middle income",
+    "lifeExpectancy": 71.3,
+    "alliances": [],
+    "nuclear": null
+  },
+  "SL": {
+    "area": 71740,
+    "population": 7650154,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union",
+      "ZPCAS",
+      "OIC"
+    ],
+    "lifeExpectancy": 45.3,
+    "nuclear": null
+  },
+  "SV": {
+    "area": 21041,
+    "population": 6420744,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "OAS",
+      "Rio Pact"
+    ],
+    "lifeExpectancy": 69.7,
+    "nuclear": null
+  },
+  "SO": {
+    "area": 637657,
+    "population": 15008154,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "Arab League",
+      "African Union",
+      "OIC"
+    ],
+    "lifeExpectancy": 46.2,
+    "nuclear": null
+  },
+  "SR": {
+    "area": 163265,
+    "population": 575991,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "OAS",
+      "CARICOM",
+      "OIC"
+    ],
+    "lifeExpectancy": 71.4,
+    "nuclear": null
+  },
+  "SK": {
+    "area": 49012,
+    "population": 5446771,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ],
+    "lifeExpectancy": 73.7,
+    "nuclear": null
+  },
+  "SI": {
+    "area": 20256,
+    "population": 2073894,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ],
+    "lifeExpectancy": 74.9,
+    "nuclear": null
+  },
+  "SE": {
+    "area": 449964,
+    "population": 10175214,
+    "government": "Constitutional Monarchy",
+    "income": "High income",
+    "alliances": [
+      "European Union"
+    ],
+    "lifeExpectancy": 79.6,
+    "nuclear": null
+  },
+  "SZ": {
+    "area": 17364,
+    "population": 1136191,
+    "government": "Monarchy",
+    "income": "Lower middle income",
+    "alliances": [
+      "African Union"
+    ],
+    "lifeExpectancy": 40.4,
+    "nuclear": null
+  },
+  "SY": {
+    "area": 185180,
+    "population": 16906283,
+    "government": "Republic",
+    "income": "Low income",
+    "lifeExpectancy": 68.5,
+    "alliances": [],
+    "nuclear": null
+  },
+  "TD": {
+    "area": 1284000,
+    "population": 15477751,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union",
+      "OIC",
+      "Based"
+    ],
+    "lifeExpectancy": 50.5,
+    "nuclear": null
+  },
+  "TG": {
+    "area": 56785,
+    "population": 7889094,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union",
+      "ZPCAS",
+      "OIC"
+    ],
+    "lifeExpectancy": 54.7,
+    "nuclear": null
+  },
+  "TH": {
+    "area": 513115,
+    "population": 69428524,
+    "government": "Constitutional Monarchy",
+    "income": "Upper middle income",
+    "lifeExpectancy": 68.6,
+    "alliances": [],
+    "nuclear": null
+  },
+  "TJ": {
+    "area": 143100,
+    "population": 9100837,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "OIC"
+    ],
+    "lifeExpectancy": 64.1,
+    "nuclear": null
+  },
+  "TM": {
+    "area": 488100,
+    "population": 5850908,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "OIC"
+    ],
+    "lifeExpectancy": 60.9,
+    "nuclear": null
+  },
+  "TL": {
+    "area": 14874,
+    "population": 1267972,
+    "government": "Administrated by the UN",
+    "income": "Lower middle income",
+    "lifeExpectancy": 46,
+    "alliances": [],
+    "nuclear": null
+  },
+  "XK": {
+    "area": 10887,
+    "population": 1935259,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "lifeExpectancy": 72.5,
+    "alliances": [],
+    "nuclear": null
+  },
+  "TT": {
+    "area": 5130,
+    "population": 1389858,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "OAS",
+      "CARICOM",
+      "Rio Pact"
+    ],
+    "lifeExpectancy": 68,
+    "nuclear": null
+  },
+  "TN": {
+    "area": 163610,
+    "population": 11565204,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "Arab League",
+      "African Union",
+      "OIC"
+    ],
+    "lifeExpectancy": 73.7,
+    "nuclear": null
+  },
+  "TR": {
+    "area": 774815,
+    "population": 82319724,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "NATO",
+      "G20",
+      "OIC"
+    ],
+    "lifeExpectancy": 71,
+    "nuclear": null
+  },
+  "TW": {
+    "area": 36188,
+    "population": 23570000,
+    "government": "Republic",
+    "income": "High income",
+    "lifeExpectancy": 80.94,
+    "alliances": [],
+    "nuclear": null
+  },
+  "TZ": {
+    "area": 883749,
+    "population": 56318348,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "African Union"
+    ],
+    "lifeExpectancy": 52.3,
+    "nuclear": null
+  },
+  "UG": {
+    "area": 241038,
+    "population": 42723139,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union",
+      "OIC"
+    ],
+    "lifeExpectancy": 42.9,
+    "nuclear": null
+  },
+  "UA": {
+    "area": 603700,
+    "population": 44622516,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "lifeExpectancy": 66,
+    "alliances": [],
+    "nuclear": null
+  },
+  "UY": {
+    "area": 175016,
+    "population": 3449299,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "OAS",
+      "Rio Pact",
+      "ZPCAS"
+    ],
+    "lifeExpectancy": 75.2,
+    "nuclear": null
+  },
+  "US": {
+    "area": 9363520,
+    "population": 326687501,
+    "government": "Federal Republic",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "OAS",
+      "G7",
+      "G20",
+      "Rio Pact"
+    ],
+    "nuclear": "Nuclear Triad",
+    "lifeExpectancy": 77.1
+  },
+  "UZ": {
+    "area": 447400,
+    "population": 32955400,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "OIC"
+    ],
+    "lifeExpectancy": 63.7,
+    "nuclear": null
+  },
+  "VE": {
+    "area": 912050,
+    "population": 28870195,
+    "government": "Federal Republic",
+    "income": "Not classified",
+    "alliances": [
+      "OAS",
+      "Rio Pact"
+    ],
+    "lifeExpectancy": 73.1,
+    "nuclear": null
+  },
+  "VN": {
+    "area": 331689,
+    "population": 95540395,
+    "government": "Socialistic Republic",
+    "income": "Lower middle income",
+    "lifeExpectancy": 69.3,
+    "alliances": [],
+    "nuclear": null
+  },
+  "VU": {
+    "area": 12189,
+    "population": 292680,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "lifeExpectancy": 60.6,
+    "alliances": [],
+    "nuclear": null
+  },
+  "YE": {
+    "area": 527968,
+    "population": 28498687,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "Arab League",
+      "OIC"
+    ],
+    "lifeExpectancy": 59.8,
+    "nuclear": null
+  },
+  "ZA": {
+    "area": 1221037,
+    "population": 57779622,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "African Union",
+      "G20",
+      "ZPCAS"
+    ],
+    "lifeExpectancy": 51.1,
+    "nuclear": null
+  },
+  "ZM": {
+    "area": 752618,
+    "population": 17351822,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "African Union"
+    ],
+    "lifeExpectancy": 37.2,
+    "nuclear": null
+  },
+  "ZW": {
+    "area": 390757,
+    "population": 14439018,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "African Union"
+    ],
+    "lifeExpectancy": 37.8,
+    "nuclear": null
+  }
+}

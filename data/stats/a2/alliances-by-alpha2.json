@@ -1,0 +1,611 @@
+{
+  "AL": [
+    "NATO",
+    "OIC"
+  ],
+  "BE": [
+    "NATO",
+    "European Union"
+  ],
+  "BG": [
+    "NATO",
+    "European Union"
+  ],
+  "CA": [
+    "NATO",
+    "OAS",
+    "G7",
+    "G20"
+  ],
+  "HR": [
+    "NATO",
+    "European Union"
+  ],
+  "CZ": [
+    "NATO",
+    "European Union"
+  ],
+  "DK": [
+    "NATO"
+  ],
+  "EE": [
+    "NATO",
+    "European Union"
+  ],
+  "FR": [
+    "NATO",
+    "European Union",
+    "G7",
+    "G20"
+  ],
+  "DE": [
+    "NATO",
+    "European Union",
+    "European Union",
+    "G7",
+    "G20"
+  ],
+  "GR": [
+    "NATO",
+    "European Union"
+  ],
+  "HU": [
+    "NATO",
+    "European Union"
+  ],
+  "IS": [
+    "NATO"
+  ],
+  "IT": [
+    "NATO",
+    "European Union",
+    "G7",
+    "G20"
+  ],
+  "LV": [
+    "NATO",
+    "European Union"
+  ],
+  "LU": [
+    "NATO",
+    "European Union"
+  ],
+  "ME": [
+    "NATO"
+  ],
+  "NL": [
+    "NATO",
+    "European Union"
+  ],
+  "MK": [
+    "NATO"
+  ],
+  "NO": [
+    "NATO"
+  ],
+  "PL": [
+    "NATO",
+    "European Union"
+  ],
+  "PT": [
+    "NATO",
+    "European Union"
+  ],
+  "RO": [
+    "NATO",
+    "European Union"
+  ],
+  "SK": [
+    "NATO",
+    "European Union"
+  ],
+  "SI": [
+    "NATO",
+    "European Union"
+  ],
+  "ES": [
+    "NATO",
+    "European Union"
+  ],
+  "TR": [
+    "NATO",
+    "G20",
+    "OIC"
+  ],
+  "GB": [
+    "NATO",
+    "G7",
+    "G20"
+  ],
+  "US": [
+    "NATO",
+    "OAS",
+    "G7",
+    "G20",
+    "Rio Pact"
+  ],
+  "AT": [
+    "European Union"
+  ],
+  "CY": [
+    "European Union"
+  ],
+  "FI": [
+    "European Union"
+  ],
+  "IE": [
+    "European Union"
+  ],
+  "LT": [
+    "European Union"
+  ],
+  "MT": [
+    "European Union"
+  ],
+  "SE": [
+    "European Union"
+  ],
+  "DZ": [
+    "Arab League",
+    "African Union",
+    "OIC"
+  ],
+  "BH": [
+    "Arab League",
+    "OIC"
+  ],
+  "KM": [
+    "Arab League",
+    "African Union",
+    "OIC"
+  ],
+  "DJ": [
+    "Arab League",
+    "African Union",
+    "OIC"
+  ],
+  "EG": [
+    "Arab League",
+    "African Union",
+    "OIC"
+  ],
+  "IQ": [
+    "Arab League",
+    "OIC"
+  ],
+  "JO": [
+    "Arab League",
+    "OIC"
+  ],
+  "KW": [
+    "Arab League",
+    "OIC"
+  ],
+  "LB": [
+    "Arab League",
+    "OIC"
+  ],
+  "MR": [
+    "Arab League",
+    "African Union",
+    "OIC"
+  ],
+  "MA": [
+    "Arab League",
+    "African Union",
+    "OIC"
+  ],
+  "OM": [
+    "Arab League",
+    "OIC"
+  ],
+  "PS": [
+    "Arab League",
+    "OIC"
+  ],
+  "QA": [
+    "Arab League",
+    "OIC"
+  ],
+  "SA": [
+    "Arab League",
+    "G20",
+    "OIC"
+  ],
+  "SO": [
+    "Arab League",
+    "African Union",
+    "OIC"
+  ],
+  "SD": [
+    "Arab League",
+    "African Union",
+    "OIC"
+  ],
+  "TN": [
+    "Arab League",
+    "African Union",
+    "OIC"
+  ],
+  "AE": [
+    "Arab League",
+    "OIC"
+  ],
+  "YE": [
+    "Arab League",
+    "OIC"
+  ],
+  "AO": [
+    "African Union",
+    "ZPCAS"
+  ],
+  "BJ": [
+    "African Union",
+    "ZPCAS",
+    "OIC"
+  ],
+  "BW": [
+    "African Union"
+  ],
+  "BF": [
+    "African Union",
+    "OIC"
+  ],
+  "BI": [
+    "African Union"
+  ],
+  "CM": [
+    "African Union",
+    "ZPCAS",
+    "OIC"
+  ],
+  "CV": [
+    "African Union",
+    "ZPCAS"
+  ],
+  "CF": [
+    "African Union"
+  ],
+  "TD": [
+    "African Union",
+    "OIC",
+    "Based"
+  ],
+  "CG": [
+    "African Union",
+    "ZPCAS"
+  ],
+  "GQ": [
+    "African Union",
+    "ZPCAS"
+  ],
+  "ER": [
+    "African Union"
+  ],
+  "SZ": [
+    "African Union"
+  ],
+  "ET": [
+    "African Union",
+    "Future Of France"
+  ],
+  "GA": [
+    "African Union",
+    "ZPCAS",
+    "OIC"
+  ],
+  "GM": [
+    "African Union",
+    "ZPCAS",
+    "OIC"
+  ],
+  "GH": [
+    "African Union",
+    "ZPCAS"
+  ],
+  "GN": [
+    "African Union",
+    "ZPCAS",
+    "OIC"
+  ],
+  "GW": [
+    "African Union",
+    "ZPCAS",
+    "OIC"
+  ],
+  "CI": [
+    "African Union",
+    "ZPCAS",
+    "OIC"
+  ],
+  "KE": [
+    "African Union"
+  ],
+  "LS": [
+    "African Union"
+  ],
+  "LR": [
+    "African Union",
+    "ZPCAS"
+  ],
+  "LY": [
+    "African Union",
+    "OIC"
+  ],
+  "MG": [
+    "African Union"
+  ],
+  "MW": [
+    "African Union"
+  ],
+  "ML": [
+    "African Union",
+    "OIC"
+  ],
+  "MU": [
+    "African Union"
+  ],
+  "MZ": [
+    "African Union",
+    "OIC"
+  ],
+  "NA": [
+    "African Union",
+    "ZPCAS"
+  ],
+  "NE": [
+    "African Union",
+    "OIC"
+  ],
+  "NG": [
+    "African Union",
+    "ZPCAS",
+    "OIC"
+  ],
+  "RW": [
+    "African Union"
+  ],
+  "EH": [
+    "African Union"
+  ],
+  "ST": [
+    "African Union",
+    "ZPCAS"
+  ],
+  "SN": [
+    "African Union",
+    "ZPCAS",
+    "OIC"
+  ],
+  "SC": [
+    "African Union"
+  ],
+  "SL": [
+    "African Union",
+    "ZPCAS",
+    "OIC"
+  ],
+  "ZA": [
+    "African Union",
+    "G20",
+    "ZPCAS"
+  ],
+  "TZ": [
+    "African Union"
+  ],
+  "TG": [
+    "African Union",
+    "ZPCAS",
+    "OIC"
+  ],
+  "UG": [
+    "African Union",
+    "OIC"
+  ],
+  "ZM": [
+    "African Union"
+  ],
+  "ZW": [
+    "African Union"
+  ],
+  "AG": [
+    "OAS",
+    "CARICOM"
+  ],
+  "AR": [
+    "OAS",
+    "G20",
+    "Rio Pact",
+    "ZPCAS"
+  ],
+  "BS": [
+    "OAS",
+    "CARICOM",
+    "Rio Pact"
+  ],
+  "BB": [
+    "OAS",
+    "CARICOM"
+  ],
+  "BZ": [
+    "OAS",
+    "CARICOM",
+    "ZPCAS"
+  ],
+  "BO": [
+    "OAS"
+  ],
+  "BR": [
+    "OAS",
+    "G20",
+    "Rio Pact"
+  ],
+  "CL": [
+    "OAS",
+    "Rio Pact"
+  ],
+  "CO": [
+    "OAS",
+    "Rio Pact"
+  ],
+  "CR": [
+    "OAS",
+    "Rio Pact"
+  ],
+  "DM": [
+    "OAS",
+    "CARICOM"
+  ],
+  "DO": [
+    "OAS",
+    "Rio Pact"
+  ],
+  "EC": [
+    "OAS"
+  ],
+  "SV": [
+    "OAS",
+    "Rio Pact"
+  ],
+  "GD": [
+    "OAS",
+    "CARICOM"
+  ],
+  "GT": [
+    "OAS",
+    "Rio Pact"
+  ],
+  "GY": [
+    "OAS",
+    "CARICOM",
+    "OIC"
+  ],
+  "HT": [
+    "OAS",
+    "CARICOM",
+    "Rio Pact"
+  ],
+  "HN": [
+    "OAS",
+    "Rio Pact"
+  ],
+  "JM": [
+    "OAS",
+    "CARICOM"
+  ],
+  "MX": [
+    "OAS",
+    "G20"
+  ],
+  "NI": [
+    "OAS"
+  ],
+  "PA": [
+    "OAS",
+    "Rio Pact"
+  ],
+  "PY": [
+    "OAS",
+    "Rio Pact"
+  ],
+  "PE": [
+    "OAS",
+    "Rio Pact"
+  ],
+  "KN": [
+    "OAS",
+    "CARICOM"
+  ],
+  "LC": [
+    "OAS",
+    "CARICOM"
+  ],
+  "VC": [
+    "OAS",
+    "CARICOM"
+  ],
+  "SR": [
+    "OAS",
+    "CARICOM",
+    "OIC"
+  ],
+  "TT": [
+    "OAS",
+    "CARICOM",
+    "Rio Pact"
+  ],
+  "UY": [
+    "OAS",
+    "Rio Pact",
+    "ZPCAS"
+  ],
+  "VE": [
+    "OAS",
+    "Rio Pact"
+  ],
+  "JP": [
+    "G7",
+    "G20"
+  ],
+  "AU": [
+    "G20"
+  ],
+  "IN": [
+    "G20"
+  ],
+  "RU": [
+    "G20"
+  ],
+  "CN": [
+    "G20"
+  ],
+  "ID": [
+    "G20",
+    "OIC"
+  ],
+  "KR": [
+    "G20"
+  ],
+  "MS": [
+    "CARICOM"
+  ],
+  "AF": [
+    "OIC"
+  ],
+  "AZ": [
+    "OIC"
+  ],
+  "BD": [
+    "OIC"
+  ],
+  "BN": [
+    "OIC"
+  ],
+  "IR": [
+    "OIC"
+  ],
+  "KZ": [
+    "OIC"
+  ],
+  "KG": [
+    "OIC"
+  ],
+  "MY": [
+    "OIC"
+  ],
+  "MV": [
+    "OIC"
+  ],
+  "PK": [
+    "OIC"
+  ],
+  "TJ": [
+    "OIC"
+  ],
+  "TM": [
+    "OIC"
+  ],
+  "UZ": [
+    "OIC"
+  ]
+}

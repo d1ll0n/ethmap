@@ -3,6 +3,9 @@
     "id": 1,
     "original_name": "Luxembourg",
     "original_symbol": "LUX",
+    "capital": "Luxembourg",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "Luxembourg",
     "short_name": "Luxembourg",
     "abbreviation": "LUX",
@@ -33,22 +36,45 @@
       "name": "Euro",
       "numeric_code": 978,
       "alphabetic_code": "EUR"
-    }
+    },
+    "languages": [
+      "Luxembourgish",
+      "German",
+      "French"
+    ],
+    "gdp": 73263982103,
+    "area": 2586,
+    "population": 607950,
+    "government": "Constitutional Monarchy",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ],
+    "lifeExpectancy": 77.1,
+    "nuclear": null
   },
   {
     "id": 2,
     "original_name": "Northern Cyprus",
     "original_symbol": "NCY",
+    "capital": "North Nicosia",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "Turkish Republic of Northern Cyprus",
     "short_name": "Northern Cyprus",
-    "abbreviation": "TRNC",
+    "abbreviation": "NCY",
     "names": {
       "cldr": "Northern Cyprus",
       "official": "Turkish Republic of Northern Cyprus",
       "unterm_formal": null,
       "unterm_short": null
     },
-    "iso_3166_1": null,
+    "iso_3166_1": {
+      "alpha2": "NT",
+      "alpha3": "NCY",
+      "numeric_code": null
+    },
     "m49": {
       "numeric_code": null,
       "region": {
@@ -65,12 +91,28 @@
       "name": "Turkish Lira",
       "numeric_code": 949,
       "alphabetic_code": "TRY"
-    }
+    },
+    "languages": [
+      "Greek",
+      "Turkish",
+      "English"
+    ],
+    "gdp": null,
+    "area": 3355,
+    "population": 326000,
+    "government": "Republic",
+    "income": "High income",
+    "lifeExpectancy": 76.7,
+    "alliances": [],
+    "nuclear": null
   },
   {
     "id": 3,
     "original_name": "Trinidad and Tobago",
     "original_symbol": "TTO",
+    "capital": "Port of Spain",
+    "continent": "North America",
+    "economy": "Developing",
     "long_name": "Trinidad and Tobago",
     "short_name": "Trinidad & Tobago",
     "abbreviation": "TTO",
@@ -104,12 +146,33 @@
       "name": "Trinidad and Tobago Dollar",
       "numeric_code": 780,
       "alphabetic_code": "TTD"
-    }
+    },
+    "languages": [
+      "English",
+      "French",
+      "Spanish; Castilian",
+      "Chinese"
+    ],
+    "gdp": 21529824769,
+    "area": 5130,
+    "population": 1389858,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "OAS",
+      "CARICOM",
+      "Rio Pact"
+    ],
+    "lifeExpectancy": 68,
+    "nuclear": null
   },
   {
     "id": 4,
     "original_name": "Brunei",
     "original_symbol": "BRN",
+    "capital": "Manama",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "Bahrain",
     "short_name": "Bahrain",
     "abbreviation": "BHR",
@@ -140,12 +203,32 @@
       "name": "Bahraini Dinar",
       "numeric_code": 48,
       "alphabetic_code": "BHD"
-    }
+    },
+    "languages": [
+      "Arabic",
+      "English",
+      "Persian",
+      "Urdu"
+    ],
+    "gdp": 38474521277,
+    "area": 694,
+    "population": 1569439,
+    "government": "Monarchy (Emirate)",
+    "income": "High income",
+    "alliances": [
+      "Arab League",
+      "OIC"
+    ],
+    "lifeExpectancy": 73,
+    "nuclear": null
   },
   {
     "id": 5,
     "original_name": "French Southern and Antarctic Lands",
     "original_symbol": "ATF",
+    "capital": "Port-aux-Francais",
+    "continent": "Antarctica",
+    "economy": "Developing",
     "long_name": "French Southern Territories",
     "short_name": "French Southern Territories",
     "abbreviation": "ATF",
@@ -179,12 +262,26 @@
       "name": "Euro",
       "numeric_code": 978,
       "alphabetic_code": "EUR"
-    }
+    },
+    "languages": [
+      "French"
+    ],
+    "gdp": null,
+    "area": 7780,
+    "population": null,
+    "government": "Nonmetropolitan Territory of France",
+    "lifeExpectancy": null,
+    "alliances": [],
+    "income": null,
+    "nuclear": null
   },
   {
     "id": 6,
     "original_name": "Puerto Rico",
     "original_symbol": "PRI",
+    "capital": "San Juan",
+    "continent": "North America",
+    "economy": "Developing",
     "long_name": "Puerto Rico",
     "short_name": "Puerto Rico",
     "abbreviation": "PRI",
@@ -218,12 +315,27 @@
       "name": "US Dollar",
       "numeric_code": 840,
       "alphabetic_code": "USD"
-    }
+    },
+    "languages": [
+      "English",
+      "Spanish; Castilian"
+    ],
+    "gdp": 103138300000,
+    "area": 8875,
+    "population": 3195153,
+    "government": "Commonwealth of the US",
+    "income": "High income",
+    "lifeExpectancy": 75.6,
+    "alliances": [],
+    "nuclear": null
   },
   {
     "id": 7,
     "original_name": "Cyprus",
     "original_symbol": "CYP",
+    "capital": "Nicosia",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "Cyprus",
     "short_name": "Cyprus",
     "abbreviation": "CYP",
@@ -254,12 +366,30 @@
       "name": "Euro",
       "numeric_code": 978,
       "alphabetic_code": "EUR"
-    }
+    },
+    "languages": [
+      "Greek",
+      "Turkish",
+      "English"
+    ],
+    "gdp": 23804340377,
+    "area": 9251,
+    "population": 1189265,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "European Union"
+    ],
+    "lifeExpectancy": 76.7,
+    "nuclear": null
   },
   {
     "id": 8,
     "original_name": "Lebanon",
     "original_symbol": "LBN",
+    "capital": "Beirut",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "Lebanon",
     "short_name": "Lebanon",
     "abbreviation": "LBN",
@@ -290,12 +420,31 @@
       "name": "Lebanese Pound",
       "numeric_code": 422,
       "alphabetic_code": "LBP"
-    }
+    },
+    "languages": [
+      "Arabic",
+      "English",
+      "Armenian"
+    ],
+    "gdp": 33383246858,
+    "area": 10400,
+    "population": 6848925,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "Arab League",
+      "OIC"
+    ],
+    "lifeExpectancy": 71.3,
+    "nuclear": null
   },
   {
     "id": 9,
     "original_name": "Kosovo",
     "original_symbol": "KOS",
+    "capital": "Pristina",
+    "continent": "Europe",
+    "economy": "Developing",
     "long_name": "Kosovo",
     "short_name": "Kosovo",
     "abbreviation": "XXK",
@@ -326,12 +475,27 @@
       "name": "Euro",
       "numeric_code": 978,
       "alphabetic_code": "EUR"
-    }
+    },
+    "languages": [
+      "Serbian",
+      "Albanian"
+    ],
+    "gdp": 7611402165,
+    "area": 10887,
+    "population": 1935259,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "lifeExpectancy": 72.5,
+    "alliances": [],
+    "nuclear": null
   },
   {
     "id": 10,
     "original_name": "Jamaica",
     "original_symbol": "JAM",
+    "capital": "Kingston",
+    "continent": "North America",
+    "economy": "Developing",
     "long_name": "Jamaica",
     "short_name": "Jamaica",
     "abbreviation": "JAM",
@@ -365,12 +529,29 @@
       "name": "Jamaican Dollar",
       "numeric_code": 388,
       "alphabetic_code": "JMD"
-    }
+    },
+    "languages": [
+      "English"
+    ],
+    "gdp": 13812421803,
+    "area": 10990,
+    "population": 2934855,
+    "government": "Constitutional Monarchy",
+    "income": "Upper middle income",
+    "alliances": [
+      "OAS",
+      "CARICOM"
+    ],
+    "lifeExpectancy": 75.2,
+    "nuclear": null
   },
   {
     "id": 11,
     "original_name": "Gambia",
     "original_symbol": "GMB",
+    "capital": "Banjul",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Gambia",
     "short_name": "Gambia",
     "abbreviation": "GMB",
@@ -404,12 +585,32 @@
       "name": "Dalasi",
       "numeric_code": 270,
       "alphabetic_code": "GMD"
-    }
+    },
+    "languages": [
+      "English",
+      "Wolof",
+      "Fulah"
+    ],
+    "gdp": 1901930158,
+    "area": 11295,
+    "population": 2280102,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union",
+      "ZPCAS",
+      "OIC"
+    ],
+    "lifeExpectancy": 53.2,
+    "nuclear": null
   },
   {
     "id": 12,
     "original_name": "Qatar",
     "original_symbol": "QAT",
+    "capital": "Doha",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "Qatar",
     "short_name": "Qatar",
     "abbreviation": "QAT",
@@ -440,12 +641,30 @@
       "name": "Qatari Rial",
       "numeric_code": 634,
       "alphabetic_code": "QAR"
-    }
+    },
+    "languages": [
+      "Arabic",
+      "Spanish; Castilian"
+    ],
+    "gdp": 146373588867,
+    "area": 11000,
+    "population": 2781677,
+    "government": "Monarchy",
+    "income": "High income",
+    "alliances": [
+      "Arab League",
+      "OIC"
+    ],
+    "lifeExpectancy": 72.4,
+    "nuclear": null
   },
   {
     "id": 13,
     "original_name": "Falkland Islands",
     "original_symbol": "FLK",
+    "capital": "Stanley",
+    "continent": "South America",
+    "economy": "Developing",
     "long_name": "Falkland Islands (Malvinas)",
     "short_name": "Falkland Islands",
     "abbreviation": "FLK",
@@ -475,12 +694,26 @@
         "name": "South America"
       }
     },
-    "iso_4217": null
+    "iso_4217": null,
+    "languages": [
+      "English"
+    ],
+    "gdp": 193280000,
+    "area": 12173,
+    "population": 2840,
+    "government": "Dependent Territory of the UK",
+    "lifeExpectancy": null,
+    "alliances": [],
+    "income": null,
+    "nuclear": null
   },
   {
     "id": 14,
     "original_name": "Vanuatu",
     "original_symbol": "VUT",
+    "capital": "Port Vila",
+    "continent": "Oceania",
+    "economy": "Developing",
     "long_name": "Vanuatu",
     "short_name": "Vanuatu",
     "abbreviation": "VUT",
@@ -511,12 +744,27 @@
       "name": "Vatu",
       "numeric_code": 548,
       "alphabetic_code": "VUV"
-    }
+    },
+    "languages": [
+      "English",
+      "French"
+    ],
+    "gdp": 854793640,
+    "area": 12189,
+    "population": 292680,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "lifeExpectancy": 60.6,
+    "alliances": [],
+    "nuclear": null
   },
   {
     "id": 15,
     "original_name": "Montenegro",
     "original_symbol": "MNE",
+    "capital": "Podgorica",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "Montenegro",
     "short_name": "Montenegro",
     "abbreviation": "MNE",
@@ -547,12 +795,32 @@
       "name": "Euro",
       "numeric_code": 978,
       "alphabetic_code": "EUR"
-    }
+    },
+    "languages": [
+      "Serbian",
+      "Hungarian",
+      "Bosnian",
+      "Albanian",
+      "Croatian"
+    ],
+    "gdp": 4778582336,
+    "area": 5333,
+    "population": 631219,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "NATO"
+    ],
+    "lifeExpectancy": 76.77,
+    "nuclear": null
   },
   {
     "id": 16,
     "original_name": "The Bahamas",
     "original_symbol": "BHS",
+    "capital": "Nassau",
+    "continent": "North America",
+    "economy": "Developing",
     "long_name": "Bahamas",
     "short_name": "Bahamas",
     "abbreviation": "BHS",
@@ -586,12 +854,30 @@
       "name": "Bahamian Dollar",
       "numeric_code": 44,
       "alphabetic_code": "BSD"
-    }
+    },
+    "languages": [
+      "English"
+    ],
+    "gdp": 11250000000,
+    "area": 13878,
+    "population": 385640,
+    "government": "Constitutional Monarchy",
+    "income": "High income",
+    "alliances": [
+      "OAS",
+      "CARICOM",
+      "Rio Pact"
+    ],
+    "lifeExpectancy": 71.1,
+    "nuclear": null
   },
   {
     "id": 17,
     "original_name": "East Timor",
     "original_symbol": "TLS",
+    "capital": "Dili",
+    "continent": "Oceania",
+    "economy": "Developing",
     "long_name": "Timor-Leste",
     "short_name": "Timor-Leste",
     "abbreviation": "TLS",
@@ -622,12 +908,28 @@
       "name": "US Dollar",
       "numeric_code": 840,
       "alphabetic_code": "USD"
-    }
+    },
+    "languages": [
+      "Portuguese",
+      "Indonesian",
+      "English"
+    ],
+    "gdp": 1821000000,
+    "area": 14874,
+    "population": 1267972,
+    "government": "Administrated by the UN",
+    "income": "Lower middle income",
+    "lifeExpectancy": 46,
+    "alliances": [],
+    "nuclear": null
   },
   {
     "id": 18,
     "original_name": "Swaziland",
     "original_symbol": "SWZ",
+    "capital": "Mbabane",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Eswatini",
     "short_name": "Eswatini",
     "abbreviation": "SWZ",
@@ -661,12 +963,28 @@
       "name": "Lilangeni",
       "numeric_code": 748,
       "alphabetic_code": "SZL"
-    }
+    },
+    "languages": [
+      "English"
+    ],
+    "gdp": 3962493093,
+    "area": 17364,
+    "population": 1136191,
+    "government": "Monarchy",
+    "income": "Lower middle income",
+    "alliances": [
+      "African Union"
+    ],
+    "lifeExpectancy": 40.4,
+    "nuclear": null
   },
   {
     "id": 19,
     "original_name": "Kuwait",
     "original_symbol": "KWT",
+    "capital": "Kuwait City",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "Kuwait",
     "short_name": "Kuwait",
     "abbreviation": "KWT",
@@ -697,12 +1015,30 @@
       "name": "Kuwaiti Dinar",
       "numeric_code": 414,
       "alphabetic_code": "KWD"
-    }
+    },
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "gdp": 136196760181,
+    "area": 17818,
+    "population": 4137309,
+    "government": "Constitutional Monarchy (Emirate)",
+    "income": "High income",
+    "alliances": [
+      "Arab League",
+      "OIC"
+    ],
+    "lifeExpectancy": 76.1,
+    "nuclear": null
   },
   {
     "id": 20,
     "original_name": "Fiji",
     "original_symbol": "FJI",
+    "capital": "Suva",
+    "continent": "Oceania",
+    "economy": "Developing",
     "long_name": "Fiji",
     "short_name": "Fiji",
     "abbreviation": "FJI",
@@ -733,12 +1069,26 @@
       "name": "Fiji Dollar",
       "numeric_code": 242,
       "alphabetic_code": "FJD"
-    }
+    },
+    "languages": [
+      "English"
+    ],
+    "gdp": 4376014756,
+    "area": 18274,
+    "population": 883483,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "lifeExpectancy": 67.9,
+    "alliances": [],
+    "nuclear": null
   },
   {
     "id": 21,
     "original_name": "New Caledonia",
     "original_symbol": "NCL",
+    "capital": "Noumea",
+    "continent": "Oceania",
+    "economy": "Developing",
     "long_name": "New Caledonia",
     "short_name": "New Caledonia",
     "abbreviation": "NCL",
@@ -769,12 +1119,26 @@
       "name": "CFP Franc",
       "numeric_code": 953,
       "alphabetic_code": "XPF"
-    }
+    },
+    "languages": [
+      "French"
+    ],
+    "gdp": 2682000000,
+    "area": 18575,
+    "population": 284060,
+    "government": "Nonmetropolitan Territory of France",
+    "income": "High income",
+    "lifeExpectancy": 72.8,
+    "alliances": [],
+    "nuclear": null
   },
   {
     "id": 22,
     "original_name": "Slovenia",
     "original_symbol": "SVN",
+    "capital": "Ljubljana",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "Slovenia",
     "short_name": "Slovenia",
     "abbreviation": "SVN",
@@ -805,12 +1169,29 @@
       "name": "Euro",
       "numeric_code": 978,
       "alphabetic_code": "EUR"
-    }
+    },
+    "languages": [
+      "Slovenian"
+    ],
+    "gdp": 52880473700,
+    "area": 20256,
+    "population": 2073894,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ],
+    "lifeExpectancy": 74.9,
+    "nuclear": null
   },
   {
     "id": 23,
     "original_name": "Israel",
     "original_symbol": "ISR",
+    "capital": "Jerusalem",
+    "continent": "Asia",
+    "economy": "Developed",
     "long_name": "Israel",
     "short_name": "Israel",
     "abbreviation": "ISR",
@@ -841,12 +1222,28 @@
       "name": "New Israeli Sheqel",
       "numeric_code": 376,
       "alphabetic_code": "ILS"
-    }
+    },
+    "languages": [
+      "Hebrew",
+      "Arabic",
+      "English"
+    ],
+    "gdp": 401953804837,
+    "area": 21056,
+    "population": 8882800,
+    "government": "Republic",
+    "income": "High income",
+    "nuclear": "Suspected Nuclear Triad",
+    "lifeExpectancy": 78.6,
+    "alliances": []
   },
   {
     "id": 24,
     "original_name": "El Salvador",
     "original_symbol": "SLV",
+    "capital": "San Salvador",
+    "continent": "North America",
+    "economy": "Developing",
     "long_name": "El Salvador",
     "short_name": "El Salvador",
     "abbreviation": "SLV",
@@ -880,12 +1277,29 @@
       "name": "El Salvador Colon,US Dollar",
       "numeric_code": null,
       "alphabetic_code": "SVC,USD"
-    }
+    },
+    "languages": [
+      "Spanish; Castilian"
+    ],
+    "gdp": 24638720000,
+    "area": 21041,
+    "population": 6420744,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "OAS",
+      "Rio Pact"
+    ],
+    "lifeExpectancy": 69.7,
+    "nuclear": null
   },
   {
     "id": 25,
     "original_name": "Belize",
     "original_symbol": "BLZ",
+    "capital": "Belmopan",
+    "continent": "North America",
+    "economy": "Developing",
     "long_name": "Belize",
     "short_name": "Belize",
     "abbreviation": "BLZ",
@@ -919,12 +1333,31 @@
       "name": "Belize Dollar",
       "numeric_code": 84,
       "alphabetic_code": "BZD"
-    }
+    },
+    "languages": [
+      "English",
+      "Spanish; Castilian"
+    ],
+    "gdp": 1763696119,
+    "area": 22696,
+    "population": 383071,
+    "government": "Constitutional Monarchy",
+    "income": "Lower middle income",
+    "alliances": [
+      "OAS",
+      "CARICOM",
+      "ZPCAS"
+    ],
+    "lifeExpectancy": 70.9,
+    "nuclear": null
   },
   {
     "id": 26,
     "original_name": "Djibouti",
     "original_symbol": "DJI",
+    "capital": "Djibouti",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Djibouti",
     "short_name": "Djibouti",
     "abbreviation": "DJI",
@@ -958,12 +1391,32 @@
       "name": "Djibouti Franc",
       "numeric_code": 262,
       "alphabetic_code": "DJF"
-    }
+    },
+    "languages": [
+      "French",
+      "Arabic",
+      "Somali"
+    ],
+    "gdp": 3384404260,
+    "area": 23200,
+    "population": 958920,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "Arab League",
+      "African Union",
+      "OIC"
+    ],
+    "lifeExpectancy": 50.8,
+    "nuclear": null
   },
   {
     "id": 27,
     "original_name": "Macedonia",
     "original_symbol": "MKD",
+    "capital": "Skopje",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "The former Yugoslav Republic of Macedonia",
     "short_name": "North Macedonia",
     "abbreviation": "MKD",
@@ -994,12 +1447,31 @@
       "name": "Denar",
       "numeric_code": 807,
       "alphabetic_code": "MKD"
-    }
+    },
+    "languages": [
+      "Macedonian",
+      "Albanian",
+      "Turkish",
+      "Serbian"
+    ],
+    "gdp": 12266949805,
+    "area": 25713,
+    "population": 2084367,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "NATO"
+    ],
+    "lifeExpectancy": 73.8,
+    "nuclear": null
   },
   {
     "id": 28,
     "original_name": "Rwanda",
     "original_symbol": "RWA",
+    "capital": "Kigali",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Rwanda",
     "short_name": "Rwanda",
     "abbreviation": "RWA",
@@ -1033,12 +1505,31 @@
       "name": "Rwanda Franc",
       "numeric_code": 646,
       "alphabetic_code": "RWF"
-    }
+    },
+    "languages": [
+      "Kinyarwanda",
+      "English",
+      "French",
+      "Swahili"
+    ],
+    "gdp": 10333991892,
+    "area": 26338,
+    "population": 12301939,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union"
+    ],
+    "lifeExpectancy": 39.3,
+    "nuclear": null
   },
   {
     "id": 29,
     "original_name": "Haiti",
     "original_symbol": "HTI",
+    "capital": "Port-au-Prince",
+    "continent": "North America",
+    "economy": "Developing",
     "long_name": "Haiti",
     "short_name": "Haiti",
     "abbreviation": "HTI",
@@ -1072,12 +1563,30 @@
       "name": "Gourde,US Dollar",
       "numeric_code": null,
       "alphabetic_code": "HTG,USD"
-    }
+    },
+    "languages": [
+      "French"
+    ],
+    "gdp": 13417997065,
+    "area": 27750,
+    "population": 11123176,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "OAS",
+      "CARICOM",
+      "Rio Pact"
+    ],
+    "lifeExpectancy": 49.2,
+    "nuclear": null
   },
   {
     "id": 30,
     "original_name": "Burundi",
     "original_symbol": "BDI",
+    "capital": "Bujumbura",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Burundi",
     "short_name": "Burundi",
     "abbreviation": "BDI",
@@ -1111,12 +1620,29 @@
       "name": "Burundi Franc",
       "numeric_code": 108,
       "alphabetic_code": "BIF"
-    }
+    },
+    "languages": [
+      "French",
+      "Rundi"
+    ],
+    "gdp": 3258187233,
+    "area": 27834,
+    "population": 11175378,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union"
+    ],
+    "lifeExpectancy": 46.2,
+    "nuclear": null
   },
   {
     "id": 31,
     "original_name": "Equatorial Guinea",
     "original_symbol": "GNQ",
+    "capital": "Malabo",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Equatorial Guinea",
     "short_name": "Equatorial Guinea",
     "abbreviation": "GNQ",
@@ -1150,12 +1676,30 @@
       "name": "CFA Franc BEAC",
       "numeric_code": 950,
       "alphabetic_code": "XAF"
-    }
+    },
+    "languages": [
+      "Spanish; Castilian",
+      "French"
+    ],
+    "gdp": 10021856754,
+    "area": 28051,
+    "population": 1308974,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "African Union",
+      "ZPCAS"
+    ],
+    "lifeExpectancy": 53.6,
+    "nuclear": null
   },
   {
     "id": 32,
     "original_name": "Albania",
     "original_symbol": "ALB",
+    "capital": "Tirana",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "Albania",
     "short_name": "Albania",
     "abbreviation": "ALB",
@@ -1186,12 +1730,30 @@
       "name": "Lek",
       "numeric_code": 8,
       "alphabetic_code": "ALL"
-    }
+    },
+    "languages": [
+      "Albanian",
+      "Greek"
+    ],
+    "gdp": 14799615097,
+    "area": 28748,
+    "population": 2866376,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "NATO",
+      "OIC"
+    ],
+    "lifeExpectancy": 71.6,
+    "nuclear": null
   },
   {
     "id": 33,
     "original_name": "Solomon Islands",
     "original_symbol": "SLB",
+    "capital": "Honiara",
+    "continent": "Oceania",
+    "economy": "Developing",
     "long_name": "Solomon Islands",
     "short_name": "Solomon Islands",
     "abbreviation": "SLB",
@@ -1222,12 +1784,26 @@
       "name": "Solomon Islands Dollar",
       "numeric_code": 90,
       "alphabetic_code": "SBD"
-    }
+    },
+    "languages": [
+      "English"
+    ],
+    "gdp": 1551245526,
+    "area": 28896,
+    "population": 652858,
+    "government": "Constitutional Monarchy",
+    "income": "Lower middle income",
+    "lifeExpectancy": 71.3,
+    "alliances": [],
+    "nuclear": null
   },
   {
     "id": 34,
     "original_name": "Armenia",
     "original_symbol": "ARM",
+    "capital": "Yerevan",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "Armenia",
     "short_name": "Armenia",
     "abbreviation": "ARM",
@@ -1258,12 +1834,26 @@
       "name": "Armenian Dram",
       "numeric_code": 51,
       "alphabetic_code": "AMD"
-    }
+    },
+    "languages": [
+      "Armenian"
+    ],
+    "gdp": 12645459214,
+    "area": 29800,
+    "population": 2951776,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "lifeExpectancy": 66.4,
+    "alliances": [],
+    "nuclear": null
   },
   {
     "id": 35,
     "original_name": "Lesotho",
     "original_symbol": "LSO",
+    "capital": "Maseru",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Lesotho",
     "short_name": "Lesotho",
     "abbreviation": "LSO",
@@ -1297,12 +1887,30 @@
       "name": "Loti,Rand",
       "numeric_code": null,
       "alphabetic_code": "LSL,ZAR"
-    }
+    },
+    "languages": [
+      "English",
+      "Zulu",
+      "Xhosa"
+    ],
+    "gdp": 1844510138,
+    "area": 30355,
+    "population": 2108132,
+    "government": "Constitutional Monarchy",
+    "income": "Lower middle income",
+    "alliances": [
+      "African Union"
+    ],
+    "lifeExpectancy": 50.8,
+    "nuclear": null
   },
   {
     "id": 36,
     "original_name": "Belgium",
     "original_symbol": "BEL",
+    "capital": "Brussels",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "Belgium",
     "short_name": "Belgium",
     "abbreviation": "BEL",
@@ -1333,12 +1941,31 @@
       "name": "Euro",
       "numeric_code": 978,
       "alphabetic_code": "EUR"
-    }
+    },
+    "languages": [
+      "Dutch; Flemish",
+      "French",
+      "German"
+    ],
+    "gdp": 515332499628,
+    "area": 30518,
+    "population": 11433256,
+    "government": "Federation Constitutional Monarchy",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ],
+    "lifeExpectancy": 77.8,
+    "nuclear": null
   },
   {
     "id": 37,
     "original_name": "Moldova",
     "original_symbol": "MDA",
+    "capital": "Chisinau",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "Republic of Moldova",
     "short_name": "Moldova",
     "abbreviation": "MDA",
@@ -1369,12 +1996,28 @@
       "name": "Moldovan Leu",
       "numeric_code": 498,
       "alphabetic_code": "MDL"
-    }
+    },
+    "languages": [
+      "Romanian; Moldavian; Moldovan",
+      "Russian",
+      "Turkish"
+    ],
+    "gdp": 11914040905,
+    "area": 33851,
+    "population": 2706049,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "lifeExpectancy": 64.5,
+    "alliances": [],
+    "nuclear": null
   },
   {
     "id": 38,
     "original_name": "Guinea Bissau",
     "original_symbol": "GNB",
+    "capital": "Bissau",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Guinea-Bissau",
     "short_name": "Guinea-Bissau",
     "abbreviation": "GNB",
@@ -1408,12 +2051,30 @@
       "name": "CFA Franc BCEAO",
       "numeric_code": 952,
       "alphabetic_code": "XOF"
-    }
+    },
+    "languages": [
+      "Portuguese"
+    ],
+    "gdp": 1431758243,
+    "area": 36125,
+    "population": 1874309,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union",
+      "ZPCAS",
+      "OIC"
+    ],
+    "lifeExpectancy": 49,
+    "nuclear": null
   },
   {
     "id": 39,
     "original_name": "Taiwan",
     "original_symbol": "TWN",
+    "capital": "Taipei",
+    "continent": "Asia",
+    "economy": null,
     "long_name": null,
     "short_name": "Taiwan",
     "abbreviation": "TWN",
@@ -1434,12 +2095,26 @@
       "subregion": null,
       "intermediate_region": null
     },
-    "iso_4217": null
+    "iso_4217": null,
+    "languages": [
+      "Chinese"
+    ],
+    "gdp": 668510000000,
+    "area": 36188,
+    "population": 23570000,
+    "government": "Republic",
+    "income": "High income",
+    "lifeExpectancy": 80.94,
+    "alliances": [],
+    "nuclear": null
   },
   {
     "id": 40,
     "original_name": "Bhutan",
     "original_symbol": "BTN",
+    "capital": "Thimphu",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "Bhutan",
     "short_name": "Bhutan",
     "abbreviation": "BTN",
@@ -1470,12 +2145,26 @@
       "name": "Indian Rupee,Ngultrum",
       "numeric_code": null,
       "alphabetic_code": "INR,BTN"
-    }
+    },
+    "languages": [
+      "Dzongkha"
+    ],
+    "gdp": 2409262838,
+    "area": 47000,
+    "population": 754394,
+    "government": "Monarchy",
+    "income": "Lower middle income",
+    "lifeExpectancy": 52.4,
+    "alliances": [],
+    "nuclear": null
   },
   {
     "id": 41,
     "original_name": "Switzerland",
     "original_symbol": "CHE",
+    "capital": "Bern",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "Switzerland",
     "short_name": "Switzerland",
     "abbreviation": "CHE",
@@ -1506,12 +2195,29 @@
       "name": "Swiss Franc",
       "numeric_code": 756,
       "alphabetic_code": "CHF"
-    }
+    },
+    "languages": [
+      "German",
+      "French",
+      "Italian",
+      "Romansh"
+    ],
+    "gdp": 747968636174,
+    "area": 41284,
+    "population": 8513227,
+    "government": "Federation",
+    "income": "High income",
+    "lifeExpectancy": 79.6,
+    "alliances": [],
+    "nuclear": null
   },
   {
     "id": 42,
     "original_name": "Netherlands",
     "original_symbol": "NLD",
+    "capital": "Amsterdam",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "Netherlands",
     "short_name": "Netherlands",
     "abbreviation": "NLD",
@@ -1542,12 +2248,30 @@
       "name": "Euro",
       "numeric_code": 978,
       "alphabetic_code": "EUR"
-    }
+    },
+    "languages": [
+      "Dutch; Flemish",
+      "Western Frisian"
+    ],
+    "gdp": 912242335119,
+    "area": 41526,
+    "population": 17231624,
+    "government": "Constitutional Monarchy",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ],
+    "lifeExpectancy": 78.3,
+    "nuclear": null
   },
   {
     "id": 43,
     "original_name": "Denmark",
     "original_symbol": "DNK",
+    "capital": "Copenhagen",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "Denmark",
     "short_name": "Denmark",
     "abbreviation": "DNK",
@@ -1578,12 +2302,30 @@
       "name": "Danish Krone",
       "numeric_code": 208,
       "alphabetic_code": "DKK"
-    }
+    },
+    "languages": [
+      "Danish",
+      "English",
+      "Faroese"
+    ],
+    "gdp": 355184024841,
+    "area": 43094,
+    "population": 5793636,
+    "government": "Constitutional Monarchy",
+    "income": "High income",
+    "alliances": [
+      "NATO"
+    ],
+    "lifeExpectancy": 76.5,
+    "nuclear": null
   },
   {
     "id": 44,
     "original_name": "Estonia",
     "original_symbol": "EST",
+    "capital": "Tallinn",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "Estonia",
     "short_name": "Estonia",
     "abbreviation": "EST",
@@ -1614,12 +2356,30 @@
       "name": "Euro",
       "numeric_code": 978,
       "alphabetic_code": "EUR"
-    }
+    },
+    "languages": [
+      "Estonian",
+      "Russian"
+    ],
+    "gdp": 31029968591,
+    "area": 45227,
+    "population": 1321977,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ],
+    "lifeExpectancy": 69.5,
+    "nuclear": null
   },
   {
     "id": 45,
     "original_name": "Dominican Republic",
     "original_symbol": "DOM",
+    "capital": "Santo Domingo",
+    "continent": "North America",
+    "economy": "Developing",
     "long_name": "Dominican Republic",
     "short_name": "Dominican Republic",
     "abbreviation": "DOM",
@@ -1653,12 +2413,29 @@
       "name": "Dominican Peso",
       "numeric_code": 214,
       "alphabetic_code": "DOP"
-    }
+    },
+    "languages": [
+      "Spanish; Castilian"
+    ],
+    "gdp": 78844702329,
+    "area": 48511,
+    "population": 10627165,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "OAS",
+      "Rio Pact"
+    ],
+    "lifeExpectancy": 73.2,
+    "nuclear": null
   },
   {
     "id": 46,
     "original_name": "Slovakia",
     "original_symbol": "SVK",
+    "capital": "Bratislava",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "Slovakia",
     "short_name": "Slovakia",
     "abbreviation": "SVK",
@@ -1689,12 +2466,30 @@
       "name": "Euro",
       "numeric_code": 978,
       "alphabetic_code": "EUR"
-    }
+    },
+    "languages": [
+      "Slovak",
+      "Hungarian"
+    ],
+    "gdp": 105100000000,
+    "area": 49012,
+    "population": 5446771,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ],
+    "lifeExpectancy": 73.7,
+    "nuclear": null
   },
   {
     "id": 47,
     "original_name": "Costa Rica",
     "original_symbol": "CRI",
+    "capital": "San Jose",
+    "continent": "North America",
+    "economy": "Developing",
     "long_name": "Costa Rica",
     "short_name": "Costa Rica",
     "abbreviation": "CRI",
@@ -1728,12 +2523,30 @@
       "name": "Costa Rican Colon",
       "numeric_code": 188,
       "alphabetic_code": "CRC"
-    }
+    },
+    "languages": [
+      "Spanish; Castilian",
+      "English"
+    ],
+    "gdp": 61520669890,
+    "area": 51100,
+    "population": 4999441,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "OAS",
+      "Rio Pact"
+    ],
+    "lifeExpectancy": 75.8,
+    "nuclear": null
   },
   {
     "id": 48,
     "original_name": "Bosnia and Herzegovina",
     "original_symbol": "BIH",
+    "capital": "Sarajevo",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "Bosnia and Herzegovina",
     "short_name": "Bosnia",
     "abbreviation": "BIH",
@@ -1764,12 +2577,27 @@
       "name": "Convertible Mark",
       "numeric_code": 977,
       "alphabetic_code": "BAM"
-    }
+    },
+    "languages": [
+      "Bosnian",
+      "Croatian"
+    ],
+    "gdp": 19788422248,
+    "area": 51197,
+    "population": 3323929,
+    "government": "Federal Republic",
+    "income": "Upper middle income",
+    "lifeExpectancy": 71.5,
+    "alliances": [],
+    "nuclear": null
   },
   {
     "id": 49,
     "original_name": "Croatia",
     "original_symbol": "HRV",
+    "capital": "Zagreb",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "Croatia",
     "short_name": "Croatia",
     "abbreviation": "HRV",
@@ -1800,12 +2628,30 @@
       "name": "Kuna",
       "numeric_code": 191,
       "alphabetic_code": "HRK"
-    }
+    },
+    "languages": [
+      "Croatian",
+      "Serbian"
+    ],
+    "gdp": 55966581780,
+    "area": 56538,
+    "population": 4087843,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ],
+    "lifeExpectancy": 73.7,
+    "nuclear": null
   },
   {
     "id": 50,
     "original_name": "Togo",
     "original_symbol": "TGO",
+    "capital": "Lome",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Togo",
     "short_name": "Togo",
     "abbreviation": "TGO",
@@ -1839,12 +2685,32 @@
       "name": "CFA Franc BCEAO",
       "numeric_code": 952,
       "alphabetic_code": "XOF"
-    }
+    },
+    "languages": [
+      "French",
+      "Ewe",
+      "Hausa"
+    ],
+    "gdp": 7574635241,
+    "area": 56785,
+    "population": 7889094,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union",
+      "ZPCAS",
+      "OIC"
+    ],
+    "lifeExpectancy": 54.7,
+    "nuclear": null
   },
   {
     "id": 51,
     "original_name": "Latvia",
     "original_symbol": "LVA",
+    "capital": "Riga",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "Latvia",
     "short_name": "Latvia",
     "abbreviation": "LVA",
@@ -1875,12 +2741,31 @@
       "name": "Euro",
       "numeric_code": 978,
       "alphabetic_code": "EUR"
-    }
+    },
+    "languages": [
+      "Latvian",
+      "Russian",
+      "Lithuanian"
+    ],
+    "gdp": 33505185229,
+    "area": 64589,
+    "population": 1927174,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ],
+    "lifeExpectancy": 68.4,
+    "nuclear": null
   },
   {
     "id": 52,
     "original_name": "Lithuania",
     "original_symbol": "LTU",
+    "capital": "Vilnius",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "Lithuania",
     "short_name": "Lithuania",
     "abbreviation": "LTU",
@@ -1911,12 +2796,30 @@
       "name": "Euro",
       "numeric_code": 978,
       "alphabetic_code": "EUR"
-    }
+    },
+    "languages": [
+      "Lithuanian",
+      "Russian",
+      "Polish"
+    ],
+    "gdp": 55887271833,
+    "area": 65301,
+    "population": 2801543,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "European Union"
+    ],
+    "lifeExpectancy": 69.1,
+    "nuclear": null
   },
   {
     "id": 53,
     "original_name": "Sri Lanka",
     "original_symbol": "LKA",
+    "capital": "Colombo",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "Sri Lanka",
     "short_name": "Sri Lanka",
     "abbreviation": "LKA",
@@ -1947,12 +2850,28 @@
       "name": "Sri Lanka Rupee",
       "numeric_code": 144,
       "alphabetic_code": "LKR"
-    }
+    },
+    "languages": [
+      "Sinhala; Sinhalese",
+      "Tamil",
+      "English"
+    ],
+    "gdp": 80706600229,
+    "area": 65610,
+    "population": 21670000,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "lifeExpectancy": 76.81,
+    "alliances": [],
+    "nuclear": null
   },
   {
     "id": 54,
     "original_name": "Georgia",
     "original_symbol": "GEO",
+    "capital": "Tbilisi",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "Georgia",
     "short_name": "Georgia",
     "abbreviation": "GEO",
@@ -1983,12 +2902,29 @@
       "name": "Lari",
       "numeric_code": 981,
       "alphabetic_code": "GEL"
-    }
+    },
+    "languages": [
+      "Georgian",
+      "Russian",
+      "Armenian",
+      "Azerbaijani"
+    ],
+    "gdp": 15891688903,
+    "area": 69700,
+    "population": 3726549,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "lifeExpectancy": 64.5,
+    "alliances": [],
+    "nuclear": null
   },
   {
     "id": 55,
     "original_name": "Ireland",
     "original_symbol": "IRL",
+    "capital": "Dublin",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "Ireland",
     "short_name": "Ireland",
     "abbreviation": "IRL",
@@ -2019,12 +2955,29 @@
       "name": "Euro",
       "numeric_code": 978,
       "alphabetic_code": "EUR"
-    }
+    },
+    "languages": [
+      "English",
+      "Irish"
+    ],
+    "gdp": 418621818482,
+    "area": 70273,
+    "population": 4867309,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "European Union"
+    ],
+    "lifeExpectancy": 76.8,
+    "nuclear": null
   },
   {
     "id": 56,
     "original_name": "Sierra Leone",
     "original_symbol": "SLE",
+    "capital": "Freetown",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Sierra Leone",
     "short_name": "Sierra Leone",
     "abbreviation": "SLE",
@@ -2058,12 +3011,30 @@
       "name": "Leone",
       "numeric_code": 694,
       "alphabetic_code": "SLL"
-    }
+    },
+    "languages": [
+      "English"
+    ],
+    "gdp": 3865018883,
+    "area": 71740,
+    "population": 7650154,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union",
+      "ZPCAS",
+      "OIC"
+    ],
+    "lifeExpectancy": 45.3,
+    "nuclear": null
   },
   {
     "id": 57,
     "original_name": "Panama",
     "original_symbol": "PAN",
+    "capital": "Panama City",
+    "continent": "North America",
+    "economy": "Developing",
     "long_name": "Panama",
     "short_name": "Panama",
     "abbreviation": "PAN",
@@ -2097,12 +3068,30 @@
       "name": "Balboa,US Dollar",
       "numeric_code": null,
       "alphabetic_code": "PAB,USD"
-    }
+    },
+    "languages": [
+      "Spanish; Castilian",
+      "English"
+    ],
+    "gdp": 52938100000,
+    "area": 75517,
+    "population": 4176873,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "OAS",
+      "Rio Pact"
+    ],
+    "lifeExpectancy": 75.5,
+    "nuclear": null
   },
   {
     "id": 58,
     "original_name": "Czech Republic",
     "original_symbol": "CZE",
+    "capital": "Prague",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "Czechia",
     "short_name": "Czechia",
     "abbreviation": "CZE",
@@ -2133,12 +3122,30 @@
       "name": "Czech Koruna",
       "numeric_code": 203,
       "alphabetic_code": "CZK"
-    }
+    },
+    "languages": [
+      "Czech",
+      "Slovak"
+    ],
+    "gdp": 243530379897,
+    "area": 78866,
+    "population": 10629928,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ],
+    "lifeExpectancy": 74.5,
+    "nuclear": null
   },
   {
     "id": 59,
     "original_name": "United Arab Emirates",
     "original_symbol": "ARE",
+    "capital": "Abu Dhabi",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "United Arab Emirates",
     "short_name": "United Arab Emirates",
     "abbreviation": "ARE",
@@ -2169,12 +3176,33 @@
       "name": "UAE Dirham",
       "numeric_code": 784,
       "alphabetic_code": "AED"
-    }
+    },
+    "languages": [
+      "Arabic",
+      "Persian",
+      "English",
+      "Hindi",
+      "Urdu"
+    ],
+    "gdp": 421142267937,
+    "area": 83600,
+    "population": 9630959,
+    "government": "Emirate Federation",
+    "income": "High income",
+    "alliances": [
+      "Arab League",
+      "OIC"
+    ],
+    "lifeExpectancy": 74.1,
+    "nuclear": null
   },
   {
     "id": 60,
     "original_name": "Austria",
     "original_symbol": "AUT",
+    "capital": "Vienna",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "Austria",
     "short_name": "Austria",
     "abbreviation": "AUT",
@@ -2205,12 +3233,31 @@
       "name": "Euro",
       "numeric_code": 978,
       "alphabetic_code": "EUR"
-    }
+    },
+    "languages": [
+      "German",
+      "Croatian",
+      "Hungarian",
+      "Slovenian"
+    ],
+    "gdp": 428965397959,
+    "area": 83859,
+    "population": 8840521,
+    "government": "Federal Republic",
+    "income": "High income",
+    "alliances": [
+      "European Union"
+    ],
+    "lifeExpectancy": 77.7,
+    "nuclear": null
   },
   {
     "id": 61,
     "original_name": "Azerbaijan",
     "original_symbol": "AZE",
+    "capital": "Baku",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "Azerbaijan",
     "short_name": "Azerbaijan",
     "abbreviation": "AZE",
@@ -2241,12 +3288,30 @@
       "name": "Azerbaijan Manat",
       "numeric_code": 944,
       "alphabetic_code": "AZN"
-    }
+    },
+    "languages": [
+      "Azerbaijani",
+      "Russian",
+      "Armenian"
+    ],
+    "gdp": 42607176471,
+    "area": 86600,
+    "population": 9939800,
+    "government": "Federal Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "OIC"
+    ],
+    "lifeExpectancy": 62.9,
+    "nuclear": null
   },
   {
     "id": 62,
     "original_name": "Republic of Serbia",
     "original_symbol": "SRB",
+    "capital": "Belgrade",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "Serbia",
     "short_name": "Serbia",
     "abbreviation": "SRB",
@@ -2277,12 +3342,28 @@
       "name": "Serbian Dinar",
       "numeric_code": 941,
       "alphabetic_code": "RSD"
-    }
+    },
+    "languages": [
+      "Serbian",
+      "Hungarian",
+      "Bosnian"
+    ],
+    "gdp": 52960134079,
+    "area": 88361,
+    "population": 6963764,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "lifeExpectancy": 76.05,
+    "alliances": [],
+    "nuclear": null
   },
   {
     "id": 63,
     "original_name": "Jordan",
     "original_symbol": "JOR",
+    "capital": "Amman",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "Jordan",
     "short_name": "Jordan",
     "abbreviation": "JOR",
@@ -2313,12 +3394,30 @@
       "name": "Jordanian Dinar",
       "numeric_code": 400,
       "alphabetic_code": "JOD"
-    }
+    },
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "gdp": 43697659275,
+    "area": 88946,
+    "population": 9956011,
+    "government": "Constitutional Monarchy",
+    "income": "Upper middle income",
+    "alliances": [
+      "Arab League",
+      "OIC"
+    ],
+    "lifeExpectancy": 77.4,
+    "nuclear": null
   },
   {
     "id": 64,
     "original_name": "Portugal",
     "original_symbol": "PRT",
+    "capital": "Lisbon",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "Portugal",
     "short_name": "Portugal",
     "abbreviation": "PRT",
@@ -2349,12 +3448,29 @@
       "name": "Euro",
       "numeric_code": 978,
       "alphabetic_code": "EUR"
-    }
+    },
+    "languages": [
+      "Portuguese"
+    ],
+    "gdp": 231255587277,
+    "area": 91982,
+    "population": 10283822,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ],
+    "lifeExpectancy": 75.8,
+    "nuclear": null
   },
   {
     "id": 65,
     "original_name": "Hungary",
     "original_symbol": "HUN",
+    "capital": "Budapest",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "Hungary",
     "short_name": "Hungary",
     "abbreviation": "HUN",
@@ -2385,12 +3501,29 @@
       "name": "Forint",
       "numeric_code": 348,
       "alphabetic_code": "HUF"
-    }
+    },
+    "languages": [
+      "Hungarian"
+    ],
+    "gdp": 155012927629,
+    "area": 93030,
+    "population": 9775564,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ],
+    "lifeExpectancy": 71.4,
+    "nuclear": null
   },
   {
     "id": 66,
     "original_name": "South Korea",
     "original_symbol": "KOR",
+    "capital": "Seoul",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "Republic of Korea",
     "short_name": "South Korea",
     "abbreviation": "KOR",
@@ -2421,12 +3554,29 @@
       "name": "Won",
       "numeric_code": 410,
       "alphabetic_code": "KRW"
-    }
+    },
+    "languages": [
+      "Korean",
+      "English"
+    ],
+    "gdp": 1630525005469,
+    "area": 99434,
+    "population": 51606633,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "G20"
+    ],
+    "lifeExpectancy": 74.4,
+    "nuclear": null
   },
   {
     "id": 67,
     "original_name": "Iceland",
     "original_symbol": "ISL",
+    "capital": "Reykjavik",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "Iceland",
     "short_name": "Iceland",
     "abbreviation": "ISL",
@@ -2457,12 +3607,32 @@
       "name": "Iceland Krona",
       "numeric_code": 352,
       "alphabetic_code": "ISK"
-    }
+    },
+    "languages": [
+      "Icelandic",
+      "English",
+      "German",
+      "Danish",
+      "Swedish"
+    ],
+    "gdp": 21714670570,
+    "area": 103000,
+    "population": 352721,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "NATO"
+    ],
+    "lifeExpectancy": 79.4,
+    "nuclear": null
   },
   {
     "id": 68,
     "original_name": "Guatemala",
     "original_symbol": "GTM",
+    "capital": "Guatemala City",
+    "continent": "North America",
+    "economy": "Developing",
     "long_name": "Guatemala",
     "short_name": "Guatemala",
     "abbreviation": "GTM",
@@ -2496,12 +3666,29 @@
       "name": "Quetzal",
       "numeric_code": 320,
       "alphabetic_code": "GTQ"
-    }
+    },
+    "languages": [
+      "Spanish; Castilian"
+    ],
+    "gdp": 77604632171,
+    "area": 108889,
+    "population": 17247807,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "OAS",
+      "Rio Pact"
+    ],
+    "lifeExpectancy": 66.2,
+    "nuclear": null
   },
   {
     "id": 69,
     "original_name": "Cuba",
     "original_symbol": "CUB",
+    "capital": "Havana",
+    "continent": "North America",
+    "economy": "Developing",
     "long_name": "Cuba",
     "short_name": "Cuba",
     "abbreviation": "CUB",
@@ -2535,12 +3722,26 @@
       "name": "Cuban Peso,Peso Convertible",
       "numeric_code": null,
       "alphabetic_code": "CUP,CUC"
-    }
+    },
+    "languages": [
+      "Spanish; Castilian"
+    ],
+    "gdp": 103131000000,
+    "area": 110861,
+    "population": 11338138,
+    "government": "Socialistic Republic",
+    "income": "Upper middle income",
+    "lifeExpectancy": 76.2,
+    "alliances": [],
+    "nuclear": null
   },
   {
     "id": 70,
     "original_name": "Bulgaria",
     "original_symbol": "BGR",
+    "capital": "Sofia",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "Bulgaria",
     "short_name": "Bulgaria",
     "abbreviation": "BGR",
@@ -2571,12 +3772,29 @@
       "name": "Bulgarian Lev",
       "numeric_code": 975,
       "alphabetic_code": "BGN"
-    }
+    },
+    "languages": [
+      "Bulgarian"
+    ],
+    "gdp": 69105101090,
+    "area": 110994,
+    "population": 7025037,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ],
+    "lifeExpectancy": 70.9,
+    "nuclear": null
   },
   {
     "id": 71,
     "original_name": "Liberia",
     "original_symbol": "LBR",
+    "capital": "Monrovia",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Liberia",
     "short_name": "Liberia",
     "abbreviation": "LBR",
@@ -2610,12 +3828,29 @@
       "name": "Liberian Dollar",
       "numeric_code": 430,
       "alphabetic_code": "LRD"
-    }
+    },
+    "languages": [
+      "English"
+    ],
+    "gdp": 2950000000,
+    "area": 111369,
+    "population": 4818977,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union",
+      "ZPCAS"
+    ],
+    "lifeExpectancy": 51,
+    "nuclear": null
   },
   {
     "id": 72,
     "original_name": "Honduras",
     "original_symbol": "HND",
+    "capital": "Tegucigalpa",
+    "continent": "North America",
+    "economy": "Developing",
     "long_name": "Honduras",
     "short_name": "Honduras",
     "abbreviation": "HND",
@@ -2649,12 +3884,29 @@
       "name": "Lempira",
       "numeric_code": 340,
       "alphabetic_code": "HNL"
-    }
+    },
+    "languages": [
+      "Spanish; Castilian"
+    ],
+    "gdp": 23827840810,
+    "area": 112088,
+    "population": 9587522,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "OAS",
+      "Rio Pact"
+    ],
+    "lifeExpectancy": 69.9,
+    "nuclear": null
   },
   {
     "id": 73,
     "original_name": "Benin",
     "original_symbol": "BEN",
+    "capital": "Porto-Novo",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Benin",
     "short_name": "Benin",
     "abbreviation": "BEN",
@@ -2688,12 +3940,30 @@
       "name": "CFA Franc BCEAO",
       "numeric_code": 952,
       "alphabetic_code": "XOF"
-    }
+    },
+    "languages": [
+      "French"
+    ],
+    "gdp": 15651545209,
+    "area": 112622,
+    "population": 11485048,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "African Union",
+      "ZPCAS",
+      "OIC"
+    ],
+    "lifeExpectancy": 50.2,
+    "nuclear": null
   },
   {
     "id": 74,
     "original_name": "Eritrea",
     "original_symbol": "ERI",
+    "capital": "Asmara",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Eritrea",
     "short_name": "Eritrea",
     "abbreviation": "ERI",
@@ -2727,12 +3997,29 @@
       "name": "Nakfa",
       "numeric_code": 232,
       "alphabetic_code": "ERN"
-    }
+    },
+    "languages": [
+      "Arabic",
+      "Tigrinya"
+    ],
+    "gdp": 2065001626,
+    "area": 117600,
+    "population": 6213972,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union"
+    ],
+    "lifeExpectancy": 55.8,
+    "nuclear": null
   },
   {
     "id": 75,
     "original_name": "Malawi",
     "original_symbol": "MWI",
+    "capital": "Lilongwe",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Malawi",
     "short_name": "Malawi",
     "abbreviation": "MWI",
@@ -2766,12 +4053,26 @@
       "name": "Malawi Kwacha",
       "numeric_code": 454,
       "alphabetic_code": "MWK"
-    }
+    },
+    "languages": [],
+    "gdp": 11961848553,
+    "area": 118484,
+    "population": 18143315,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union"
+    ],
+    "lifeExpectancy": 37.6,
+    "nuclear": null
   },
   {
     "id": 76,
     "original_name": "North Korea",
     "original_symbol": "PRK",
+    "capital": "Pyongyang",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "Democratic People's Republic of Korea",
     "short_name": "North Korea",
     "abbreviation": "PRK",
@@ -2802,12 +4103,26 @@
       "name": "North Korean Won",
       "numeric_code": 408,
       "alphabetic_code": "KPW"
-    }
+    },
+    "languages": [
+      "Korean"
+    ],
+    "gdp": 19000000000,
+    "area": 120538,
+    "population": 25549819,
+    "government": "Socialistic Republic",
+    "income": "Low income",
+    "nuclear": "Land & Sea",
+    "lifeExpectancy": 70.7,
+    "alliances": []
   },
   {
     "id": 77,
     "original_name": "Nicaragua",
     "original_symbol": "NIC",
+    "capital": "Managua",
+    "continent": "North America",
+    "economy": "Developing",
     "long_name": "Nicaragua",
     "short_name": "Nicaragua",
     "abbreviation": "NIC",
@@ -2841,12 +4156,29 @@
       "name": "Cordoba Oro",
       "numeric_code": 558,
       "alphabetic_code": "NIO"
-    }
+    },
+    "languages": [
+      "Spanish; Castilian",
+      "English"
+    ],
+    "gdp": 12621476264,
+    "area": 130000,
+    "population": 6465513,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "OAS"
+    ],
+    "lifeExpectancy": 68.7,
+    "nuclear": null
   },
   {
     "id": 78,
     "original_name": "Greece",
     "original_symbol": "GRC",
+    "capital": "Athens",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "Greece",
     "short_name": "Greece",
     "abbreviation": "GRC",
@@ -2877,12 +4209,31 @@
       "name": "Euro",
       "numeric_code": 978,
       "alphabetic_code": "EUR"
-    }
+    },
+    "languages": [
+      "Greek",
+      "English",
+      "French"
+    ],
+    "gdp": 189410106620,
+    "area": 131626,
+    "population": 10731726,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ],
+    "lifeExpectancy": 78.4,
+    "nuclear": null
   },
   {
     "id": 79,
     "original_name": "Tajikistan",
     "original_symbol": "TJK",
+    "capital": "Dushanbe",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "Tajikistan",
     "short_name": "Tajikistan",
     "abbreviation": "TJK",
@@ -2913,12 +4264,29 @@
       "name": "Somoni",
       "numeric_code": 972,
       "alphabetic_code": "TJS"
-    }
+    },
+    "languages": [
+      "Tajik",
+      "Russian"
+    ],
+    "gdp": 8194150302,
+    "area": 143100,
+    "population": 9100837,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "OIC"
+    ],
+    "lifeExpectancy": 64.1,
+    "nuclear": null
   },
   {
     "id": 80,
     "original_name": "Nepal",
     "original_symbol": "NPL",
+    "capital": "Kathmandu",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "Nepal",
     "short_name": "Nepal",
     "abbreviation": "NPL",
@@ -2949,12 +4317,27 @@
       "name": "Nepalese Rupee",
       "numeric_code": 524,
       "alphabetic_code": "NPR"
-    }
+    },
+    "languages": [
+      "Nepali",
+      "English"
+    ],
+    "gdp": 33657175561,
+    "area": 147181,
+    "population": 28087871,
+    "government": "Federal parliamentary republic",
+    "income": "Lower middle income",
+    "lifeExpectancy": 57.8,
+    "alliances": [],
+    "nuclear": null
   },
   {
     "id": 81,
     "original_name": "Bangladesh",
     "original_symbol": "BGD",
+    "capital": "Dhaka",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "Bangladesh",
     "short_name": "Bangladesh",
     "abbreviation": "BGD",
@@ -2985,12 +4368,29 @@
       "name": "Taka",
       "numeric_code": 50,
       "alphabetic_code": "BDT"
-    }
+    },
+    "languages": [
+      "Bengali",
+      "English"
+    ],
+    "gdp": 324239176765,
+    "area": 143998,
+    "population": 161356039,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "OIC"
+    ],
+    "lifeExpectancy": 60.2,
+    "nuclear": null
   },
   {
     "id": 82,
     "original_name": "Tunisia",
     "original_symbol": "TUN",
+    "capital": "Tunis",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Tunisia",
     "short_name": "Tunisia",
     "abbreviation": "TUN",
@@ -3021,12 +4421,31 @@
       "name": "Tunisian Dinar",
       "numeric_code": 788,
       "alphabetic_code": "TND"
-    }
+    },
+    "languages": [
+      "Arabic",
+      "French"
+    ],
+    "gdp": 39235672868,
+    "area": 163610,
+    "population": 11565204,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "Arab League",
+      "African Union",
+      "OIC"
+    ],
+    "lifeExpectancy": 73.7,
+    "nuclear": null
   },
   {
     "id": 83,
     "original_name": "Suriname",
     "original_symbol": "SUR",
+    "capital": "Paramaribo",
+    "continent": "South America",
+    "economy": "Developing",
     "long_name": "Suriname",
     "short_name": "Suriname",
     "abbreviation": "SUR",
@@ -3060,12 +4479,32 @@
       "name": "Surinam Dollar",
       "numeric_code": 968,
       "alphabetic_code": "SRD"
-    }
+    },
+    "languages": [
+      "Dutch; Flemish",
+      "English",
+      "Javanese"
+    ],
+    "gdp": 3807922874,
+    "area": 163265,
+    "population": 575991,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "OAS",
+      "CARICOM",
+      "OIC"
+    ],
+    "lifeExpectancy": 71.4,
+    "nuclear": null
   },
   {
     "id": 84,
     "original_name": "Somaliland",
     "original_symbol": "SOL",
+    "capital": "Honiara",
+    "continent": "Oceania",
+    "economy": "Developing",
     "long_name": "Solomon Islands",
     "short_name": "Solomon Islands",
     "abbreviation": "SLB",
@@ -3096,12 +4535,26 @@
       "name": "Solomon Islands Dollar",
       "numeric_code": 90,
       "alphabetic_code": "SBD"
-    }
+    },
+    "languages": [
+      "English"
+    ],
+    "gdp": 1551245526,
+    "area": 28896,
+    "population": 652858,
+    "government": "Constitutional Monarchy",
+    "income": "Lower middle income",
+    "lifeExpectancy": 71.3,
+    "alliances": [],
+    "nuclear": null
   },
   {
     "id": 85,
     "original_name": "Uruguay",
     "original_symbol": "URY",
+    "capital": "Montevideo",
+    "continent": "South America",
+    "economy": "Developing",
     "long_name": "Uruguay",
     "short_name": "Uruguay",
     "abbreviation": "URY",
@@ -3135,12 +4588,30 @@
       "name": "Peso Uruguayo",
       "numeric_code": 858,
       "alphabetic_code": "UYU"
-    }
+    },
+    "languages": [
+      "Spanish; Castilian"
+    ],
+    "gdp": 53628827440,
+    "area": 175016,
+    "population": 3449299,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "OAS",
+      "Rio Pact",
+      "ZPCAS"
+    ],
+    "lifeExpectancy": 75.2,
+    "nuclear": null
   },
   {
     "id": 86,
     "original_name": "Cambodia",
     "original_symbol": "KHM",
+    "capital": "Phnom Penh",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "Cambodia",
     "short_name": "Cambodia",
     "abbreviation": "KHM",
@@ -3171,12 +4642,28 @@
       "name": "Riel",
       "numeric_code": 116,
       "alphabetic_code": "KHR"
-    }
+    },
+    "languages": [
+      "Central Khmer",
+      "French",
+      "English"
+    ],
+    "gdp": 25291251427,
+    "area": 181035,
+    "population": 16249798,
+    "government": "Constitutional Monarchy",
+    "income": "Lower middle income",
+    "lifeExpectancy": 56.5,
+    "alliances": [],
+    "nuclear": null
   },
   {
     "id": 87,
     "original_name": "Syria",
     "original_symbol": "SYR",
+    "capital": "Damascus",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "Syrian Arab Republic",
     "short_name": "Syria",
     "abbreviation": "SYR",
@@ -3207,12 +4694,30 @@
       "name": "Syrian Pound",
       "numeric_code": 760,
       "alphabetic_code": "SYP"
-    }
+    },
+    "languages": [
+      "Arabic",
+      "Kurdish",
+      "Armenian",
+      "French",
+      "English"
+    ],
+    "gdp": 40405006007,
+    "area": 185180,
+    "population": 16906283,
+    "government": "Republic",
+    "income": "Low income",
+    "lifeExpectancy": 68.5,
+    "alliances": [],
+    "nuclear": null
   },
   {
     "id": 88,
     "original_name": "Senegal",
     "original_symbol": "SEN",
+    "capital": "Dakar",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Senegal",
     "short_name": "Senegal",
     "abbreviation": "SEN",
@@ -3246,12 +4751,31 @@
       "name": "CFA Franc BCEAO",
       "numeric_code": 952,
       "alphabetic_code": "XOF"
-    }
+    },
+    "languages": [
+      "French",
+      "Wolof"
+    ],
+    "gdp": 24910904236,
+    "area": 196722,
+    "population": 15854360,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "African Union",
+      "ZPCAS",
+      "OIC"
+    ],
+    "lifeExpectancy": 62.2,
+    "nuclear": null
   },
   {
     "id": 89,
     "original_name": "Kyrgyzstan",
     "original_symbol": "KGZ",
+    "capital": "Bishkek",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "Kyrgyzstan",
     "short_name": "Kyrgyzstan",
     "abbreviation": "KGZ",
@@ -3282,12 +4806,30 @@
       "name": "Som",
       "numeric_code": 417,
       "alphabetic_code": "KGS"
-    }
+    },
+    "languages": [
+      "Kirghiz; Kyrgyz",
+      "Uzbek",
+      "Russian"
+    ],
+    "gdp": 8455000000,
+    "area": 199900,
+    "population": 6322800,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "OIC"
+    ],
+    "lifeExpectancy": 63.4,
+    "nuclear": null
   },
   {
     "id": 90,
     "original_name": "Belarus",
     "original_symbol": "BLR",
+    "capital": "Minsk",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "Belarus",
     "short_name": "Belarus",
     "abbreviation": "BLR",
@@ -3318,12 +4860,27 @@
       "name": "Belarusian Ruble",
       "numeric_code": 933,
       "alphabetic_code": "BYN"
-    }
+    },
+    "languages": [
+      "Belarusian",
+      "Russian"
+    ],
+    "gdp": 60258239056,
+    "area": 207600,
+    "population": 9483499,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "lifeExpectancy": 68,
+    "alliances": [],
+    "nuclear": null
   },
   {
     "id": 91,
     "original_name": "Guyana",
     "original_symbol": "GUY",
+    "capital": "Georgetown",
+    "continent": "South America",
+    "economy": "Developing",
     "long_name": "Guyana",
     "short_name": "Guyana",
     "abbreviation": "GUY",
@@ -3357,12 +4914,30 @@
       "name": "Guyana Dollar",
       "numeric_code": 328,
       "alphabetic_code": "GYD"
-    }
+    },
+    "languages": [
+      "English"
+    ],
+    "gdp": 5471256595,
+    "area": 214969,
+    "population": 779004,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "OAS",
+      "CARICOM",
+      "OIC"
+    ],
+    "lifeExpectancy": 64,
+    "nuclear": null
   },
   {
     "id": 92,
     "original_name": "Laos",
     "original_symbol": "LAO",
+    "capital": "Vientiane",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "Lao People's Democratic Republic",
     "short_name": "Laos",
     "abbreviation": "LAO",
@@ -3393,12 +4968,28 @@
       "name": "Lao Kip",
       "numeric_code": 418,
       "alphabetic_code": "LAK"
-    }
+    },
+    "languages": [
+      "Lao",
+      "French",
+      "English"
+    ],
+    "gdp": 19136194849,
+    "area": 236800,
+    "population": 7061507,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "lifeExpectancy": 53.1,
+    "alliances": [],
+    "nuclear": null
   },
   {
     "id": 93,
     "original_name": "Romania",
     "original_symbol": "ROU",
+    "capital": "Bucharest",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "Romania",
     "short_name": "Romania",
     "abbreviation": "ROU",
@@ -3429,12 +5020,30 @@
       "name": "Romanian Leu",
       "numeric_code": 946,
       "alphabetic_code": "RON"
-    }
+    },
+    "languages": [
+      "Romanian; Moldavian; Moldovan",
+      "Hungarian"
+    ],
+    "gdp": 248715551367,
+    "area": 238391,
+    "population": 19466145,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ],
+    "lifeExpectancy": 69.9,
+    "nuclear": null
   },
   {
     "id": 94,
     "original_name": "Ghana",
     "original_symbol": "GHA",
+    "capital": "Accra",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Ghana",
     "short_name": "Ghana",
     "abbreviation": "GHA",
@@ -3468,12 +5077,31 @@
       "name": "Ghana Cedi",
       "numeric_code": 936,
       "alphabetic_code": "GHS"
-    }
+    },
+    "languages": [
+      "English",
+      "Akan",
+      "Ewe"
+    ],
+    "gdp": 72354428865,
+    "area": 238533,
+    "population": 29767108,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "African Union",
+      "ZPCAS"
+    ],
+    "lifeExpectancy": 57.4,
+    "nuclear": null
   },
   {
     "id": 95,
     "original_name": "Uganda",
     "original_symbol": "UGA",
+    "capital": "Kampala",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Uganda",
     "short_name": "Uganda",
     "abbreviation": "UGA",
@@ -3507,12 +5135,32 @@
       "name": "Uganda Shilling",
       "numeric_code": 800,
       "alphabetic_code": "UGX"
-    }
+    },
+    "languages": [
+      "English",
+      "Ganda",
+      "Swahili",
+      "Arabic"
+    ],
+    "gdp": 37372032558,
+    "area": 241038,
+    "population": 42723139,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union",
+      "OIC"
+    ],
+    "lifeExpectancy": 42.9,
+    "nuclear": null
   },
   {
     "id": 96,
     "original_name": "United Kingdom",
     "original_symbol": "GBR",
+    "capital": "London",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "United Kingdom of Great Britain and Northern Ireland",
     "short_name": "UK",
     "abbreviation": "GBR",
@@ -3543,12 +5191,32 @@
       "name": "Pound Sterling",
       "numeric_code": 826,
       "alphabetic_code": "GBP"
-    }
+    },
+    "languages": [
+      "English",
+      "Welsh",
+      "Gaelic"
+    ],
+    "gdp": 2707743777174,
+    "area": 242900,
+    "population": 66460344,
+    "government": "Constitutional Monarchy",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "G7",
+      "G20"
+    ],
+    "nuclear": "Sea",
+    "lifeExpectancy": 77.7
   },
   {
     "id": 97,
     "original_name": "Guinea",
     "original_symbol": "GIN",
+    "capital": "Conakry",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Guinea",
     "short_name": "Guinea",
     "abbreviation": "GIN",
@@ -3582,12 +5250,30 @@
       "name": "Guinean Franc",
       "numeric_code": 324,
       "alphabetic_code": "GNF"
-    }
+    },
+    "languages": [
+      "French"
+    ],
+    "gdp": 15681050917,
+    "area": 245857,
+    "population": 12414318,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union",
+      "ZPCAS",
+      "OIC"
+    ],
+    "lifeExpectancy": 45.6,
+    "nuclear": null
   },
   {
     "id": 98,
     "original_name": "Western Sahara",
     "original_symbol": "ESH",
+    "capital": "El-Aaiun",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Western Sahara",
     "short_name": "Western Sahara",
     "abbreviation": "ESH",
@@ -3618,12 +5304,28 @@
       "name": "Moroccan Dirham",
       "numeric_code": 504,
       "alphabetic_code": "MAD"
-    }
+    },
+    "languages": [
+      "Arabic"
+    ],
+    "gdp": 908100000,
+    "area": 266000,
+    "population": 652271,
+    "government": "Occupied by Marocco",
+    "alliances": [
+      "African Union"
+    ],
+    "lifeExpectancy": 49.8,
+    "income": null,
+    "nuclear": null
   },
   {
     "id": 99,
     "original_name": "Gabon",
     "original_symbol": "GAB",
+    "capital": "Libreville",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Gabon",
     "short_name": "Gabon",
     "abbreviation": "GAB",
@@ -3657,12 +5359,30 @@
       "name": "CFA Franc BEAC",
       "numeric_code": 950,
       "alphabetic_code": "XAF"
-    }
+    },
+    "languages": [
+      "French"
+    ],
+    "gdp": 15593181271,
+    "area": 267668,
+    "population": 2119275,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "African Union",
+      "ZPCAS",
+      "OIC"
+    ],
+    "lifeExpectancy": 50.1,
+    "nuclear": null
   },
   {
     "id": 100,
     "original_name": "New Zealand",
     "original_symbol": "NZL",
+    "capital": "Wellington",
+    "continent": "Oceania",
+    "economy": "Developed",
     "long_name": "New Zealand",
     "short_name": "New Zealand",
     "abbreviation": "NZL",
@@ -3693,12 +5413,27 @@
       "name": "New Zealand Dollar",
       "numeric_code": 554,
       "alphabetic_code": "NZD"
-    }
+    },
+    "languages": [
+      "English",
+      "Maori"
+    ],
+    "gdp": 212482013605,
+    "area": 270534,
+    "population": 4841000,
+    "government": "Constitutional Monarchy",
+    "income": "High income",
+    "lifeExpectancy": 77.8,
+    "alliances": [],
+    "nuclear": null
   },
   {
     "id": 101,
     "original_name": "Burkina Faso",
     "original_symbol": "BFA",
+    "capital": "Ouagadougou",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Burkina Faso",
     "short_name": "Burkina Faso",
     "abbreviation": "BFA",
@@ -3732,12 +5467,29 @@
       "name": "CFA Franc BCEAO",
       "numeric_code": 952,
       "alphabetic_code": "XOF"
-    }
+    },
+    "languages": [
+      "French"
+    ],
+    "gdp": 17369059295,
+    "area": 274000,
+    "population": 19751535,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union",
+      "OIC"
+    ],
+    "lifeExpectancy": 46.7,
+    "nuclear": null
   },
   {
     "id": 102,
     "original_name": "Ecuador",
     "original_symbol": "ECU",
+    "capital": "Quito",
+    "continent": "South America",
+    "economy": "Developing",
     "long_name": "Ecuador",
     "short_name": "Ecuador",
     "abbreviation": "ECU",
@@ -3771,12 +5523,28 @@
       "name": "US Dollar",
       "numeric_code": 840,
       "alphabetic_code": "USD"
-    }
+    },
+    "languages": [
+      "Spanish; Castilian"
+    ],
+    "gdp": 98808010000,
+    "area": 283561,
+    "population": 17084357,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "OAS"
+    ],
+    "lifeExpectancy": 71.1,
+    "nuclear": null
   },
   {
     "id": 103,
     "original_name": "Italy",
     "original_symbol": "ITA",
+    "capital": "Rome",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "Italy",
     "short_name": "Italy",
     "abbreviation": "ITA",
@@ -3807,12 +5575,34 @@
       "name": "Euro",
       "numeric_code": 978,
       "alphabetic_code": "EUR"
-    }
+    },
+    "languages": [
+      "Italian",
+      "German",
+      "Catalan; Valencian",
+      "Slovenian"
+    ],
+    "gdp": 1886445268341,
+    "area": 301316,
+    "population": 60421760,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "European Union",
+      "G7",
+      "G20"
+    ],
+    "lifeExpectancy": 79,
+    "nuclear": null
   },
   {
     "id": 104,
     "original_name": "Oman",
     "original_symbol": "OMN",
+    "capital": "Muscat",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "Oman",
     "short_name": "Oman",
     "abbreviation": "OMN",
@@ -3843,12 +5633,31 @@
       "name": "Rial Omani",
       "numeric_code": 512,
       "alphabetic_code": "OMR"
-    }
+    },
+    "languages": [
+      "Arabic",
+      "English",
+      "Urdu"
+    ],
+    "gdp": 76331518669,
+    "area": 309500,
+    "population": 4829483,
+    "government": "Monarchy (Sultanate)",
+    "income": "High income",
+    "alliances": [
+      "Arab League",
+      "OIC"
+    ],
+    "lifeExpectancy": 71.8,
+    "nuclear": null
   },
   {
     "id": 105,
     "original_name": "Poland",
     "original_symbol": "POL",
+    "capital": "Warsaw",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "Poland",
     "short_name": "Poland",
     "abbreviation": "POL",
@@ -3879,12 +5688,29 @@
       "name": "Zloty",
       "numeric_code": 985,
       "alphabetic_code": "PLN"
-    }
+    },
+    "languages": [
+      "Polish"
+    ],
+    "gdp": 594164690895,
+    "area": 323250,
+    "population": 37974750,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ],
+    "lifeExpectancy": 73.2,
+    "nuclear": null
   },
   {
     "id": 106,
     "original_name": "Ivory Coast",
     "original_symbol": "CIV",
+    "capital": "Yamoussoukro",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Côte d'Ivoire",
     "short_name": "Côte d’Ivoire",
     "abbreviation": "CIV",
@@ -3918,12 +5744,30 @@
       "name": "CFA Franc BCEAO",
       "numeric_code": 952,
       "alphabetic_code": "XOF"
-    }
+    },
+    "languages": [
+      "French"
+    ],
+    "gdp": 58540000000,
+    "area": 322463,
+    "population": 25069229,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "African Union",
+      "ZPCAS",
+      "OIC"
+    ],
+    "lifeExpectancy": 45.2,
+    "nuclear": null
   },
   {
     "id": 107,
     "original_name": "Norway",
     "original_symbol": "NOR",
+    "capital": "Oslo",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "Norway",
     "short_name": "Norway",
     "abbreviation": "NOR",
@@ -3954,12 +5798,31 @@
       "name": "Norwegian Krone",
       "numeric_code": 578,
       "alphabetic_code": "NOK"
-    }
+    },
+    "languages": [
+      "Bokmål, Norwegian; Norwegian Bokmål",
+      "Norwegian Nynorsk; Nynorsk, Norwegian",
+      "Northern Sami",
+      "Finnish"
+    ],
+    "gdp": 362008956545,
+    "area": 323877,
+    "population": 5311916,
+    "government": "Constitutional Monarchy",
+    "income": "High income",
+    "alliances": [
+      "NATO"
+    ],
+    "lifeExpectancy": 78.7,
+    "nuclear": null
   },
   {
     "id": 108,
     "original_name": "Malaysia",
     "original_symbol": "MYS",
+    "capital": "Kuala Lumpur",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "Malaysia",
     "short_name": "Malaysia",
     "abbreviation": "MYS",
@@ -3990,12 +5853,35 @@
       "name": "Malaysian Ringgit",
       "numeric_code": 458,
       "alphabetic_code": "MYR"
-    }
+    },
+    "languages": [
+      "Malay",
+      "English",
+      "Chinese",
+      "Tamil",
+      "Telugu",
+      "Malayalam",
+      "Panjabi; Punjabi",
+      "Thai"
+    ],
+    "gdp": 336664444247,
+    "area": 329758,
+    "population": 31528585,
+    "government": "Constitutional Monarchy",
+    "income": "Upper middle income",
+    "alliances": [
+      "OIC"
+    ],
+    "lifeExpectancy": 70.8,
+    "nuclear": null
   },
   {
     "id": 109,
     "original_name": "Vietnam",
     "original_symbol": "VNM",
+    "capital": "Hanoi",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "Viet Nam",
     "short_name": "Vietnam",
     "abbreviation": "VNM",
@@ -4026,12 +5912,30 @@
       "name": "Dong",
       "numeric_code": 704,
       "alphabetic_code": "VND"
-    }
+    },
+    "languages": [
+      "Vietnamese",
+      "English",
+      "French",
+      "Chinese",
+      "Central Khmer"
+    ],
+    "gdp": 271158442059,
+    "area": 331689,
+    "population": 95540395,
+    "government": "Socialistic Republic",
+    "income": "Lower middle income",
+    "lifeExpectancy": 69.3,
+    "alliances": [],
+    "nuclear": null
   },
   {
     "id": 110,
     "original_name": "Finland",
     "original_symbol": "FIN",
+    "capital": "Helsinki",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "Finland",
     "short_name": "Finland",
     "abbreviation": "FIN",
@@ -4062,12 +5966,29 @@
       "name": "Euro",
       "numeric_code": 978,
       "alphabetic_code": "EUR"
-    }
+    },
+    "languages": [
+      "Finnish",
+      "Swedish"
+    ],
+    "gdp": 271233883404,
+    "area": 338145,
+    "population": 5515525,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "European Union"
+    ],
+    "lifeExpectancy": 77.4,
+    "nuclear": null
   },
   {
     "id": 111,
     "original_name": "Republic of the Congo",
     "original_symbol": "COG",
+    "capital": "Brazzaville",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Congo",
     "short_name": "Congo - Brazzaville",
     "abbreviation": "COG",
@@ -4101,12 +6022,30 @@
       "name": "CFA Franc BEAC",
       "numeric_code": 950,
       "alphabetic_code": "XAF"
-    }
+    },
+    "languages": [
+      "French",
+      "Lingala"
+    ],
+    "gdp": 10884686143,
+    "area": 342000,
+    "population": 5244363,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "African Union",
+      "ZPCAS"
+    ],
+    "lifeExpectancy": 64.29,
+    "nuclear": null
   },
   {
     "id": 112,
     "original_name": "Philippines",
     "original_symbol": "PHL",
+    "capital": "Manila",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "Philippines",
     "short_name": "Philippines",
     "abbreviation": "PHL",
@@ -4137,12 +6076,26 @@
       "name": "Philippine Peso",
       "numeric_code": 608,
       "alphabetic_code": "PHP"
-    }
+    },
+    "languages": [
+      "English"
+    ],
+    "gdp": 361489354350,
+    "area": 300000,
+    "population": 106651922,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "lifeExpectancy": 67.5,
+    "alliances": [],
+    "nuclear": null
   },
   {
     "id": 113,
     "original_name": "Germany",
     "original_symbol": "DEU",
+    "capital": "Berlin",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "Germany",
     "short_name": "Germany",
     "abbreviation": "DEU",
@@ -4173,12 +6126,32 @@
       "name": "Euro",
       "numeric_code": 978,
       "alphabetic_code": "EUR"
-    }
+    },
+    "languages": [
+      "German"
+    ],
+    "gdp": 3806060140125,
+    "area": 357022,
+    "population": 82905782,
+    "government": "Federal Republic",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "European Union",
+      "European Union",
+      "G7",
+      "G20"
+    ],
+    "lifeExpectancy": 77.4,
+    "nuclear": null
   },
   {
     "id": 114,
     "original_name": "Japan",
     "original_symbol": "JPN",
+    "capital": "Tokyo",
+    "continent": "Asia",
+    "economy": "Developed",
     "long_name": "Japan",
     "short_name": "Japan",
     "abbreviation": "JPN",
@@ -4209,12 +6182,29 @@
       "name": "Yen",
       "numeric_code": 392,
       "alphabetic_code": "JPY"
-    }
+    },
+    "languages": [
+      "Japanese"
+    ],
+    "gdp": 5064872875605,
+    "area": 377829,
+    "population": 126529100,
+    "government": "Constitutional Monarchy",
+    "income": "High income",
+    "alliances": [
+      "G7",
+      "G20"
+    ],
+    "lifeExpectancy": 80.7,
+    "nuclear": null
   },
   {
     "id": 115,
     "original_name": "West Bank",
     "original_symbol": "PSE",
+    "capital": "East Jerusalem",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "State of Palestine",
     "short_name": "Palestine",
     "abbreviation": "PSE",
@@ -4241,12 +6231,29 @@
       },
       "intermediate_region": null
     },
-    "iso_4217": null
+    "iso_4217": null,
+    "languages": [
+      "Arabic"
+    ],
+    "gdp": 15561300000,
+    "area": 6257,
+    "population": 4569087,
+    "government": "Autonomous Area",
+    "income": "Lower middle income",
+    "alliances": [
+      "Arab League",
+      "OIC"
+    ],
+    "lifeExpectancy": 71.4,
+    "nuclear": null
   },
   {
     "id": 116,
     "original_name": "Zimbabwe",
     "original_symbol": "ZWE",
+    "capital": "Harare",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Zimbabwe",
     "short_name": "Zimbabwe",
     "abbreviation": "ZWE",
@@ -4280,12 +6287,30 @@
       "name": "Zimbabwe Dollar",
       "numeric_code": 932,
       "alphabetic_code": "ZWL"
-    }
+    },
+    "languages": [
+      "English",
+      "Shona",
+      "Ndebele, North; North Ndebele"
+    ],
+    "gdp": 16768513443,
+    "area": 390757,
+    "population": 14439018,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "African Union"
+    ],
+    "lifeExpectancy": 37.8,
+    "nuclear": null
   },
   {
     "id": 117,
     "original_name": "French Guiana",
     "original_symbol": "GUF",
+    "capital": "Cayenne",
+    "continent": "South America",
+    "economy": "Developing",
     "long_name": "French Guiana",
     "short_name": "French Guiana",
     "abbreviation": "GUF",
@@ -4319,12 +6344,26 @@
       "name": "Euro",
       "numeric_code": 978,
       "alphabetic_code": "EUR"
-    }
+    },
+    "languages": [
+      "French"
+    ],
+    "gdp": 4870000000,
+    "area": 90000,
+    "population": 290691,
+    "government": "Overseas Department of France",
+    "lifeExpectancy": 76.1,
+    "alliances": [],
+    "income": null,
+    "nuclear": null
   },
   {
     "id": 118,
     "original_name": "Paraguay",
     "original_symbol": "PRY",
+    "capital": "Asuncion",
+    "continent": "South America",
+    "economy": "Developing",
     "long_name": "Paraguay",
     "short_name": "Paraguay",
     "abbreviation": "PRY",
@@ -4358,12 +6397,29 @@
       "name": "Guarani",
       "numeric_code": 600,
       "alphabetic_code": "PYG"
-    }
+    },
+    "languages": [
+      "Spanish; Castilian"
+    ],
+    "gdp": 35304238230,
+    "area": 406752,
+    "population": 6956071,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "OAS",
+      "Rio Pact"
+    ],
+    "lifeExpectancy": 73.7,
+    "nuclear": null
   },
   {
     "id": 119,
     "original_name": "Iraq",
     "original_symbol": "IRQ",
+    "capital": "Baghdad",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "Iraq",
     "short_name": "Iraq",
     "abbreviation": "IRQ",
@@ -4394,12 +6450,31 @@
       "name": "Iraqi Dinar",
       "numeric_code": 368,
       "alphabetic_code": "IQD"
-    }
+    },
+    "languages": [
+      "Arabic",
+      "Kurdish",
+      "Armenian"
+    ],
+    "gdp": 167224432560,
+    "area": 438317,
+    "population": 38433600,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "Arab League",
+      "OIC"
+    ],
+    "lifeExpectancy": 66.5,
+    "nuclear": null
   },
   {
     "id": 120,
     "original_name": "Morocco",
     "original_symbol": "MAR",
+    "capital": "Rabat",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Morocco",
     "short_name": "Morocco",
     "abbreviation": "MAR",
@@ -4430,12 +6505,31 @@
       "name": "Moroccan Dirham",
       "numeric_code": 504,
       "alphabetic_code": "MAD"
-    }
+    },
+    "languages": [
+      "Arabic",
+      "French"
+    ],
+    "gdp": 112870591694,
+    "area": 446550,
+    "population": 36029138,
+    "government": "Constitutional Monarchy",
+    "income": "Lower middle income",
+    "alliances": [
+      "Arab League",
+      "African Union",
+      "OIC"
+    ],
+    "lifeExpectancy": 69.1,
+    "nuclear": null
   },
   {
     "id": 121,
     "original_name": "Uzbekistan",
     "original_symbol": "UZB",
+    "capital": "Tashkent",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "Uzbekistan",
     "short_name": "Uzbekistan",
     "abbreviation": "UZB",
@@ -4466,12 +6560,30 @@
       "name": "Uzbekistan Sum",
       "numeric_code": 860,
       "alphabetic_code": "UZS"
-    }
+    },
+    "languages": [
+      "Uzbek",
+      "Russian",
+      "Tajik"
+    ],
+    "gdp": 57707189945,
+    "area": 447400,
+    "population": 32955400,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "OIC"
+    ],
+    "lifeExpectancy": 63.7,
+    "nuclear": null
   },
   {
     "id": 122,
     "original_name": "Sweden",
     "original_symbol": "SWE",
+    "capital": "Stockholm",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "Sweden",
     "short_name": "Sweden",
     "abbreviation": "SWE",
@@ -4502,12 +6614,29 @@
       "name": "Swedish Krona",
       "numeric_code": 752,
       "alphabetic_code": "SEK"
-    }
+    },
+    "languages": [
+      "Swedish",
+      "Northern Sami"
+    ],
+    "gdp": 537609865719,
+    "area": 449964,
+    "population": 10175214,
+    "government": "Constitutional Monarchy",
+    "income": "High income",
+    "alliances": [
+      "European Union"
+    ],
+    "lifeExpectancy": 79.6,
+    "nuclear": null
   },
   {
     "id": 123,
     "original_name": "Papua New Guinea",
     "original_symbol": "PNG",
+    "capital": "Port Moresby",
+    "continent": "Oceania",
+    "economy": "Developing",
     "long_name": "Papua New Guinea",
     "short_name": "Papua New Guinea",
     "abbreviation": "PNG",
@@ -4538,12 +6667,26 @@
       "name": "Kina",
       "numeric_code": 598,
       "alphabetic_code": "PGK"
-    }
+    },
+    "languages": [
+      "English"
+    ],
+    "gdp": 23591523025,
+    "area": 462840,
+    "population": 8606316,
+    "government": "Constitutional Monarchy",
+    "income": "Lower middle income",
+    "lifeExpectancy": 63.1,
+    "alliances": [],
+    "nuclear": null
   },
   {
     "id": 124,
     "original_name": "Cameroon",
     "original_symbol": "CMR",
+    "capital": "Yaounde",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Cameroon",
     "short_name": "Cameroon",
     "abbreviation": "CMR",
@@ -4577,12 +6720,31 @@
       "name": "CFA Franc BEAC",
       "numeric_code": 950,
       "alphabetic_code": "XAF"
-    }
+    },
+    "languages": [
+      "English",
+      "French"
+    ],
+    "gdp": 39802147568,
+    "area": 475442,
+    "population": 25216237,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "African Union",
+      "ZPCAS",
+      "OIC"
+    ],
+    "lifeExpectancy": 54.8,
+    "nuclear": null
   },
   {
     "id": 125,
     "original_name": "Turkmenistan",
     "original_symbol": "TKM",
+    "capital": "Ashgabat",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "Turkmenistan",
     "short_name": "Turkmenistan",
     "abbreviation": "TKM",
@@ -4613,12 +6775,30 @@
       "name": "Turkmenistan New Manat",
       "numeric_code": 934,
       "alphabetic_code": "TMT"
-    }
+    },
+    "languages": [
+      "Turkmen",
+      "Russian",
+      "Uzbek"
+    ],
+    "gdp": 45231428571,
+    "area": 488100,
+    "population": 5850908,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "OIC"
+    ],
+    "lifeExpectancy": 60.9,
+    "nuclear": null
   },
   {
     "id": 126,
     "original_name": "Spain",
     "original_symbol": "ESP",
+    "capital": "Madrid",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "Spain",
     "short_name": "Spain",
     "abbreviation": "ESP",
@@ -4649,12 +6829,32 @@
       "name": "Euro",
       "numeric_code": 978,
       "alphabetic_code": "EUR"
-    }
+    },
+    "languages": [
+      "Spanish; Castilian",
+      "Catalan; Valencian",
+      "Galician",
+      "Basque"
+    ],
+    "gdp": 1281199091016,
+    "area": 505992,
+    "population": 46796540,
+    "government": "Constitutional Monarchy",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "European Union"
+    ],
+    "lifeExpectancy": 78.8,
+    "nuclear": null
   },
   {
     "id": 127,
     "original_name": "Thailand",
     "original_symbol": "THA",
+    "capital": "Bangkok",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "Thailand",
     "short_name": "Thailand",
     "abbreviation": "THA",
@@ -4685,12 +6885,27 @@
       "name": "Baht",
       "numeric_code": 764,
       "alphabetic_code": "THB"
-    }
+    },
+    "languages": [
+      "Thai",
+      "English"
+    ],
+    "gdp": 501794961925,
+    "area": 513115,
+    "population": 69428524,
+    "government": "Constitutional Monarchy",
+    "income": "Upper middle income",
+    "lifeExpectancy": 68.6,
+    "alliances": [],
+    "nuclear": null
   },
   {
     "id": 128,
     "original_name": "Yemen",
     "original_symbol": "YEM",
+    "capital": "Sanaa",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "Yemen",
     "short_name": "Yemen",
     "abbreviation": "YEM",
@@ -4721,12 +6936,29 @@
       "name": "Yemeni Rial",
       "numeric_code": 886,
       "alphabetic_code": "YER"
-    }
+    },
+    "languages": [
+      "Arabic"
+    ],
+    "gdp": 23486269599,
+    "area": 527968,
+    "population": 28498687,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "Arab League",
+      "OIC"
+    ],
+    "lifeExpectancy": 59.8,
+    "nuclear": null
   },
   {
     "id": 129,
     "original_name": "Kenya",
     "original_symbol": "KEN",
+    "capital": "Nairobi",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Kenya",
     "short_name": "Kenya",
     "abbreviation": "KEN",
@@ -4760,12 +6992,29 @@
       "name": "Kenyan Shilling",
       "numeric_code": 404,
       "alphabetic_code": "KES"
-    }
+    },
+    "languages": [
+      "English",
+      "Swahili"
+    ],
+    "gdp": 98842939649,
+    "area": 580367,
+    "population": 51393010,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "African Union"
+    ],
+    "lifeExpectancy": 48,
+    "nuclear": null
   },
   {
     "id": 130,
     "original_name": "Botswana",
     "original_symbol": "BWA",
+    "capital": "Gaborone",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Botswana",
     "short_name": "Botswana",
     "abbreviation": "BWA",
@@ -4799,12 +7048,28 @@
       "name": "Pula",
       "numeric_code": 72,
       "alphabetic_code": "BWP"
-    }
+    },
+    "languages": [
+      "English"
+    ],
+    "gdp": 15781732826,
+    "area": 581730,
+    "population": 2254126,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "African Union"
+    ],
+    "lifeExpectancy": 39.3,
+    "nuclear": null
   },
   {
     "id": 131,
     "original_name": "Madagascar",
     "original_symbol": "MDG",
+    "capital": "Antananarivo",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Madagascar",
     "short_name": "Madagascar",
     "abbreviation": "MDG",
@@ -4838,12 +7103,29 @@
       "name": "Malagasy Ariary",
       "numeric_code": 969,
       "alphabetic_code": "MGA"
-    }
+    },
+    "languages": [
+      "French",
+      "Malagasy"
+    ],
+    "gdp": 13720634105,
+    "area": 587041,
+    "population": 26262368,
+    "government": "Federal Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union"
+    ],
+    "lifeExpectancy": 55,
+    "nuclear": null
   },
   {
     "id": 132,
     "original_name": "Ukraine",
     "original_symbol": "UKR",
+    "capital": "Kyiv",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "Ukraine",
     "short_name": "Ukraine",
     "abbreviation": "UKR",
@@ -4874,12 +7156,29 @@
       "name": "Hryvnia",
       "numeric_code": 980,
       "alphabetic_code": "UAH"
-    }
+    },
+    "languages": [
+      "Ukrainian",
+      "Russian",
+      "Polish",
+      "Hungarian"
+    ],
+    "gdp": 155582008717,
+    "area": 603700,
+    "population": 44622516,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "lifeExpectancy": 66,
+    "alliances": [],
+    "nuclear": null
   },
   {
     "id": 133,
     "original_name": "South Sudan",
     "original_symbol": "SSD",
+    "capital": "Juba",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "South Sudan",
     "short_name": "South Sudan",
     "abbreviation": "SSD",
@@ -4913,12 +7212,26 @@
       "name": "South Sudanese Pound",
       "numeric_code": 728,
       "alphabetic_code": "SSP"
-    }
+    },
+    "languages": [
+      "English"
+    ],
+    "gdp": 12000000000,
+    "area": 619745,
+    "population": 10975920,
+    "government": "Republic",
+    "income": "Low income",
+    "lifeExpectancy": 57.6,
+    "alliances": [],
+    "nuclear": null
   },
   {
     "id": 134,
     "original_name": "Central African Republic",
     "original_symbol": "CAF",
+    "capital": "Bangui",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Central African Republic",
     "short_name": "Central African Republic",
     "abbreviation": "CAF",
@@ -4952,12 +7265,30 @@
       "name": "CFA Franc BEAC",
       "numeric_code": 950,
       "alphabetic_code": "XAF"
-    }
+    },
+    "languages": [
+      "French",
+      "Sango",
+      "Lingala"
+    ],
+    "gdp": 2303078338,
+    "area": 622984,
+    "population": 4666377,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union"
+    ],
+    "lifeExpectancy": 44,
+    "nuclear": null
   },
   {
     "id": 135,
     "original_name": "Somalia",
     "original_symbol": "SOM",
+    "capital": "Mogadishu",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Somalia",
     "short_name": "Somalia",
     "abbreviation": "SOM",
@@ -4991,12 +7322,32 @@
       "name": "Somali Shilling",
       "numeric_code": 706,
       "alphabetic_code": "SOS"
-    }
+    },
+    "languages": [
+      "Somali",
+      "Arabic",
+      "Italian"
+    ],
+    "gdp": 4917607582,
+    "area": 637657,
+    "population": 15008154,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "Arab League",
+      "African Union",
+      "OIC"
+    ],
+    "lifeExpectancy": 46.2,
+    "nuclear": null
   },
   {
     "id": 136,
     "original_name": "France",
     "original_symbol": "FRA",
+    "capital": "Paris",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "France",
     "short_name": "France",
     "abbreviation": "FRA",
@@ -5027,12 +7378,34 @@
       "name": "Euro",
       "numeric_code": 978,
       "alphabetic_code": "EUR"
-    }
+    },
+    "languages": [
+      "French",
+      "Breton",
+      "Catalan; Valencian",
+      "Basque"
+    ],
+    "gdp": 2603004395902,
+    "area": 551500,
+    "population": 66977107,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "European Union",
+      "G7",
+      "G20"
+    ],
+    "nuclear": "Sea & Air",
+    "lifeExpectancy": 78.8
   },
   {
     "id": 137,
     "original_name": "Afghanistan",
     "original_symbol": "AFG",
+    "capital": "Kabul",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "Afghanistan",
     "short_name": "Afghanistan",
     "abbreviation": "AFG",
@@ -5063,12 +7436,30 @@
       "name": "Afghani",
       "numeric_code": 971,
       "alphabetic_code": "AFN"
-    }
+    },
+    "languages": [
+      "Persian",
+      "Pushto; Pashto",
+      "Turkmen"
+    ],
+    "gdp": 19807067268,
+    "area": 652090,
+    "population": 37172386,
+    "government": "Islamic Emirate",
+    "income": "Low income",
+    "alliances": [
+      "OIC"
+    ],
+    "lifeExpectancy": 45.9,
+    "nuclear": null
   },
   {
     "id": 138,
     "original_name": "Myanmar",
     "original_symbol": "MMR",
+    "capital": "Nay Pyi Taw",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "Myanmar",
     "short_name": "Myanmar",
     "abbreviation": "MMR",
@@ -5099,12 +7490,26 @@
       "name": "Kyat",
       "numeric_code": 104,
       "alphabetic_code": "MMK"
-    }
+    },
+    "languages": [
+      "Burmese"
+    ],
+    "gdp": 76185586097,
+    "area": 676578,
+    "population": 53708395,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "lifeExpectancy": 54.9,
+    "alliances": [],
+    "nuclear": null
   },
   {
     "id": 139,
     "original_name": "Zambia",
     "original_symbol": "ZMB",
+    "capital": "Lusaka",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Zambia",
     "short_name": "Zambia",
     "abbreviation": "ZMB",
@@ -5138,12 +7543,28 @@
       "name": "Zambian Kwacha",
       "numeric_code": 967,
       "alphabetic_code": "ZMW"
-    }
+    },
+    "languages": [
+      "English"
+    ],
+    "gdp": 19320053859,
+    "area": 752618,
+    "population": 17351822,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "African Union"
+    ],
+    "lifeExpectancy": 37.2,
+    "nuclear": null
   },
   {
     "id": 140,
     "original_name": "Chile",
     "original_symbol": "CHL",
+    "capital": "Santiago",
+    "continent": "South America",
+    "economy": "Developing",
     "long_name": "Chile",
     "short_name": "Chile",
     "abbreviation": "CHL",
@@ -5177,12 +7598,29 @@
       "name": "Chilean Peso",
       "numeric_code": 152,
       "alphabetic_code": "CLP"
-    }
+    },
+    "languages": [
+      "Spanish; Castilian"
+    ],
+    "gdp": 252940023046,
+    "area": 756626,
+    "population": 18729160,
+    "government": "Republic",
+    "income": "High income",
+    "alliances": [
+      "OAS",
+      "Rio Pact"
+    ],
+    "lifeExpectancy": 75.7,
+    "nuclear": null
   },
   {
     "id": 141,
     "original_name": "Turkey",
     "original_symbol": "TUR",
+    "capital": "Ankara",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "Turkey",
     "short_name": "Turkey",
     "abbreviation": "TUR",
@@ -5213,12 +7651,32 @@
       "name": "Turkish Lira",
       "numeric_code": 949,
       "alphabetic_code": "TRY"
-    }
+    },
+    "languages": [
+      "Turkish",
+      "Kurdish",
+      "Azerbaijani"
+    ],
+    "gdp": 720101212394,
+    "area": 774815,
+    "population": 82319724,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "NATO",
+      "G20",
+      "OIC"
+    ],
+    "lifeExpectancy": 71,
+    "nuclear": null
   },
   {
     "id": 142,
     "original_name": "Mozambique",
     "original_symbol": "MOZ",
+    "capital": "Maputo",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Mozambique",
     "short_name": "Mozambique",
     "abbreviation": "MOZ",
@@ -5252,12 +7710,29 @@
       "name": "Mozambique Metical",
       "numeric_code": 943,
       "alphabetic_code": "MZN"
-    }
+    },
+    "languages": [
+      "Portuguese"
+    ],
+    "gdp": 14021421106,
+    "area": 801590,
+    "population": 29495962,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union",
+      "OIC"
+    ],
+    "lifeExpectancy": 37.5,
+    "nuclear": null
   },
   {
     "id": 143,
     "original_name": "Namibia",
     "original_symbol": "NAM",
+    "capital": "Windhoek",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Namibia",
     "short_name": "Namibia",
     "abbreviation": "NAM",
@@ -5291,12 +7766,31 @@
       "name": "Namibia Dollar,Rand",
       "numeric_code": null,
       "alphabetic_code": "NAD,ZAR"
-    }
+    },
+    "languages": [
+      "English",
+      "Afrikaans",
+      "German"
+    ],
+    "gdp": 10699926683,
+    "area": 824292,
+    "population": 2448255,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "African Union",
+      "ZPCAS"
+    ],
+    "lifeExpectancy": 42.5,
+    "nuclear": null
   },
   {
     "id": 144,
     "original_name": "Pakistan",
     "original_symbol": "PAK",
+    "capital": "Islamabad",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "Pakistan",
     "short_name": "Pakistan",
     "abbreviation": "PAK",
@@ -5327,12 +7821,32 @@
       "name": "Pakistan Rupee",
       "numeric_code": 586,
       "alphabetic_code": "PKR"
-    }
+    },
+    "languages": [
+      "Urdu",
+      "English",
+      "Panjabi; Punjabi",
+      "Sindhi",
+      "Pushto; Pashto"
+    ],
+    "gdp": 263686552686,
+    "area": 796095,
+    "population": 212215030,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "OIC"
+    ],
+    "nuclear": "Land & Air",
+    "lifeExpectancy": 61.1
   },
   {
     "id": 145,
     "original_name": "Venezuela",
     "original_symbol": "VEN",
+    "capital": "Caracas",
+    "continent": "South America",
+    "economy": "Developing",
     "long_name": "Venezuela (Bolivarian Republic of)",
     "short_name": "Venezuela",
     "abbreviation": "VEN",
@@ -5366,12 +7880,29 @@
       "name": "Bolívar",
       "numeric_code": 937,
       "alphabetic_code": "VES"
-    }
+    },
+    "languages": [
+      "Spanish; Castilian"
+    ],
+    "gdp": 482359318768,
+    "area": 912050,
+    "population": 28870195,
+    "government": "Federal Republic",
+    "income": "Not classified",
+    "alliances": [
+      "OAS",
+      "Rio Pact"
+    ],
+    "lifeExpectancy": 73.1,
+    "nuclear": null
   },
   {
     "id": 146,
     "original_name": "Nigeria",
     "original_symbol": "NGA",
+    "capital": "Abuja",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Nigeria",
     "short_name": "Nigeria",
     "abbreviation": "NGA",
@@ -5405,12 +7936,34 @@
       "name": "Naira",
       "numeric_code": 566,
       "alphabetic_code": "NGN"
-    }
+    },
+    "languages": [
+      "English",
+      "Hausa",
+      "Yoruba",
+      "Igbo",
+      "Fulah"
+    ],
+    "gdp": 432293776262,
+    "area": 923768,
+    "population": 195874740,
+    "government": "Federal Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "African Union",
+      "ZPCAS",
+      "OIC"
+    ],
+    "lifeExpectancy": 51.6,
+    "nuclear": null
   },
   {
     "id": 147,
     "original_name": "United Republic of Tanzania",
     "original_symbol": "TZA",
+    "capital": "Dodoma",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "United Republic of Tanzania",
     "short_name": "Tanzania",
     "abbreviation": "TZA",
@@ -5444,12 +7997,30 @@
       "name": "Tanzanian Shilling",
       "numeric_code": 834,
       "alphabetic_code": "TZS"
-    }
+    },
+    "languages": [
+      "Swahili",
+      "English",
+      "Arabic"
+    ],
+    "gdp": 62409748427,
+    "area": 883749,
+    "population": 56318348,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "African Union"
+    ],
+    "lifeExpectancy": 52.3,
+    "nuclear": null
   },
   {
     "id": 148,
     "original_name": "Egypt",
     "original_symbol": "EGY",
+    "capital": "Cairo",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Egypt",
     "short_name": "Egypt",
     "abbreviation": "EGY",
@@ -5480,12 +8051,32 @@
       "name": "Egyptian Pound",
       "numeric_code": 818,
       "alphabetic_code": "EGP"
-    }
+    },
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "gdp": 363069245165,
+    "area": 1001449,
+    "population": 98423595,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "Arab League",
+      "African Union",
+      "OIC"
+    ],
+    "lifeExpectancy": 63.3,
+    "nuclear": null
   },
   {
     "id": 149,
     "original_name": "Mauritania",
     "original_symbol": "MRT",
+    "capital": "Fort-de-France",
+    "continent": "North America",
+    "economy": "Developing",
     "long_name": "Martinique",
     "short_name": "Martinique",
     "abbreviation": "MTQ",
@@ -5519,12 +8110,26 @@
       "name": "Euro",
       "numeric_code": 978,
       "alphabetic_code": "EUR"
-    }
+    },
+    "languages": [
+      "French"
+    ],
+    "gdp": 7778525643,
+    "area": 1102,
+    "population": 376480,
+    "government": "Overseas Department of France",
+    "lifeExpectancy": 78.3,
+    "alliances": [],
+    "income": null,
+    "nuclear": null
   },
   {
     "id": 150,
     "original_name": "Bolivia",
     "original_symbol": "BOL",
+    "capital": "Sucre",
+    "continent": "South America",
+    "economy": "Developing",
     "long_name": "Bolivia (Plurinational State of)",
     "short_name": "Bolivia",
     "abbreviation": "BOL",
@@ -5558,12 +8163,29 @@
       "name": "Boliviano",
       "numeric_code": 68,
       "alphabetic_code": "BOB"
-    }
+    },
+    "languages": [
+      "Spanish; Castilian",
+      "Quechua"
+    ],
+    "gdp": 36688861203,
+    "area": 1098581,
+    "population": 11353142,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "OAS"
+    ],
+    "lifeExpectancy": 63.7,
+    "nuclear": null
   },
   {
     "id": 151,
     "original_name": "Ethiopia",
     "original_symbol": "ETH",
+    "capital": "Addis Ababa",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Ethiopia",
     "short_name": "Ethiopia",
     "abbreviation": "ETH",
@@ -5597,12 +8219,32 @@
       "name": "Ethiopian Birr",
       "numeric_code": 230,
       "alphabetic_code": "ETB"
-    }
+    },
+    "languages": [
+      "Amharic",
+      "Oromo",
+      "Tigrinya",
+      "Somali"
+    ],
+    "gdp": 107645054312,
+    "area": 1104300,
+    "population": 109224559,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union",
+      "Future Of France"
+    ],
+    "lifeExpectancy": 45.2,
+    "nuclear": null
   },
   {
     "id": 152,
     "original_name": "Colombia",
     "original_symbol": "COL",
+    "capital": "Bogota",
+    "continent": "South America",
+    "economy": "Developing",
     "long_name": "Colombia",
     "short_name": "Colombia",
     "abbreviation": "COL",
@@ -5636,12 +8278,29 @@
       "name": "Colombian Peso",
       "numeric_code": 170,
       "alphabetic_code": "COP"
-    }
+    },
+    "languages": [
+      "Spanish; Castilian"
+    ],
+    "gdp": 271346896626,
+    "area": 1138914,
+    "population": 49648685,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "OAS",
+      "Rio Pact"
+    ],
+    "lifeExpectancy": 70.3,
+    "nuclear": null
   },
   {
     "id": 153,
     "original_name": "South Africa",
     "original_symbol": "ZAF",
+    "capital": "Pretoria",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "South Africa",
     "short_name": "South Africa",
     "abbreviation": "ZAF",
@@ -5675,12 +8334,33 @@
       "name": "Rand",
       "numeric_code": 710,
       "alphabetic_code": "ZAR"
-    }
+    },
+    "languages": [
+      "Zulu",
+      "Xhosa",
+      "Afrikaans",
+      "English"
+    ],
+    "gdp": 301923639270,
+    "area": 1221037,
+    "population": 57779622,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "African Union",
+      "G20",
+      "ZPCAS"
+    ],
+    "lifeExpectancy": 51.1,
+    "nuclear": null
   },
   {
     "id": 154,
     "original_name": "Mali",
     "original_symbol": "MLI",
+    "capital": "Bamako",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Mali",
     "short_name": "Mali",
     "abbreviation": "MLI",
@@ -5714,12 +8394,30 @@
       "name": "CFA Franc BCEAO",
       "numeric_code": 952,
       "alphabetic_code": "XOF"
-    }
+    },
+    "languages": [
+      "French",
+      "Bambara"
+    ],
+    "gdp": 17393761397,
+    "area": 1240192,
+    "population": 19077690,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union",
+      "OIC"
+    ],
+    "lifeExpectancy": 46.7,
+    "nuclear": null
   },
   {
     "id": 155,
     "original_name": "Angola",
     "original_symbol": "AGO",
+    "capital": "Luanda",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Angola",
     "short_name": "Angola",
     "abbreviation": "AGO",
@@ -5753,12 +8451,29 @@
       "name": "Kwanza",
       "numeric_code": 973,
       "alphabetic_code": "AOA"
-    }
+    },
+    "languages": [
+      "Portuguese"
+    ],
+    "gdp": 62306913444,
+    "area": 1246700,
+    "population": 30809762,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "African Union",
+      "ZPCAS"
+    ],
+    "lifeExpectancy": 38.3,
+    "nuclear": null
   },
   {
     "id": 156,
     "original_name": "Niger",
     "original_symbol": "NER",
+    "capital": "Niamey",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Niger",
     "short_name": "Niger",
     "abbreviation": "NER",
@@ -5792,12 +8507,30 @@
       "name": "CFA Franc BCEAO",
       "numeric_code": 952,
       "alphabetic_code": "XOF"
-    }
+    },
+    "languages": [
+      "French",
+      "Hausa"
+    ],
+    "gdp": 13678234008,
+    "area": 1267000,
+    "population": 22442948,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union",
+      "OIC"
+    ],
+    "lifeExpectancy": 41.3,
+    "nuclear": null
   },
   {
     "id": 157,
     "original_name": "Chad",
     "original_symbol": "TCD",
+    "capital": "N'Djamena",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Chad",
     "short_name": "Chad",
     "abbreviation": "TCD",
@@ -5831,12 +8564,31 @@
       "name": "CFA Franc BEAC",
       "numeric_code": 950,
       "alphabetic_code": "XAF"
-    }
+    },
+    "languages": [
+      "French",
+      "Arabic"
+    ],
+    "gdp": 10093118570,
+    "area": 1284000,
+    "population": 15477751,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "African Union",
+      "OIC",
+      "Based"
+    ],
+    "lifeExpectancy": 50.5,
+    "nuclear": null
   },
   {
     "id": 158,
     "original_name": "Peru",
     "original_symbol": "PER",
+    "capital": "Lima",
+    "continent": "South America",
+    "economy": "Developing",
     "long_name": "Peru",
     "short_name": "Peru",
     "abbreviation": "PER",
@@ -5870,12 +8622,30 @@
       "name": "Sol",
       "numeric_code": 604,
       "alphabetic_code": "PEN"
-    }
+    },
+    "languages": [
+      "Spanish; Castilian",
+      "Quechua"
+    ],
+    "gdp": 202014363787,
+    "area": 1285216,
+    "population": 31989256,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "OAS",
+      "Rio Pact"
+    ],
+    "lifeExpectancy": 70,
+    "nuclear": null
   },
   {
     "id": 159,
     "original_name": "Mongolia",
     "original_symbol": "MNG",
+    "capital": "Ulan Bator",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "Mongolia",
     "short_name": "Mongolia",
     "abbreviation": "MNG",
@@ -5906,12 +8676,27 @@
       "name": "Tugrik",
       "numeric_code": 496,
       "alphabetic_code": "MNT"
-    }
+    },
+    "languages": [
+      "Mongolian",
+      "Russian"
+    ],
+    "gdp": 13137128659,
+    "area": 1566500,
+    "population": 3170208,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "lifeExpectancy": 67.3,
+    "alliances": [],
+    "nuclear": null
   },
   {
     "id": 160,
     "original_name": "Iran",
     "original_symbol": "IRN",
+    "capital": "Tehran",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "Iran (Islamic Republic of)",
     "short_name": "Iran",
     "abbreviation": "IRN",
@@ -5942,12 +8727,29 @@
       "name": "Iranian Rial",
       "numeric_code": 364,
       "alphabetic_code": "IRR"
-    }
+    },
+    "languages": [
+      "Persian",
+      "Kurdish"
+    ],
+    "gdp": 191718271484,
+    "area": 1648195,
+    "population": 81800269,
+    "government": "Islamic Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "OIC"
+    ],
+    "lifeExpectancy": 69.7,
+    "nuclear": null
   },
   {
     "id": 161,
     "original_name": "Libya",
     "original_symbol": "LBY",
+    "capital": "Tripoli",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Libya",
     "short_name": "Libya",
     "abbreviation": "LBY",
@@ -5978,12 +8780,31 @@
       "name": "Libyan Dinar",
       "numeric_code": 434,
       "alphabetic_code": "LYD"
-    }
+    },
+    "languages": [
+      "Arabic",
+      "Italian",
+      "English"
+    ],
+    "gdp": 25418461532,
+    "area": 1759540,
+    "population": 6678567,
+    "government": "Socialistic State",
+    "income": "Upper middle income",
+    "alliances": [
+      "African Union",
+      "OIC"
+    ],
+    "lifeExpectancy": 75.5,
+    "nuclear": null
   },
   {
     "id": 162,
     "original_name": "Sudan",
     "original_symbol": "SDN",
+    "capital": "Khartoum",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Sudan",
     "short_name": "Sudan",
     "abbreviation": "SDN",
@@ -6014,12 +8835,31 @@
       "name": "Sudanese Pound",
       "numeric_code": 938,
       "alphabetic_code": "SDG"
-    }
+    },
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "gdp": 26110829190,
+    "area": 1886068,
+    "population": 41801533,
+    "government": "Republic",
+    "income": "Low income",
+    "alliances": [
+      "Arab League",
+      "African Union",
+      "OIC"
+    ],
+    "lifeExpectancy": 56.6,
+    "nuclear": null
   },
   {
     "id": 163,
     "original_name": "Indonesia",
     "original_symbol": "IDN",
+    "capital": "Jakarta",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "Indonesia",
     "short_name": "Indonesia",
     "abbreviation": "IDN",
@@ -6050,12 +8890,32 @@
       "name": "Rupiah",
       "numeric_code": 360,
       "alphabetic_code": "IDR"
-    }
+    },
+    "languages": [
+      "Indonesian",
+      "English",
+      "Dutch; Flemish",
+      "Javanese"
+    ],
+    "gdp": 1058423838345,
+    "area": 1904569,
+    "population": 267663435,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "G20",
+      "OIC"
+    ],
+    "lifeExpectancy": 70.1,
+    "nuclear": null
   },
   {
     "id": 164,
     "original_name": "Mexico",
     "original_symbol": "MEX",
+    "capital": "Mexico City",
+    "continent": "North America",
+    "economy": "Developing",
     "long_name": "Mexico",
     "short_name": "Mexico",
     "abbreviation": "MEX",
@@ -6089,12 +8949,29 @@
       "name": "Mexican Peso",
       "numeric_code": 484,
       "alphabetic_code": "MXN"
-    }
+    },
+    "languages": [
+      "Spanish; Castilian"
+    ],
+    "gdp": 1076163316175,
+    "area": 1958201,
+    "population": 126190788,
+    "government": "Federal Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "OAS",
+      "G20"
+    ],
+    "lifeExpectancy": 71.5,
+    "nuclear": null
   },
   {
     "id": 165,
     "original_name": "Saudi Arabia",
     "original_symbol": "SAU",
+    "capital": "Riyadh",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "Saudi Arabia",
     "short_name": "Saudi Arabia",
     "abbreviation": "SAU",
@@ -6125,12 +9002,30 @@
       "name": "Saudi Riyal",
       "numeric_code": 682,
       "alphabetic_code": "SAR"
-    }
+    },
+    "languages": [
+      "Arabic"
+    ],
+    "gdp": 700117873249,
+    "area": 2149690,
+    "population": 33699947,
+    "government": "Monarchy",
+    "income": "High income",
+    "alliances": [
+      "Arab League",
+      "G20",
+      "OIC"
+    ],
+    "lifeExpectancy": 67.8,
+    "nuclear": null
   },
   {
     "id": 166,
     "original_name": "Greenland",
     "original_symbol": "GRL",
+    "capital": "Nuuk",
+    "continent": "North America",
+    "economy": "Developed",
     "long_name": "Greenland",
     "short_name": "Greenland",
     "abbreviation": "GRL",
@@ -6161,12 +9056,28 @@
       "name": "Danish Krone",
       "numeric_code": 208,
       "alphabetic_code": "DKK"
-    }
+    },
+    "languages": [
+      "Kalaallisut; Greenlandic",
+      "Danish",
+      "English"
+    ],
+    "gdp": 3051626390,
+    "area": 2166090,
+    "population": 56025,
+    "government": "Part of Denmark",
+    "income": "High income",
+    "lifeExpectancy": 68.1,
+    "alliances": [],
+    "nuclear": null
   },
   {
     "id": 167,
     "original_name": "Democratic Republic of the Congo",
     "original_symbol": "COD",
+    "capital": "Kinshasa",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Democratic Republic of the Congo",
     "short_name": "Congo - Kinshasa",
     "abbreviation": "COD",
@@ -6200,12 +9111,28 @@
       "name": "Congolese Franc",
       "numeric_code": 976,
       "alphabetic_code": "CDF"
-    }
+    },
+    "languages": [
+      "French",
+      "Lingala",
+      "Swahili"
+    ],
+    "gdp": 49868970641,
+    "area": 2344858,
+    "population": 105044646,
+    "government": "Republic",
+    "income": "Low income",
+    "lifeExpectancy": 60.37,
+    "alliances": [],
+    "nuclear": null
   },
   {
     "id": 168,
     "original_name": "Algeria",
     "original_symbol": "DZA",
+    "capital": "Algiers",
+    "continent": "Africa",
+    "economy": "Developing",
     "long_name": "Algeria",
     "short_name": "Algeria",
     "abbreviation": "DZA",
@@ -6236,12 +9163,30 @@
       "name": "Algerian Dinar",
       "numeric_code": 12,
       "alphabetic_code": "DZD"
-    }
+    },
+    "languages": [
+      "Arabic"
+    ],
+    "gdp": 145163902228,
+    "area": 2381741,
+    "population": 42228429,
+    "government": "Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "Arab League",
+      "African Union",
+      "OIC"
+    ],
+    "lifeExpectancy": 69.7,
+    "nuclear": null
   },
   {
     "id": 169,
     "original_name": "Kazakhstan",
     "original_symbol": "KAZ",
+    "capital": "Astana",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "Kazakhstan",
     "short_name": "Kazakhstan",
     "abbreviation": "KAZ",
@@ -6272,12 +9217,29 @@
       "name": "Tenge",
       "numeric_code": 398,
       "alphabetic_code": "KZT"
-    }
+    },
+    "languages": [
+      "Kazakh",
+      "Russian"
+    ],
+    "gdp": 169835426427,
+    "area": 2724900,
+    "population": 18272430,
+    "government": "Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "OIC"
+    ],
+    "lifeExpectancy": 63.2,
+    "nuclear": null
   },
   {
     "id": 170,
     "original_name": "Argentina",
     "original_symbol": "ARG",
+    "capital": "Buenos Aires",
+    "continent": "South America",
+    "economy": "Developing",
     "long_name": "Argentina",
     "short_name": "Argentina",
     "abbreviation": "ARG",
@@ -6311,12 +9273,35 @@
       "name": "Argentine Peso",
       "numeric_code": 32,
       "alphabetic_code": "ARS"
-    }
+    },
+    "languages": [
+      "Spanish; Castilian",
+      "English",
+      "Italian",
+      "German",
+      "French"
+    ],
+    "gdp": 383066977654,
+    "area": 2780400,
+    "population": 44494502,
+    "government": "Federal Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "OAS",
+      "G20",
+      "Rio Pact",
+      "ZPCAS"
+    ],
+    "lifeExpectancy": 75.1,
+    "nuclear": null
   },
   {
     "id": 171,
     "original_name": "India",
     "original_symbol": "IND",
+    "capital": "New Delhi",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "India",
     "short_name": "India",
     "abbreviation": "IND",
@@ -6347,12 +9332,43 @@
       "name": "Indian Rupee",
       "numeric_code": 356,
       "alphabetic_code": "INR"
-    }
+    },
+    "languages": [
+      "English",
+      "Hindi",
+      "Bengali",
+      "Telugu",
+      "Marathi",
+      "Tamil",
+      "Urdu",
+      "Gujarati",
+      "Kannada",
+      "Malayalam",
+      "Oriya",
+      "Panjabi; Punjabi",
+      "Assamese",
+      "Kashmiri",
+      "Nepali",
+      "Sindhi",
+      "French"
+    ],
+    "gdp": 2622983732006,
+    "area": 3287263,
+    "population": 1352617328,
+    "government": "Federal Republic",
+    "income": "Lower middle income",
+    "alliances": [
+      "G20"
+    ],
+    "nuclear": "Nuclear Triad",
+    "lifeExpectancy": 62.5
   },
   {
     "id": 172,
     "original_name": "Australia",
     "original_symbol": "AUS",
+    "capital": "Canberra",
+    "economy": "Developed",
     "long_name": "Australia",
     "short_name": "Australia",
     "abbreviation": "AUS",
@@ -6383,12 +9399,28 @@
       "name": "Australian Dollar",
       "numeric_code": 36,
       "alphabetic_code": "AUD"
-    }
+    },
+    "languages": [
+      "English"
+    ],
+    "gdp": 1330900925057,
+    "area": 7741220,
+    "population": 24982688,
+    "government": "Federation Constitutional Monarchy",
+    "income": "High income",
+    "alliances": [
+      "G20"
+    ],
+    "lifeExpectancy": 79.8,
+    "nuclear": null
   },
   {
     "id": 173,
     "original_name": "Brazil",
     "original_symbol": "BRA",
+    "capital": "Brasilia",
+    "continent": "South America",
+    "economy": "Developing",
     "long_name": "Brazil",
     "short_name": "Brazil",
     "abbreviation": "BRA",
@@ -6422,17 +9454,38 @@
       "name": "Brazilian Real",
       "numeric_code": 986,
       "alphabetic_code": "BRL"
-    }
+    },
+    "languages": [
+      "Portuguese",
+      "Spanish; Castilian",
+      "English",
+      "French"
+    ],
+    "gdp": 1444733258972,
+    "area": 8547403,
+    "population": 209469333,
+    "government": "Federal Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "OAS",
+      "G20",
+      "Rio Pact"
+    ],
+    "lifeExpectancy": 62.9,
+    "nuclear": null
   },
   {
     "id": 174,
     "original_name": "United States of America",
     "original_symbol": "USA",
+    "capital": "Washington",
+    "continent": "North America",
+    "economy": "Developed",
     "long_name": "United States of America",
-    "short_name": "US",
+    "short_name": "United States",
     "abbreviation": "USA",
     "names": {
-      "cldr": "US",
+      "cldr": "United States",
       "official": "United States of America",
       "unterm_formal": "the United States of America",
       "unterm_short": "United States of America (the)"
@@ -6458,12 +9511,34 @@
       "name": "US Dollar",
       "numeric_code": 840,
       "alphabetic_code": "USD"
-    }
+    },
+    "languages": [
+      "English",
+      "Spanish; Castilian",
+      "French"
+    ],
+    "gdp": 20936600000000,
+    "area": 9363520,
+    "population": 326687501,
+    "government": "Federal Republic",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "OAS",
+      "G7",
+      "G20",
+      "Rio Pact"
+    ],
+    "nuclear": "Nuclear Triad",
+    "lifeExpectancy": 77.1
   },
   {
     "id": 175,
     "original_name": "China",
     "original_symbol": "CHN",
+    "capital": "Beijing",
+    "continent": "Asia",
+    "economy": "Developing",
     "long_name": "China",
     "short_name": "China",
     "abbreviation": "CHN",
@@ -6494,12 +9569,28 @@
       "name": "Yuan Renminbi",
       "numeric_code": 156,
       "alphabetic_code": "CNY"
-    }
+    },
+    "languages": [
+      "Uighur; Uyghur"
+    ],
+    "gdp": 14722730697890,
+    "area": 9572900,
+    "population": 1392730000,
+    "government": "People's Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "G20"
+    ],
+    "nuclear": "Nuclear Triad",
+    "lifeExpectancy": 71.4
   },
   {
     "id": 176,
     "original_name": "Canada",
     "original_symbol": "CAN",
+    "capital": "Ottawa",
+    "continent": "North America",
+    "economy": "Developed",
     "long_name": "Canada",
     "short_name": "Canada",
     "abbreviation": "CAN",
@@ -6530,12 +9621,32 @@
       "name": "Canadian Dollar",
       "numeric_code": 124,
       "alphabetic_code": "CAD"
-    }
+    },
+    "languages": [
+      "English",
+      "French"
+    ],
+    "gdp": 1643407977069,
+    "area": 9970610,
+    "population": 37057765,
+    "government": "Constitutional Monarchy, Federation",
+    "income": "High income",
+    "alliances": [
+      "NATO",
+      "OAS",
+      "G7",
+      "G20"
+    ],
+    "lifeExpectancy": 79.4,
+    "nuclear": null
   },
   {
     "id": 177,
     "original_name": "Antarctica",
     "original_symbol": "ATA",
+    "capital": null,
+    "continent": "Antarctica",
+    "economy": null,
     "long_name": "Antarctica",
     "short_name": "Antarctica",
     "abbreviation": "ATA",
@@ -6556,12 +9667,24 @@
       "subregion": null,
       "intermediate_region": null
     },
-    "iso_4217": null
+    "iso_4217": null,
+    "languages": [],
+    "gdp": 495000,
+    "area": 13120000,
+    "population": 1106,
+    "government": "Co-administrated",
+    "lifeExpectancy": null,
+    "alliances": [],
+    "income": null,
+    "nuclear": null
   },
   {
     "id": 178,
     "original_name": "Russia",
     "original_symbol": "RUS",
+    "capital": "Moscow",
+    "continent": "Europe",
+    "economy": "Developed",
     "long_name": "Russian Federation",
     "short_name": "Russia",
     "abbreviation": "RUS",
@@ -6592,6 +9715,21 @@
       "name": "Russian Ruble",
       "numeric_code": 643,
       "alphabetic_code": "RUB"
-    }
+    },
+    "languages": [
+      "Russian",
+      "Tatar",
+      "Chechen"
+    ],
+    "gdp": 1483497784868,
+    "area": 17075400,
+    "population": 144478050,
+    "government": "Federal Republic",
+    "income": "Upper middle income",
+    "alliances": [
+      "G20"
+    ],
+    "nuclear": "Nuclear Triad",
+    "lifeExpectancy": 67.2
   }
 ]
