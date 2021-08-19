@@ -165,4 +165,44 @@ describe('ETHMapZones.sol', () => {
       expect(await zones.totalSupply()).to.eq(0)
     })
   })
+
+  describe('claimUnpreparedZone()', () => {
+    it('Should revert if not called by owner', async () => {
+      await expect(zones.connect(wallet1).claimUnpreparedZone(1))
+        .to.be.revertedWith('Ownable: caller is not the owner')
+    })
+
+    it('Should revert if zone is prepared', async () => {
+      await stealZone(1)
+      await zones.prepareToWrapZone(1)
+      await expect(zones.claimUnpreparedZone(1))
+        .to.be.revertedWith('ETHMapZones: Zone prepared for wrap.')
+    })
+
+    it('Should revert if zone has already been minted', async () => {
+      await stealZone(1)
+      await zones.prepareToWrapZone(1)
+      await map.transferZone(1, zones.address)
+      await zones.wrapZone(1)
+      await expect(zones.claimUnpreparedZone(1))
+        .to.be.revertedWith('ETHMapZones: Zone already wrapped.')
+    })
+
+    it('Should revert if zone not owned by contract', async () => {
+      await stealZone(1)
+      await expect(zones.claimUnpreparedZone(1))
+        .to.be.revertedWith('ETHMapZones: Contract has not received zone.')
+    })
+
+    it('Should mint unprepared token for owner', async () => {
+      await stealZone(1)
+      await map.transferZone(1, zones.address)
+      await zones.claimUnpreparedZone(1)
+      expect(await zones.pendingZoneOwners(1)).to.eq(constants.AddressZero)
+      expect(await zones.tokenByIndex(0)).to.eq(1)
+      expect(await zones.tokenOfOwnerByIndex(wallet.address, 0)).to.eq(1)
+      expect(await zones.ownerOf(1)).to.eq(wallet.address)
+      expect(await zones.totalSupply()).to.eq(1)
+    })
+  })
 })

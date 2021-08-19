@@ -57,4 +57,11 @@ contract ETHMapZones is OpenSeaWhitelistERC721("ETH Map Zones", "ZONES"), Ownabl
     _burn(zoneId);
     map.transferZone(zoneId, _msgSender());
   }
+
+  function claimUnpreparedZone(uint256 zoneId) external onlyOwner {
+    require(pendingZoneOwners[zoneId] == address(0), "ETHMapZones: Zone prepared for wrap.");
+    require(!_exists(zoneId), "ETHMapZones: Zone already wrapped.");
+    require(zoneOwner(zoneId) == address(this), "ETHMapZones: Contract has not received zone.");
+    _mint(msg.sender, zoneId);
+  }
 }
