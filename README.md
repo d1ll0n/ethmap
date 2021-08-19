@@ -25,6 +25,7 @@ We currently have:
 - Currencies (ISO-4217)
 - Region info (M49)
 - ISO identifiers (ISO-3166-1)
+- Nuclear capabilities
 - Membership of various alliances:
   - NATO
   - European Union
