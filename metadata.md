@@ -1,6 +1,6 @@
 # Luxembourg
 
-https://ethmap.zone/flags/LUX.svg
+https://ethmap.world/flags/LUX.svg
 
 ## Traits
 - **Currency**: Euro
@@ -23,7 +23,7 @@ https://ethmap.zone/flags/LUX.svg
 
 # Northern Cyprus
 
-https://ethmap.zone/flags/NCY.svg
+https://ethmap.world/flags/NCY.svg
 
 ## Traits
 - **Currency**: Turkish Lira
@@ -40,10 +40,11 @@ https://ethmap.zone/flags/NCY.svg
 - **Population (Million)**: 0.326
 - **Area (sq. km)**: 3355
 - **Life Expectancy**: 76.7
+- **GDP (Billion USD)**: 4.23
 
 # Trinidad & Tobago
 
-https://ethmap.zone/flags/TTO.svg
+https://ethmap.world/flags/TTO.svg
 
 ## Traits
 - **Currency**: Trinidad and Tobago Dollar
@@ -68,7 +69,7 @@ https://ethmap.zone/flags/TTO.svg
 
 # Bahrain
 
-https://ethmap.zone/flags/BHR.svg
+https://ethmap.world/flags/BHR.svg
 
 ## Traits
 - **Currency**: Bahraini Dinar
@@ -92,7 +93,7 @@ https://ethmap.zone/flags/BHR.svg
 
 # French Southern Territories
 
-https://ethmap.zone/flags/ATF.svg
+https://ethmap.world/flags/ATF.svg
 
 ## Traits
 - **Currency**: Euro
@@ -108,7 +109,7 @@ https://ethmap.zone/flags/ATF.svg
 
 # Puerto Rico
 
-https://ethmap.zone/flags/PRI.svg
+https://ethmap.world/flags/PRI.svg
 
 ## Traits
 - **Currency**: US Dollar
@@ -128,7 +129,7 @@ https://ethmap.zone/flags/PRI.svg
 
 # Cyprus
 
-https://ethmap.zone/flags/CYP.svg
+https://ethmap.world/flags/CYP.svg
 
 ## Traits
 - **Currency**: Euro
@@ -150,7 +151,7 @@ https://ethmap.zone/flags/CYP.svg
 
 # Lebanon
 
-https://ethmap.zone/flags/LBN.svg
+https://ethmap.world/flags/LBN.svg
 
 ## Traits
 - **Currency**: Lebanese Pound
@@ -173,7 +174,7 @@ https://ethmap.zone/flags/LBN.svg
 
 # Kosovo
 
-https://ethmap.zone/flags/XXK.svg
+https://ethmap.world/flags/XXK.svg
 
 ## Traits
 - **Currency**: Euro
@@ -193,7 +194,7 @@ https://ethmap.zone/flags/XXK.svg
 
 # Jamaica
 
-https://ethmap.zone/flags/JAM.svg
+https://ethmap.world/flags/JAM.svg
 
 ## Traits
 - **Currency**: Jamaican Dollar
@@ -214,7 +215,7 @@ https://ethmap.zone/flags/JAM.svg
 
 # Gambia
 
-https://ethmap.zone/flags/GMB.svg
+https://ethmap.world/flags/GMB.svg
 
 ## Traits
 - **Currency**: Dalasi
@@ -238,7 +239,7 @@ https://ethmap.zone/flags/GMB.svg
 
 # Qatar
 
-https://ethmap.zone/flags/QAT.svg
+https://ethmap.world/flags/QAT.svg
 
 ## Traits
 - **Currency**: Qatari Rial
@@ -260,7 +261,7 @@ https://ethmap.zone/flags/QAT.svg
 
 # Falkland Islands
 
-https://ethmap.zone/flags/FLK.svg
+https://ethmap.world/flags/FLK.svg
 
 ## Traits
 - **Capital**: Stanley
@@ -277,7 +278,7 @@ https://ethmap.zone/flags/FLK.svg
 
 # Vanuatu
 
-https://ethmap.zone/flags/VUT.svg
+https://ethmap.world/flags/VUT.svg
 
 ## Traits
 - **Currency**: Vatu
@@ -297,7 +298,7 @@ https://ethmap.zone/flags/VUT.svg
 
 # Montenegro
 
-https://ethmap.zone/flags/MNE.svg
+https://ethmap.world/flags/MNE.svg
 
 ## Traits
 - **Currency**: Euro
@@ -321,7 +322,7 @@ https://ethmap.zone/flags/MNE.svg
 
 # Bahamas
 
-https://ethmap.zone/flags/BHS.svg
+https://ethmap.world/flags/BHS.svg
 
 ## Traits
 - **Currency**: Bahamian Dollar
@@ -343,7 +344,7 @@ https://ethmap.zone/flags/BHS.svg
 
 # Timor-Leste
 
-https://ethmap.zone/flags/TLS.svg
+https://ethmap.world/flags/TLS.svg
 
 ## Traits
 - **Currency**: US Dollar
@@ -364,7 +365,7 @@ https://ethmap.zone/flags/TLS.svg
 
 # Eswatini
 
-https://ethmap.zone/flags/SWZ.svg
+https://ethmap.world/flags/SWZ.svg
 
 ## Traits
 - **Currency**: Lilangeni
@@ -384,7 +385,7 @@ https://ethmap.zone/flags/SWZ.svg
 
 # Kuwait
 
-https://ethmap.zone/flags/KWT.svg
+https://ethmap.world/flags/KWT.svg
 
 ## Traits
 - **Currency**: Kuwaiti Dinar
@@ -406,7 +407,7 @@ https://ethmap.zone/flags/KWT.svg
 
 # Fiji
 
-https://ethmap.zone/flags/FJI.svg
+https://ethmap.world/flags/FJI.svg
 
 ## Traits
 - **Currency**: Fiji Dollar
@@ -425,7 +426,7 @@ https://ethmap.zone/flags/FJI.svg
 
 # New Caledonia
 
-https://ethmap.zone/flags/NCL.svg
+https://ethmap.world/flags/NCL.svg
 
 ## Traits
 - **Currency**: CFP Franc
@@ -444,7 +445,7 @@ https://ethmap.zone/flags/NCL.svg
 
 # Slovenia
 
-https://ethmap.zone/flags/SVN.svg
+https://ethmap.world/flags/SVN.svg
 
 ## Traits
 - **Currency**: Euro
@@ -465,7 +466,7 @@ https://ethmap.zone/flags/SVN.svg
 
 # Israel
 
-https://ethmap.zone/flags/ISR.svg
+https://ethmap.world/flags/ISR.svg
 
 ## Traits
 - **Currency**: New Israeli Sheqel
@@ -487,7 +488,7 @@ https://ethmap.zone/flags/ISR.svg
 
 # El Salvador
 
-https://ethmap.zone/flags/SLV.svg
+https://ethmap.world/flags/SLV.svg
 
 ## Traits
 - **Currency**: El Salvador Colon,US Dollar
@@ -508,7 +509,7 @@ https://ethmap.zone/flags/SLV.svg
 
 # Belize
 
-https://ethmap.zone/flags/BLZ.svg
+https://ethmap.world/flags/BLZ.svg
 
 ## Traits
 - **Currency**: Belize Dollar
@@ -531,7 +532,7 @@ https://ethmap.zone/flags/BLZ.svg
 
 # Djibouti
 
-https://ethmap.zone/flags/DJI.svg
+https://ethmap.world/flags/DJI.svg
 
 ## Traits
 - **Currency**: Djibouti Franc
@@ -555,7 +556,7 @@ https://ethmap.zone/flags/DJI.svg
 
 # North Macedonia
 
-https://ethmap.zone/flags/MKD.svg
+https://ethmap.world/flags/MKD.svg
 
 ## Traits
 - **Currency**: Denar
@@ -578,7 +579,7 @@ https://ethmap.zone/flags/MKD.svg
 
 # Rwanda
 
-https://ethmap.zone/flags/RWA.svg
+https://ethmap.world/flags/RWA.svg
 
 ## Traits
 - **Currency**: Rwanda Franc
@@ -601,7 +602,7 @@ https://ethmap.zone/flags/RWA.svg
 
 # Haiti
 
-https://ethmap.zone/flags/HTI.svg
+https://ethmap.world/flags/HTI.svg
 
 ## Traits
 - **Currency**: Gourde,US Dollar
@@ -623,7 +624,7 @@ https://ethmap.zone/flags/HTI.svg
 
 # Burundi
 
-https://ethmap.zone/flags/BDI.svg
+https://ethmap.world/flags/BDI.svg
 
 ## Traits
 - **Currency**: Burundi Franc
@@ -644,7 +645,7 @@ https://ethmap.zone/flags/BDI.svg
 
 # Equatorial Guinea
 
-https://ethmap.zone/flags/GNQ.svg
+https://ethmap.world/flags/GNQ.svg
 
 ## Traits
 - **Currency**: CFA Franc BEAC
@@ -666,7 +667,7 @@ https://ethmap.zone/flags/GNQ.svg
 
 # Albania
 
-https://ethmap.zone/flags/ALB.svg
+https://ethmap.world/flags/ALB.svg
 
 ## Traits
 - **Currency**: Lek
@@ -688,7 +689,7 @@ https://ethmap.zone/flags/ALB.svg
 
 # Solomon Islands
 
-https://ethmap.zone/flags/SLB.svg
+https://ethmap.world/flags/SLB.svg
 
 ## Traits
 - **Currency**: Solomon Islands Dollar
@@ -707,7 +708,7 @@ https://ethmap.zone/flags/SLB.svg
 
 # Armenia
 
-https://ethmap.zone/flags/ARM.svg
+https://ethmap.world/flags/ARM.svg
 
 ## Traits
 - **Currency**: Armenian Dram
@@ -726,7 +727,7 @@ https://ethmap.zone/flags/ARM.svg
 
 # Lesotho
 
-https://ethmap.zone/flags/LSO.svg
+https://ethmap.world/flags/LSO.svg
 
 ## Traits
 - **Currency**: Loti,Rand
@@ -748,7 +749,7 @@ https://ethmap.zone/flags/LSO.svg
 
 # Belgium
 
-https://ethmap.zone/flags/BEL.svg
+https://ethmap.world/flags/BEL.svg
 
 ## Traits
 - **Currency**: Euro
@@ -771,7 +772,7 @@ https://ethmap.zone/flags/BEL.svg
 
 # Moldova
 
-https://ethmap.zone/flags/MDA.svg
+https://ethmap.world/flags/MDA.svg
 
 ## Traits
 - **Currency**: Moldovan Leu
@@ -792,7 +793,7 @@ https://ethmap.zone/flags/MDA.svg
 
 # Guinea-Bissau
 
-https://ethmap.zone/flags/GNB.svg
+https://ethmap.world/flags/GNB.svg
 
 ## Traits
 - **Currency**: CFA Franc BCEAO
@@ -814,7 +815,7 @@ https://ethmap.zone/flags/GNB.svg
 
 # Taiwan
 
-https://ethmap.zone/flags/TWN.svg
+https://ethmap.world/flags/TWN.svg
 
 ## Traits
 - **Capital**: Taipei
@@ -831,7 +832,7 @@ https://ethmap.zone/flags/TWN.svg
 
 # Bhutan
 
-https://ethmap.zone/flags/BTN.svg
+https://ethmap.world/flags/BTN.svg
 
 ## Traits
 - **Currency**: Indian Rupee,Ngultrum
@@ -850,7 +851,7 @@ https://ethmap.zone/flags/BTN.svg
 
 # Switzerland
 
-https://ethmap.zone/flags/CHE.svg
+https://ethmap.world/flags/CHE.svg
 
 ## Traits
 - **Currency**: Swiss Franc
@@ -872,7 +873,7 @@ https://ethmap.zone/flags/CHE.svg
 
 # Netherlands
 
-https://ethmap.zone/flags/NLD.svg
+https://ethmap.world/flags/NLD.svg
 
 ## Traits
 - **Currency**: Euro
@@ -894,7 +895,7 @@ https://ethmap.zone/flags/NLD.svg
 
 # Denmark
 
-https://ethmap.zone/flags/DNK.svg
+https://ethmap.world/flags/DNK.svg
 
 ## Traits
 - **Currency**: Danish Krone
@@ -916,7 +917,7 @@ https://ethmap.zone/flags/DNK.svg
 
 # Estonia
 
-https://ethmap.zone/flags/EST.svg
+https://ethmap.world/flags/EST.svg
 
 ## Traits
 - **Currency**: Euro
@@ -938,7 +939,7 @@ https://ethmap.zone/flags/EST.svg
 
 # Dominican Republic
 
-https://ethmap.zone/flags/DOM.svg
+https://ethmap.world/flags/DOM.svg
 
 ## Traits
 - **Currency**: Dominican Peso
@@ -959,7 +960,7 @@ https://ethmap.zone/flags/DOM.svg
 
 # Slovakia
 
-https://ethmap.zone/flags/SVK.svg
+https://ethmap.world/flags/SVK.svg
 
 ## Traits
 - **Currency**: Euro
@@ -981,7 +982,7 @@ https://ethmap.zone/flags/SVK.svg
 
 # Costa Rica
 
-https://ethmap.zone/flags/CRI.svg
+https://ethmap.world/flags/CRI.svg
 
 ## Traits
 - **Currency**: Costa Rican Colon
@@ -1003,7 +1004,7 @@ https://ethmap.zone/flags/CRI.svg
 
 # Bosnia
 
-https://ethmap.zone/flags/BIH.svg
+https://ethmap.world/flags/BIH.svg
 
 ## Traits
 - **Currency**: Convertible Mark
@@ -1023,7 +1024,7 @@ https://ethmap.zone/flags/BIH.svg
 
 # Croatia
 
-https://ethmap.zone/flags/HRV.svg
+https://ethmap.world/flags/HRV.svg
 
 ## Traits
 - **Currency**: Kuna
@@ -1045,7 +1046,7 @@ https://ethmap.zone/flags/HRV.svg
 
 # Togo
 
-https://ethmap.zone/flags/TGO.svg
+https://ethmap.world/flags/TGO.svg
 
 ## Traits
 - **Currency**: CFA Franc BCEAO
@@ -1069,7 +1070,7 @@ https://ethmap.zone/flags/TGO.svg
 
 # Latvia
 
-https://ethmap.zone/flags/LVA.svg
+https://ethmap.world/flags/LVA.svg
 
 ## Traits
 - **Currency**: Euro
@@ -1092,7 +1093,7 @@ https://ethmap.zone/flags/LVA.svg
 
 # Lithuania
 
-https://ethmap.zone/flags/LTU.svg
+https://ethmap.world/flags/LTU.svg
 
 ## Traits
 - **Currency**: Euro
@@ -1114,7 +1115,7 @@ https://ethmap.zone/flags/LTU.svg
 
 # Sri Lanka
 
-https://ethmap.zone/flags/LKA.svg
+https://ethmap.world/flags/LKA.svg
 
 ## Traits
 - **Currency**: Sri Lanka Rupee
@@ -1135,7 +1136,7 @@ https://ethmap.zone/flags/LKA.svg
 
 # Georgia
 
-https://ethmap.zone/flags/GEO.svg
+https://ethmap.world/flags/GEO.svg
 
 ## Traits
 - **Currency**: Lari
@@ -1157,7 +1158,7 @@ https://ethmap.zone/flags/GEO.svg
 
 # Ireland
 
-https://ethmap.zone/flags/IRL.svg
+https://ethmap.world/flags/IRL.svg
 
 ## Traits
 - **Currency**: Euro
@@ -1178,7 +1179,7 @@ https://ethmap.zone/flags/IRL.svg
 
 # Sierra Leone
 
-https://ethmap.zone/flags/SLE.svg
+https://ethmap.world/flags/SLE.svg
 
 ## Traits
 - **Currency**: Leone
@@ -1200,7 +1201,7 @@ https://ethmap.zone/flags/SLE.svg
 
 # Panama
 
-https://ethmap.zone/flags/PAN.svg
+https://ethmap.world/flags/PAN.svg
 
 ## Traits
 - **Currency**: Balboa,US Dollar
@@ -1222,7 +1223,7 @@ https://ethmap.zone/flags/PAN.svg
 
 # Czechia
 
-https://ethmap.zone/flags/CZE.svg
+https://ethmap.world/flags/CZE.svg
 
 ## Traits
 - **Currency**: Czech Koruna
@@ -1244,7 +1245,7 @@ https://ethmap.zone/flags/CZE.svg
 
 # United Arab Emirates
 
-https://ethmap.zone/flags/ARE.svg
+https://ethmap.world/flags/ARE.svg
 
 ## Traits
 - **Currency**: UAE Dirham
@@ -1269,7 +1270,7 @@ https://ethmap.zone/flags/ARE.svg
 
 # Austria
 
-https://ethmap.zone/flags/AUT.svg
+https://ethmap.world/flags/AUT.svg
 
 ## Traits
 - **Currency**: Euro
@@ -1292,7 +1293,7 @@ https://ethmap.zone/flags/AUT.svg
 
 # Azerbaijan
 
-https://ethmap.zone/flags/AZE.svg
+https://ethmap.world/flags/AZE.svg
 
 ## Traits
 - **Currency**: Azerbaijan Manat
@@ -1314,7 +1315,7 @@ https://ethmap.zone/flags/AZE.svg
 
 # Serbia
 
-https://ethmap.zone/flags/SRB.svg
+https://ethmap.world/flags/SRB.svg
 
 ## Traits
 - **Currency**: Serbian Dinar
@@ -1335,7 +1336,7 @@ https://ethmap.zone/flags/SRB.svg
 
 # Jordan
 
-https://ethmap.zone/flags/JOR.svg
+https://ethmap.world/flags/JOR.svg
 
 ## Traits
 - **Currency**: Jordanian Dinar
@@ -1357,7 +1358,7 @@ https://ethmap.zone/flags/JOR.svg
 
 # Portugal
 
-https://ethmap.zone/flags/PRT.svg
+https://ethmap.world/flags/PRT.svg
 
 ## Traits
 - **Currency**: Euro
@@ -1378,7 +1379,7 @@ https://ethmap.zone/flags/PRT.svg
 
 # Hungary
 
-https://ethmap.zone/flags/HUN.svg
+https://ethmap.world/flags/HUN.svg
 
 ## Traits
 - **Currency**: Forint
@@ -1399,7 +1400,7 @@ https://ethmap.zone/flags/HUN.svg
 
 # South Korea
 
-https://ethmap.zone/flags/KOR.svg
+https://ethmap.world/flags/KOR.svg
 
 ## Traits
 - **Currency**: Won
@@ -1420,7 +1421,7 @@ https://ethmap.zone/flags/KOR.svg
 
 # Iceland
 
-https://ethmap.zone/flags/ISL.svg
+https://ethmap.world/flags/ISL.svg
 
 ## Traits
 - **Currency**: Iceland Krona
@@ -1444,7 +1445,7 @@ https://ethmap.zone/flags/ISL.svg
 
 # Guatemala
 
-https://ethmap.zone/flags/GTM.svg
+https://ethmap.world/flags/GTM.svg
 
 ## Traits
 - **Currency**: Quetzal
@@ -1465,7 +1466,7 @@ https://ethmap.zone/flags/GTM.svg
 
 # Cuba
 
-https://ethmap.zone/flags/CUB.svg
+https://ethmap.world/flags/CUB.svg
 
 ## Traits
 - **Currency**: Cuban Peso,Peso Convertible
@@ -1484,7 +1485,7 @@ https://ethmap.zone/flags/CUB.svg
 
 # Bulgaria
 
-https://ethmap.zone/flags/BGR.svg
+https://ethmap.world/flags/BGR.svg
 
 ## Traits
 - **Currency**: Bulgarian Lev
@@ -1505,7 +1506,7 @@ https://ethmap.zone/flags/BGR.svg
 
 # Liberia
 
-https://ethmap.zone/flags/LBR.svg
+https://ethmap.world/flags/LBR.svg
 
 ## Traits
 - **Currency**: Liberian Dollar
@@ -1526,7 +1527,7 @@ https://ethmap.zone/flags/LBR.svg
 
 # Honduras
 
-https://ethmap.zone/flags/HND.svg
+https://ethmap.world/flags/HND.svg
 
 ## Traits
 - **Currency**: Lempira
@@ -1547,7 +1548,7 @@ https://ethmap.zone/flags/HND.svg
 
 # Benin
 
-https://ethmap.zone/flags/BEN.svg
+https://ethmap.world/flags/BEN.svg
 
 ## Traits
 - **Currency**: CFA Franc BCEAO
@@ -1569,7 +1570,7 @@ https://ethmap.zone/flags/BEN.svg
 
 # Eritrea
 
-https://ethmap.zone/flags/ERI.svg
+https://ethmap.world/flags/ERI.svg
 
 ## Traits
 - **Currency**: Nakfa
@@ -1590,7 +1591,7 @@ https://ethmap.zone/flags/ERI.svg
 
 # Malawi
 
-https://ethmap.zone/flags/MWI.svg
+https://ethmap.world/flags/MWI.svg
 
 ## Traits
 - **Currency**: Malawi Kwacha
@@ -1609,7 +1610,7 @@ https://ethmap.zone/flags/MWI.svg
 
 # North Korea
 
-https://ethmap.zone/flags/PRK.svg
+https://ethmap.world/flags/PRK.svg
 
 ## Traits
 - **Currency**: North Korean Won
@@ -1629,7 +1630,7 @@ https://ethmap.zone/flags/PRK.svg
 
 # Nicaragua
 
-https://ethmap.zone/flags/NIC.svg
+https://ethmap.world/flags/NIC.svg
 
 ## Traits
 - **Currency**: Cordoba Oro
@@ -1650,7 +1651,7 @@ https://ethmap.zone/flags/NIC.svg
 
 # Greece
 
-https://ethmap.zone/flags/GRC.svg
+https://ethmap.world/flags/GRC.svg
 
 ## Traits
 - **Currency**: Euro
@@ -1673,7 +1674,7 @@ https://ethmap.zone/flags/GRC.svg
 
 # Tajikistan
 
-https://ethmap.zone/flags/TJK.svg
+https://ethmap.world/flags/TJK.svg
 
 ## Traits
 - **Currency**: Somoni
@@ -1694,7 +1695,7 @@ https://ethmap.zone/flags/TJK.svg
 
 # Nepal
 
-https://ethmap.zone/flags/NPL.svg
+https://ethmap.world/flags/NPL.svg
 
 ## Traits
 - **Currency**: Nepalese Rupee
@@ -1714,7 +1715,7 @@ https://ethmap.zone/flags/NPL.svg
 
 # Bangladesh
 
-https://ethmap.zone/flags/BGD.svg
+https://ethmap.world/flags/BGD.svg
 
 ## Traits
 - **Currency**: Taka
@@ -1735,7 +1736,7 @@ https://ethmap.zone/flags/BGD.svg
 
 # Tunisia
 
-https://ethmap.zone/flags/TUN.svg
+https://ethmap.world/flags/TUN.svg
 
 ## Traits
 - **Currency**: Tunisian Dinar
@@ -1758,7 +1759,7 @@ https://ethmap.zone/flags/TUN.svg
 
 # Suriname
 
-https://ethmap.zone/flags/SUR.svg
+https://ethmap.world/flags/SUR.svg
 
 ## Traits
 - **Currency**: Surinam Dollar
@@ -1782,7 +1783,7 @@ https://ethmap.zone/flags/SUR.svg
 
 # Solomon Islands
 
-https://ethmap.zone/flags/SLB.svg
+https://ethmap.world/flags/SLB.svg
 
 ## Traits
 - **Currency**: Solomon Islands Dollar
@@ -1801,7 +1802,7 @@ https://ethmap.zone/flags/SLB.svg
 
 # Uruguay
 
-https://ethmap.zone/flags/URY.svg
+https://ethmap.world/flags/URY.svg
 
 ## Traits
 - **Currency**: Peso Uruguayo
@@ -1823,7 +1824,7 @@ https://ethmap.zone/flags/URY.svg
 
 # Cambodia
 
-https://ethmap.zone/flags/KHM.svg
+https://ethmap.world/flags/KHM.svg
 
 ## Traits
 - **Currency**: Riel
@@ -1844,7 +1845,7 @@ https://ethmap.zone/flags/KHM.svg
 
 # Syria
 
-https://ethmap.zone/flags/SYR.svg
+https://ethmap.world/flags/SYR.svg
 
 ## Traits
 - **Currency**: Syrian Pound
@@ -1867,7 +1868,7 @@ https://ethmap.zone/flags/SYR.svg
 
 # Senegal
 
-https://ethmap.zone/flags/SEN.svg
+https://ethmap.world/flags/SEN.svg
 
 ## Traits
 - **Currency**: CFA Franc BCEAO
@@ -1890,7 +1891,7 @@ https://ethmap.zone/flags/SEN.svg
 
 # Kyrgyzstan
 
-https://ethmap.zone/flags/KGZ.svg
+https://ethmap.world/flags/KGZ.svg
 
 ## Traits
 - **Currency**: Som
@@ -1912,7 +1913,7 @@ https://ethmap.zone/flags/KGZ.svg
 
 # Belarus
 
-https://ethmap.zone/flags/BLR.svg
+https://ethmap.world/flags/BLR.svg
 
 ## Traits
 - **Currency**: Belarusian Ruble
@@ -1932,7 +1933,7 @@ https://ethmap.zone/flags/BLR.svg
 
 # Guyana
 
-https://ethmap.zone/flags/GUY.svg
+https://ethmap.world/flags/GUY.svg
 
 ## Traits
 - **Currency**: Guyana Dollar
@@ -1954,7 +1955,7 @@ https://ethmap.zone/flags/GUY.svg
 
 # Laos
 
-https://ethmap.zone/flags/LAO.svg
+https://ethmap.world/flags/LAO.svg
 
 ## Traits
 - **Currency**: Lao Kip
@@ -1975,7 +1976,7 @@ https://ethmap.zone/flags/LAO.svg
 
 # Romania
 
-https://ethmap.zone/flags/ROU.svg
+https://ethmap.world/flags/ROU.svg
 
 ## Traits
 - **Currency**: Romanian Leu
@@ -1997,7 +1998,7 @@ https://ethmap.zone/flags/ROU.svg
 
 # Ghana
 
-https://ethmap.zone/flags/GHA.svg
+https://ethmap.world/flags/GHA.svg
 
 ## Traits
 - **Currency**: Ghana Cedi
@@ -2020,7 +2021,7 @@ https://ethmap.zone/flags/GHA.svg
 
 # Uganda
 
-https://ethmap.zone/flags/UGA.svg
+https://ethmap.world/flags/UGA.svg
 
 ## Traits
 - **Currency**: Uganda Shilling
@@ -2044,7 +2045,7 @@ https://ethmap.zone/flags/UGA.svg
 
 # UK
 
-https://ethmap.zone/flags/GBR.svg
+https://ethmap.world/flags/GBR.svg
 
 ## Traits
 - **Currency**: Pound Sterling
@@ -2069,7 +2070,7 @@ https://ethmap.zone/flags/GBR.svg
 
 # Guinea
 
-https://ethmap.zone/flags/GIN.svg
+https://ethmap.world/flags/GIN.svg
 
 ## Traits
 - **Currency**: Guinean Franc
@@ -2091,7 +2092,7 @@ https://ethmap.zone/flags/GIN.svg
 
 # Western Sahara
 
-https://ethmap.zone/flags/ESH.svg
+https://ethmap.world/flags/ESH.svg
 
 ## Traits
 - **Currency**: Moroccan Dirham
@@ -2111,7 +2112,7 @@ https://ethmap.zone/flags/ESH.svg
 
 # Gabon
 
-https://ethmap.zone/flags/GAB.svg
+https://ethmap.world/flags/GAB.svg
 
 ## Traits
 - **Currency**: CFA Franc BEAC
@@ -2133,7 +2134,7 @@ https://ethmap.zone/flags/GAB.svg
 
 # New Zealand
 
-https://ethmap.zone/flags/NZL.svg
+https://ethmap.world/flags/NZL.svg
 
 ## Traits
 - **Currency**: New Zealand Dollar
@@ -2153,7 +2154,7 @@ https://ethmap.zone/flags/NZL.svg
 
 # Burkina Faso
 
-https://ethmap.zone/flags/BFA.svg
+https://ethmap.world/flags/BFA.svg
 
 ## Traits
 - **Currency**: CFA Franc BCEAO
@@ -2174,7 +2175,7 @@ https://ethmap.zone/flags/BFA.svg
 
 # Ecuador
 
-https://ethmap.zone/flags/ECU.svg
+https://ethmap.world/flags/ECU.svg
 
 ## Traits
 - **Currency**: US Dollar
@@ -2194,7 +2195,7 @@ https://ethmap.zone/flags/ECU.svg
 
 # Italy
 
-https://ethmap.zone/flags/ITA.svg
+https://ethmap.world/flags/ITA.svg
 
 ## Traits
 - **Currency**: Euro
@@ -2220,7 +2221,7 @@ https://ethmap.zone/flags/ITA.svg
 
 # Oman
 
-https://ethmap.zone/flags/OMN.svg
+https://ethmap.world/flags/OMN.svg
 
 ## Traits
 - **Currency**: Rial Omani
@@ -2243,7 +2244,7 @@ https://ethmap.zone/flags/OMN.svg
 
 # Poland
 
-https://ethmap.zone/flags/POL.svg
+https://ethmap.world/flags/POL.svg
 
 ## Traits
 - **Currency**: Zloty
@@ -2264,7 +2265,7 @@ https://ethmap.zone/flags/POL.svg
 
 # Côte d’Ivoire
 
-https://ethmap.zone/flags/CIV.svg
+https://ethmap.world/flags/CIV.svg
 
 ## Traits
 - **Currency**: CFA Franc BCEAO
@@ -2286,7 +2287,7 @@ https://ethmap.zone/flags/CIV.svg
 
 # Norway
 
-https://ethmap.zone/flags/NOR.svg
+https://ethmap.world/flags/NOR.svg
 
 ## Traits
 - **Currency**: Norwegian Krone
@@ -2309,7 +2310,7 @@ https://ethmap.zone/flags/NOR.svg
 
 # Malaysia
 
-https://ethmap.zone/flags/MYS.svg
+https://ethmap.world/flags/MYS.svg
 
 ## Traits
 - **Currency**: Malaysian Ringgit
@@ -2336,7 +2337,7 @@ https://ethmap.zone/flags/MYS.svg
 
 # Vietnam
 
-https://ethmap.zone/flags/VNM.svg
+https://ethmap.world/flags/VNM.svg
 
 ## Traits
 - **Currency**: Dong
@@ -2359,7 +2360,7 @@ https://ethmap.zone/flags/VNM.svg
 
 # Finland
 
-https://ethmap.zone/flags/FIN.svg
+https://ethmap.world/flags/FIN.svg
 
 ## Traits
 - **Currency**: Euro
@@ -2380,7 +2381,7 @@ https://ethmap.zone/flags/FIN.svg
 
 # Congo - Brazzaville
 
-https://ethmap.zone/flags/COG.svg
+https://ethmap.world/flags/COG.svg
 
 ## Traits
 - **Currency**: CFA Franc BEAC
@@ -2402,7 +2403,7 @@ https://ethmap.zone/flags/COG.svg
 
 # Philippines
 
-https://ethmap.zone/flags/PHL.svg
+https://ethmap.world/flags/PHL.svg
 
 ## Traits
 - **Currency**: Philippine Peso
@@ -2421,7 +2422,7 @@ https://ethmap.zone/flags/PHL.svg
 
 # Germany
 
-https://ethmap.zone/flags/DEU.svg
+https://ethmap.world/flags/DEU.svg
 
 ## Traits
 - **Currency**: Euro
@@ -2445,7 +2446,7 @@ https://ethmap.zone/flags/DEU.svg
 
 # Japan
 
-https://ethmap.zone/flags/JPN.svg
+https://ethmap.world/flags/JPN.svg
 
 ## Traits
 - **Currency**: Yen
@@ -2466,7 +2467,7 @@ https://ethmap.zone/flags/JPN.svg
 
 # Palestine
 
-https://ethmap.zone/flags/PSE.svg
+https://ethmap.world/flags/PSE.svg
 
 ## Traits
 - **Capital**: East Jerusalem
@@ -2486,7 +2487,7 @@ https://ethmap.zone/flags/PSE.svg
 
 # Zimbabwe
 
-https://ethmap.zone/flags/ZWE.svg
+https://ethmap.world/flags/ZWE.svg
 
 ## Traits
 - **Currency**: Zimbabwe Dollar
@@ -2508,7 +2509,7 @@ https://ethmap.zone/flags/ZWE.svg
 
 # French Guiana
 
-https://ethmap.zone/flags/GUF.svg
+https://ethmap.world/flags/GUF.svg
 
 ## Traits
 - **Currency**: Euro
@@ -2527,7 +2528,7 @@ https://ethmap.zone/flags/GUF.svg
 
 # Paraguay
 
-https://ethmap.zone/flags/PRY.svg
+https://ethmap.world/flags/PRY.svg
 
 ## Traits
 - **Currency**: Guarani
@@ -2548,7 +2549,7 @@ https://ethmap.zone/flags/PRY.svg
 
 # Iraq
 
-https://ethmap.zone/flags/IRQ.svg
+https://ethmap.world/flags/IRQ.svg
 
 ## Traits
 - **Currency**: Iraqi Dinar
@@ -2571,7 +2572,7 @@ https://ethmap.zone/flags/IRQ.svg
 
 # Morocco
 
-https://ethmap.zone/flags/MAR.svg
+https://ethmap.world/flags/MAR.svg
 
 ## Traits
 - **Currency**: Moroccan Dirham
@@ -2594,7 +2595,7 @@ https://ethmap.zone/flags/MAR.svg
 
 # Uzbekistan
 
-https://ethmap.zone/flags/UZB.svg
+https://ethmap.world/flags/UZB.svg
 
 ## Traits
 - **Currency**: Uzbekistan Sum
@@ -2616,7 +2617,7 @@ https://ethmap.zone/flags/UZB.svg
 
 # Sweden
 
-https://ethmap.zone/flags/SWE.svg
+https://ethmap.world/flags/SWE.svg
 
 ## Traits
 - **Currency**: Swedish Krona
@@ -2637,7 +2638,7 @@ https://ethmap.zone/flags/SWE.svg
 
 # Papua New Guinea
 
-https://ethmap.zone/flags/PNG.svg
+https://ethmap.world/flags/PNG.svg
 
 ## Traits
 - **Currency**: Kina
@@ -2656,7 +2657,7 @@ https://ethmap.zone/flags/PNG.svg
 
 # Cameroon
 
-https://ethmap.zone/flags/CMR.svg
+https://ethmap.world/flags/CMR.svg
 
 ## Traits
 - **Currency**: CFA Franc BEAC
@@ -2679,7 +2680,7 @@ https://ethmap.zone/flags/CMR.svg
 
 # Turkmenistan
 
-https://ethmap.zone/flags/TKM.svg
+https://ethmap.world/flags/TKM.svg
 
 ## Traits
 - **Currency**: Turkmenistan New Manat
@@ -2701,7 +2702,7 @@ https://ethmap.zone/flags/TKM.svg
 
 # Spain
 
-https://ethmap.zone/flags/ESP.svg
+https://ethmap.world/flags/ESP.svg
 
 ## Traits
 - **Currency**: Euro
@@ -2725,7 +2726,7 @@ https://ethmap.zone/flags/ESP.svg
 
 # Thailand
 
-https://ethmap.zone/flags/THA.svg
+https://ethmap.world/flags/THA.svg
 
 ## Traits
 - **Currency**: Baht
@@ -2745,7 +2746,7 @@ https://ethmap.zone/flags/THA.svg
 
 # Yemen
 
-https://ethmap.zone/flags/YEM.svg
+https://ethmap.world/flags/YEM.svg
 
 ## Traits
 - **Currency**: Yemeni Rial
@@ -2766,7 +2767,7 @@ https://ethmap.zone/flags/YEM.svg
 
 # Kenya
 
-https://ethmap.zone/flags/KEN.svg
+https://ethmap.world/flags/KEN.svg
 
 ## Traits
 - **Currency**: Kenyan Shilling
@@ -2787,7 +2788,7 @@ https://ethmap.zone/flags/KEN.svg
 
 # Botswana
 
-https://ethmap.zone/flags/BWA.svg
+https://ethmap.world/flags/BWA.svg
 
 ## Traits
 - **Currency**: Pula
@@ -2807,7 +2808,7 @@ https://ethmap.zone/flags/BWA.svg
 
 # Madagascar
 
-https://ethmap.zone/flags/MDG.svg
+https://ethmap.world/flags/MDG.svg
 
 ## Traits
 - **Currency**: Malagasy Ariary
@@ -2828,7 +2829,7 @@ https://ethmap.zone/flags/MDG.svg
 
 # Ukraine
 
-https://ethmap.zone/flags/UKR.svg
+https://ethmap.world/flags/UKR.svg
 
 ## Traits
 - **Currency**: Hryvnia
@@ -2850,7 +2851,7 @@ https://ethmap.zone/flags/UKR.svg
 
 # South Sudan
 
-https://ethmap.zone/flags/SSD.svg
+https://ethmap.world/flags/SSD.svg
 
 ## Traits
 - **Currency**: South Sudanese Pound
@@ -2869,7 +2870,7 @@ https://ethmap.zone/flags/SSD.svg
 
 # Central African Republic
 
-https://ethmap.zone/flags/CAF.svg
+https://ethmap.world/flags/CAF.svg
 
 ## Traits
 - **Currency**: CFA Franc BEAC
@@ -2891,7 +2892,7 @@ https://ethmap.zone/flags/CAF.svg
 
 # Somalia
 
-https://ethmap.zone/flags/SOM.svg
+https://ethmap.world/flags/SOM.svg
 
 ## Traits
 - **Currency**: Somali Shilling
@@ -2915,7 +2916,7 @@ https://ethmap.zone/flags/SOM.svg
 
 # France
 
-https://ethmap.zone/flags/FRA.svg
+https://ethmap.world/flags/FRA.svg
 
 ## Traits
 - **Currency**: Euro
@@ -2942,7 +2943,7 @@ https://ethmap.zone/flags/FRA.svg
 
 # Afghanistan
 
-https://ethmap.zone/flags/AFG.svg
+https://ethmap.world/flags/AFG.svg
 
 ## Traits
 - **Currency**: Afghani
@@ -2964,7 +2965,7 @@ https://ethmap.zone/flags/AFG.svg
 
 # Myanmar
 
-https://ethmap.zone/flags/MMR.svg
+https://ethmap.world/flags/MMR.svg
 
 ## Traits
 - **Currency**: Kyat
@@ -2983,7 +2984,7 @@ https://ethmap.zone/flags/MMR.svg
 
 # Zambia
 
-https://ethmap.zone/flags/ZMB.svg
+https://ethmap.world/flags/ZMB.svg
 
 ## Traits
 - **Currency**: Zambian Kwacha
@@ -3003,7 +3004,7 @@ https://ethmap.zone/flags/ZMB.svg
 
 # Chile
 
-https://ethmap.zone/flags/CHL.svg
+https://ethmap.world/flags/CHL.svg
 
 ## Traits
 - **Currency**: Chilean Peso
@@ -3024,7 +3025,7 @@ https://ethmap.zone/flags/CHL.svg
 
 # Turkey
 
-https://ethmap.zone/flags/TUR.svg
+https://ethmap.world/flags/TUR.svg
 
 ## Traits
 - **Currency**: Turkish Lira
@@ -3048,7 +3049,7 @@ https://ethmap.zone/flags/TUR.svg
 
 # Mozambique
 
-https://ethmap.zone/flags/MOZ.svg
+https://ethmap.world/flags/MOZ.svg
 
 ## Traits
 - **Currency**: Mozambique Metical
@@ -3069,7 +3070,7 @@ https://ethmap.zone/flags/MOZ.svg
 
 # Namibia
 
-https://ethmap.zone/flags/NAM.svg
+https://ethmap.world/flags/NAM.svg
 
 ## Traits
 - **Currency**: Namibia Dollar,Rand
@@ -3092,7 +3093,7 @@ https://ethmap.zone/flags/NAM.svg
 
 # Pakistan
 
-https://ethmap.zone/flags/PAK.svg
+https://ethmap.world/flags/PAK.svg
 
 ## Traits
 - **Currency**: Pakistan Rupee
@@ -3117,7 +3118,7 @@ https://ethmap.zone/flags/PAK.svg
 
 # Venezuela
 
-https://ethmap.zone/flags/VEN.svg
+https://ethmap.world/flags/VEN.svg
 
 ## Traits
 - **Currency**: Bolívar
@@ -3138,7 +3139,7 @@ https://ethmap.zone/flags/VEN.svg
 
 # Nigeria
 
-https://ethmap.zone/flags/NGA.svg
+https://ethmap.world/flags/NGA.svg
 
 ## Traits
 - **Currency**: Naira
@@ -3164,7 +3165,7 @@ https://ethmap.zone/flags/NGA.svg
 
 # Tanzania
 
-https://ethmap.zone/flags/TZA.svg
+https://ethmap.world/flags/TZA.svg
 
 ## Traits
 - **Currency**: Tanzanian Shilling
@@ -3186,7 +3187,7 @@ https://ethmap.zone/flags/TZA.svg
 
 # Egypt
 
-https://ethmap.zone/flags/EGY.svg
+https://ethmap.world/flags/EGY.svg
 
 ## Traits
 - **Currency**: Egyptian Pound
@@ -3210,7 +3211,7 @@ https://ethmap.zone/flags/EGY.svg
 
 # Martinique
 
-https://ethmap.zone/flags/MTQ.svg
+https://ethmap.world/flags/MTQ.svg
 
 ## Traits
 - **Currency**: Euro
@@ -3229,7 +3230,7 @@ https://ethmap.zone/flags/MTQ.svg
 
 # Bolivia
 
-https://ethmap.zone/flags/BOL.svg
+https://ethmap.world/flags/BOL.svg
 
 ## Traits
 - **Currency**: Boliviano
@@ -3250,7 +3251,7 @@ https://ethmap.zone/flags/BOL.svg
 
 # Ethiopia
 
-https://ethmap.zone/flags/ETH.svg
+https://ethmap.world/flags/ETH.svg
 
 ## Traits
 - **Currency**: Ethiopian Birr
@@ -3274,7 +3275,7 @@ https://ethmap.zone/flags/ETH.svg
 
 # Colombia
 
-https://ethmap.zone/flags/COL.svg
+https://ethmap.world/flags/COL.svg
 
 ## Traits
 - **Currency**: Colombian Peso
@@ -3295,7 +3296,7 @@ https://ethmap.zone/flags/COL.svg
 
 # South Africa
 
-https://ethmap.zone/flags/ZAF.svg
+https://ethmap.world/flags/ZAF.svg
 
 ## Traits
 - **Currency**: Rand
@@ -3320,7 +3321,7 @@ https://ethmap.zone/flags/ZAF.svg
 
 # Mali
 
-https://ethmap.zone/flags/MLI.svg
+https://ethmap.world/flags/MLI.svg
 
 ## Traits
 - **Currency**: CFA Franc BCEAO
@@ -3342,7 +3343,7 @@ https://ethmap.zone/flags/MLI.svg
 
 # Angola
 
-https://ethmap.zone/flags/AGO.svg
+https://ethmap.world/flags/AGO.svg
 
 ## Traits
 - **Currency**: Kwanza
@@ -3363,7 +3364,7 @@ https://ethmap.zone/flags/AGO.svg
 
 # Niger
 
-https://ethmap.zone/flags/NER.svg
+https://ethmap.world/flags/NER.svg
 
 ## Traits
 - **Currency**: CFA Franc BCEAO
@@ -3385,7 +3386,7 @@ https://ethmap.zone/flags/NER.svg
 
 # Chad
 
-https://ethmap.zone/flags/TCD.svg
+https://ethmap.world/flags/TCD.svg
 
 ## Traits
 - **Currency**: CFA Franc BEAC
@@ -3408,7 +3409,7 @@ https://ethmap.zone/flags/TCD.svg
 
 # Peru
 
-https://ethmap.zone/flags/PER.svg
+https://ethmap.world/flags/PER.svg
 
 ## Traits
 - **Currency**: Sol
@@ -3430,7 +3431,7 @@ https://ethmap.zone/flags/PER.svg
 
 # Mongolia
 
-https://ethmap.zone/flags/MNG.svg
+https://ethmap.world/flags/MNG.svg
 
 ## Traits
 - **Currency**: Tugrik
@@ -3450,7 +3451,7 @@ https://ethmap.zone/flags/MNG.svg
 
 # Iran
 
-https://ethmap.zone/flags/IRN.svg
+https://ethmap.world/flags/IRN.svg
 
 ## Traits
 - **Currency**: Iranian Rial
@@ -3471,7 +3472,7 @@ https://ethmap.zone/flags/IRN.svg
 
 # Libya
 
-https://ethmap.zone/flags/LBY.svg
+https://ethmap.world/flags/LBY.svg
 
 ## Traits
 - **Currency**: Libyan Dinar
@@ -3494,7 +3495,7 @@ https://ethmap.zone/flags/LBY.svg
 
 # Sudan
 
-https://ethmap.zone/flags/SDN.svg
+https://ethmap.world/flags/SDN.svg
 
 ## Traits
 - **Currency**: Sudanese Pound
@@ -3517,7 +3518,7 @@ https://ethmap.zone/flags/SDN.svg
 
 # Indonesia
 
-https://ethmap.zone/flags/IDN.svg
+https://ethmap.world/flags/IDN.svg
 
 ## Traits
 - **Currency**: Rupiah
@@ -3541,7 +3542,7 @@ https://ethmap.zone/flags/IDN.svg
 
 # Mexico
 
-https://ethmap.zone/flags/MEX.svg
+https://ethmap.world/flags/MEX.svg
 
 ## Traits
 - **Currency**: Mexican Peso
@@ -3562,7 +3563,7 @@ https://ethmap.zone/flags/MEX.svg
 
 # Saudi Arabia
 
-https://ethmap.zone/flags/SAU.svg
+https://ethmap.world/flags/SAU.svg
 
 ## Traits
 - **Currency**: Saudi Riyal
@@ -3584,7 +3585,7 @@ https://ethmap.zone/flags/SAU.svg
 
 # Greenland
 
-https://ethmap.zone/flags/GRL.svg
+https://ethmap.world/flags/GRL.svg
 
 ## Traits
 - **Currency**: Danish Krone
@@ -3605,7 +3606,7 @@ https://ethmap.zone/flags/GRL.svg
 
 # Congo - Kinshasa
 
-https://ethmap.zone/flags/COD.svg
+https://ethmap.world/flags/COD.svg
 
 ## Traits
 - **Currency**: Congolese Franc
@@ -3626,7 +3627,7 @@ https://ethmap.zone/flags/COD.svg
 
 # Algeria
 
-https://ethmap.zone/flags/DZA.svg
+https://ethmap.world/flags/DZA.svg
 
 ## Traits
 - **Currency**: Algerian Dinar
@@ -3648,7 +3649,7 @@ https://ethmap.zone/flags/DZA.svg
 
 # Kazakhstan
 
-https://ethmap.zone/flags/KAZ.svg
+https://ethmap.world/flags/KAZ.svg
 
 ## Traits
 - **Currency**: Tenge
@@ -3669,7 +3670,7 @@ https://ethmap.zone/flags/KAZ.svg
 
 # Argentina
 
-https://ethmap.zone/flags/ARG.svg
+https://ethmap.world/flags/ARG.svg
 
 ## Traits
 - **Currency**: Argentine Peso
@@ -3696,7 +3697,7 @@ https://ethmap.zone/flags/ARG.svg
 
 # India
 
-https://ethmap.zone/flags/IND.svg
+https://ethmap.world/flags/IND.svg
 
 ## Traits
 - **Currency**: Indian Rupee
@@ -3733,7 +3734,7 @@ https://ethmap.zone/flags/IND.svg
 
 # Australia
 
-https://ethmap.zone/flags/AUS.svg
+https://ethmap.world/flags/AUS.svg
 
 ## Traits
 - **Currency**: Australian Dollar
@@ -3752,7 +3753,7 @@ https://ethmap.zone/flags/AUS.svg
 
 # Brazil
 
-https://ethmap.zone/flags/BRA.svg
+https://ethmap.world/flags/BRA.svg
 
 ## Traits
 - **Currency**: Brazilian Real
@@ -3777,7 +3778,7 @@ https://ethmap.zone/flags/BRA.svg
 
 # United States
 
-https://ethmap.zone/flags/USA.svg
+https://ethmap.world/flags/USA.svg
 
 ## Traits
 - **Currency**: US Dollar
@@ -3804,7 +3805,7 @@ https://ethmap.zone/flags/USA.svg
 
 # China
 
-https://ethmap.zone/flags/CHN.svg
+https://ethmap.world/flags/CHN.svg
 
 ## Traits
 - **Currency**: Yuan Renminbi
@@ -3825,7 +3826,7 @@ https://ethmap.zone/flags/CHN.svg
 
 # Canada
 
-https://ethmap.zone/flags/CAN.svg
+https://ethmap.world/flags/CAN.svg
 
 ## Traits
 - **Currency**: Canadian Dollar
@@ -3849,7 +3850,7 @@ https://ethmap.zone/flags/CAN.svg
 
 # Antarctica
 
-https://ethmap.zone/flags/ATA.svg
+https://ethmap.world/flags/ATA.svg
 
 ## Traits
 - **Continent**: Antarctica
@@ -3863,7 +3864,7 @@ https://ethmap.zone/flags/ATA.svg
 
 # Russia
 
-https://ethmap.zone/flags/RUS.svg
+https://ethmap.world/flags/RUS.svg
 
 ## Traits
 - **Currency**: Russian Ruble
