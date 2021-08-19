@@ -1,0 +1,2442 @@
+{
+  "af": {
+    "English": "Afrikaans",
+    "alpha2": "af"
+  },
+  "af-NA": {
+    "English": "Afrikaans",
+    "alpha2": "af"
+  },
+  "af-ZA": {
+    "English": "Afrikaans",
+    "alpha2": "af"
+  },
+  "ak": {
+    "English": "Akan",
+    "alpha2": "ak"
+  },
+  "ak-GH": {
+    "English": "Akan",
+    "alpha2": "ak"
+  },
+  "am": {
+    "English": "Amharic",
+    "alpha2": "am"
+  },
+  "am-ET": {
+    "English": "Amharic",
+    "alpha2": "am"
+  },
+  "ar": {
+    "English": "Arabic",
+    "alpha2": "ar"
+  },
+  "ar-001": {
+    "English": "Arabic",
+    "alpha2": "ar"
+  },
+  "ar-AE": {
+    "English": "Arabic",
+    "alpha2": "ar"
+  },
+  "ar-BH": {
+    "English": "Arabic",
+    "alpha2": "ar"
+  },
+  "ar-DJ": {
+    "English": "Arabic",
+    "alpha2": "ar"
+  },
+  "ar-DZ": {
+    "English": "Arabic",
+    "alpha2": "ar"
+  },
+  "ar-EG": {
+    "English": "Arabic",
+    "alpha2": "ar"
+  },
+  "ar-EH": {
+    "English": "Arabic",
+    "alpha2": "ar"
+  },
+  "ar-ER": {
+    "English": "Arabic",
+    "alpha2": "ar"
+  },
+  "ar-IL": {
+    "English": "Arabic",
+    "alpha2": "ar"
+  },
+  "ar-IQ": {
+    "English": "Arabic",
+    "alpha2": "ar"
+  },
+  "ar-JO": {
+    "English": "Arabic",
+    "alpha2": "ar"
+  },
+  "ar-KM": {
+    "English": "Arabic",
+    "alpha2": "ar"
+  },
+  "ar-KW": {
+    "English": "Arabic",
+    "alpha2": "ar"
+  },
+  "ar-LB": {
+    "English": "Arabic",
+    "alpha2": "ar"
+  },
+  "ar-LY": {
+    "English": "Arabic",
+    "alpha2": "ar"
+  },
+  "ar-MA": {
+    "English": "Arabic",
+    "alpha2": "ar"
+  },
+  "ar-MR": {
+    "English": "Arabic",
+    "alpha2": "ar"
+  },
+  "ar-OM": {
+    "English": "Arabic",
+    "alpha2": "ar"
+  },
+  "ar-PS": {
+    "English": "Arabic",
+    "alpha2": "ar"
+  },
+  "ar-QA": {
+    "English": "Arabic",
+    "alpha2": "ar"
+  },
+  "ar-SA": {
+    "English": "Arabic",
+    "alpha2": "ar"
+  },
+  "ar-SD": {
+    "English": "Arabic",
+    "alpha2": "ar"
+  },
+  "ar-SO": {
+    "English": "Arabic",
+    "alpha2": "ar"
+  },
+  "ar-SS": {
+    "English": "Arabic",
+    "alpha2": "ar"
+  },
+  "ar-SY": {
+    "English": "Arabic",
+    "alpha2": "ar"
+  },
+  "ar-TD": {
+    "English": "Arabic",
+    "alpha2": "ar"
+  },
+  "ar-TN": {
+    "English": "Arabic",
+    "alpha2": "ar"
+  },
+  "ar-YE": {
+    "English": "Arabic",
+    "alpha2": "ar"
+  },
+  "as": {
+    "English": "Assamese",
+    "alpha2": "as"
+  },
+  "as-IN": {
+    "English": "Assamese",
+    "alpha2": "as"
+  },
+  "az": {
+    "English": "Azerbaijani",
+    "alpha2": "az"
+  },
+  "az-Cyrl": {
+    "English": "Azerbaijani",
+    "alpha2": "az"
+  },
+  "az-Cyrl-AZ": {
+    "English": "Azerbaijani",
+    "alpha2": "az"
+  },
+  "az-Latn": {
+    "English": "Azerbaijani",
+    "alpha2": "az"
+  },
+  "az-Latn-AZ": {
+    "English": "Azerbaijani",
+    "alpha2": "az"
+  },
+  "be": {
+    "English": "Belarusian",
+    "alpha2": "be"
+  },
+  "be-BY": {
+    "English": "Belarusian",
+    "alpha2": "be"
+  },
+  "bg": {
+    "English": "Bulgarian",
+    "alpha2": "bg"
+  },
+  "bg-BG": {
+    "English": "Bulgarian",
+    "alpha2": "bg"
+  },
+  "bm": {
+    "English": "Bambara",
+    "alpha2": "bm"
+  },
+  "bm-ML": {
+    "English": "Bambara",
+    "alpha2": "bm"
+  },
+  "bn": {
+    "English": "Bengali",
+    "alpha2": "bn"
+  },
+  "bn-BD": {
+    "English": "Bengali",
+    "alpha2": "bn"
+  },
+  "bn-IN": {
+    "English": "Bengali",
+    "alpha2": "bn"
+  },
+  "bo": {
+    "English": "Tibetan",
+    "alpha2": "bo"
+  },
+  "bo-CN": {
+    "English": "Tibetan",
+    "alpha2": "bo"
+  },
+  "bo-IN": {
+    "English": "Tibetan",
+    "alpha2": "bo"
+  },
+  "br": {
+    "English": "Breton",
+    "alpha2": "br"
+  },
+  "br-FR": {
+    "English": "Breton",
+    "alpha2": "br"
+  },
+  "bs": {
+    "English": "Bosnian",
+    "alpha2": "bs"
+  },
+  "bs-Cyrl": {
+    "English": "Bosnian",
+    "alpha2": "bs"
+  },
+  "bs-Cyrl-BA": {
+    "English": "Bosnian",
+    "alpha2": "bs"
+  },
+  "bs-Latn": {
+    "English": "Bosnian",
+    "alpha2": "bs"
+  },
+  "bs-Latn-BA": {
+    "English": "Bosnian",
+    "alpha2": "bs"
+  },
+  "ca": {
+    "English": "Catalan; Valencian",
+    "alpha2": "ca"
+  },
+  "ca-AD": {
+    "English": "Catalan; Valencian",
+    "alpha2": "ca"
+  },
+  "ca-ES": {
+    "English": "Catalan; Valencian",
+    "alpha2": "ca"
+  },
+  "ca-ES-VALENCIA": {
+    "English": "Catalan; Valencian",
+    "alpha2": "ca"
+  },
+  "ca-FR": {
+    "English": "Catalan; Valencian",
+    "alpha2": "ca"
+  },
+  "ca-IT": {
+    "English": "Catalan; Valencian",
+    "alpha2": "ca"
+  },
+  "ce": {
+    "English": "Chechen",
+    "alpha2": "ce"
+  },
+  "ce-RU": {
+    "English": "Chechen",
+    "alpha2": "ce"
+  },
+  "cs": {
+    "English": "Czech",
+    "alpha2": "cs"
+  },
+  "cs-CZ": {
+    "English": "Czech",
+    "alpha2": "cs"
+  },
+  "cu": {
+    "English": "Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic",
+    "alpha2": "cu"
+  },
+  "cu-RU": {
+    "English": "Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic",
+    "alpha2": "cu"
+  },
+  "cy": {
+    "English": "Welsh",
+    "alpha2": "cy"
+  },
+  "cy-GB": {
+    "English": "Welsh",
+    "alpha2": "cy"
+  },
+  "da": {
+    "English": "Danish",
+    "alpha2": "da"
+  },
+  "da-DK": {
+    "English": "Danish",
+    "alpha2": "da"
+  },
+  "da-GL": {
+    "English": "Danish",
+    "alpha2": "da"
+  },
+  "de": {
+    "English": "German",
+    "alpha2": "de"
+  },
+  "de-AT": {
+    "English": "German",
+    "alpha2": "de"
+  },
+  "de-BE": {
+    "English": "German",
+    "alpha2": "de"
+  },
+  "de-CH": {
+    "English": "German",
+    "alpha2": "de"
+  },
+  "de-DE": {
+    "English": "German",
+    "alpha2": "de"
+  },
+  "de-IT": {
+    "English": "German",
+    "alpha2": "de"
+  },
+  "de-LI": {
+    "English": "German",
+    "alpha2": "de"
+  },
+  "de-LU": {
+    "English": "German",
+    "alpha2": "de"
+  },
+  "dz": {
+    "English": "Dzongkha",
+    "alpha2": "dz"
+  },
+  "dz-BT": {
+    "English": "Dzongkha",
+    "alpha2": "dz"
+  },
+  "ee": {
+    "English": "Ewe",
+    "alpha2": "ee"
+  },
+  "ee-GH": {
+    "English": "Ewe",
+    "alpha2": "ee"
+  },
+  "ee-TG": {
+    "English": "Ewe",
+    "alpha2": "ee"
+  },
+  "el": {
+    "English": "Greek, Modern (1453-)",
+    "alpha2": "el"
+  },
+  "el-CY": {
+    "English": "Greek, Modern (1453-)",
+    "alpha2": "el"
+  },
+  "el-GR": {
+    "English": "Greek, Modern (1453-)",
+    "alpha2": "el"
+  },
+  "en": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-001": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-150": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-AE": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-AG": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-AI": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-AS": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-AT": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-AU": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-BB": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-BE": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-BI": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-BM": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-BS": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-BW": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-BZ": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-CA": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-CC": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-CH": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-CK": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-CM": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-CX": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-CY": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-DE": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-DG": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-DK": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-DM": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-ER": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-FI": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-FJ": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-FK": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-FM": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-GB": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-GD": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-GG": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-GH": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-GI": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-GM": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-GU": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-GY": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-HK": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-IE": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-IL": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-IM": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-IN": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-IO": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-JE": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-JM": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-KE": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-KI": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-KN": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-KY": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-LC": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-LR": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-LS": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-MG": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-MH": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-MO": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-MP": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-MS": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-MT": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-MU": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-MW": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-MY": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-NA": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-NF": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-NG": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-NL": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-NR": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-NU": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-NZ": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-PG": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-PH": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-PK": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-PN": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-PR": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-PW": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-RW": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-SB": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-SC": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-SD": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-SE": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-SG": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-SH": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-SI": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-SL": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-SS": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-SX": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-SZ": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-TC": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-TK": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-TO": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-TT": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-TV": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-TZ": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-UG": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-UM": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-US": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-US-POSIX": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-VC": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-VG": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-VI": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-VU": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-WS": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-ZA": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-ZM": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "en-ZW": {
+    "English": "English",
+    "alpha2": "en"
+  },
+  "eo": {
+    "English": "Esperanto",
+    "alpha2": "eo"
+  },
+  "eo-001": {
+    "English": "Esperanto",
+    "alpha2": "eo"
+  },
+  "es": {
+    "English": "Spanish; Castilian",
+    "alpha2": "es"
+  },
+  "es-419": {
+    "English": "Spanish; Castilian",
+    "alpha2": "es"
+  },
+  "es-AR": {
+    "English": "Spanish; Castilian",
+    "alpha2": "es"
+  },
+  "es-BO": {
+    "English": "Spanish; Castilian",
+    "alpha2": "es"
+  },
+  "es-BR": {
+    "English": "Spanish; Castilian",
+    "alpha2": "es"
+  },
+  "es-BZ": {
+    "English": "Spanish; Castilian",
+    "alpha2": "es"
+  },
+  "es-CL": {
+    "English": "Spanish; Castilian",
+    "alpha2": "es"
+  },
+  "es-CO": {
+    "English": "Spanish; Castilian",
+    "alpha2": "es"
+  },
+  "es-CR": {
+    "English": "Spanish; Castilian",
+    "alpha2": "es"
+  },
+  "es-CU": {
+    "English": "Spanish; Castilian",
+    "alpha2": "es"
+  },
+  "es-DO": {
+    "English": "Spanish; Castilian",
+    "alpha2": "es"
+  },
+  "es-EA": {
+    "English": "Spanish; Castilian",
+    "alpha2": "es"
+  },
+  "es-EC": {
+    "English": "Spanish; Castilian",
+    "alpha2": "es"
+  },
+  "es-ES": {
+    "English": "Spanish; Castilian",
+    "alpha2": "es"
+  },
+  "es-GQ": {
+    "English": "Spanish; Castilian",
+    "alpha2": "es"
+  },
+  "es-GT": {
+    "English": "Spanish; Castilian",
+    "alpha2": "es"
+  },
+  "es-HN": {
+    "English": "Spanish; Castilian",
+    "alpha2": "es"
+  },
+  "es-IC": {
+    "English": "Spanish; Castilian",
+    "alpha2": "es"
+  },
+  "es-MX": {
+    "English": "Spanish; Castilian",
+    "alpha2": "es"
+  },
+  "es-NI": {
+    "English": "Spanish; Castilian",
+    "alpha2": "es"
+  },
+  "es-PA": {
+    "English": "Spanish; Castilian",
+    "alpha2": "es"
+  },
+  "es-PE": {
+    "English": "Spanish; Castilian",
+    "alpha2": "es"
+  },
+  "es-PH": {
+    "English": "Spanish; Castilian",
+    "alpha2": "es"
+  },
+  "es-PR": {
+    "English": "Spanish; Castilian",
+    "alpha2": "es"
+  },
+  "es-PY": {
+    "English": "Spanish; Castilian",
+    "alpha2": "es"
+  },
+  "es-SV": {
+    "English": "Spanish; Castilian",
+    "alpha2": "es"
+  },
+  "es-US": {
+    "English": "Spanish; Castilian",
+    "alpha2": "es"
+  },
+  "es-UY": {
+    "English": "Spanish; Castilian",
+    "alpha2": "es"
+  },
+  "es-VE": {
+    "English": "Spanish; Castilian",
+    "alpha2": "es"
+  },
+  "et": {
+    "English": "Estonian",
+    "alpha2": "et"
+  },
+  "et-EE": {
+    "English": "Estonian",
+    "alpha2": "et"
+  },
+  "eu": {
+    "English": "Basque",
+    "alpha2": "eu"
+  },
+  "eu-ES": {
+    "English": "Basque",
+    "alpha2": "eu"
+  },
+  "fa": {
+    "English": "Persian",
+    "alpha2": "fa"
+  },
+  "fa-AF": {
+    "English": "Persian",
+    "alpha2": "fa"
+  },
+  "fa-IR": {
+    "English": "Persian",
+    "alpha2": "fa"
+  },
+  "ff": {
+    "English": "Fulah",
+    "alpha2": "ff"
+  },
+  "ff-Adlm": {
+    "English": "Fulah",
+    "alpha2": "ff"
+  },
+  "ff-Adlm-BF": {
+    "English": "Fulah",
+    "alpha2": "ff"
+  },
+  "ff-Adlm-CM": {
+    "English": "Fulah",
+    "alpha2": "ff"
+  },
+  "ff-Adlm-GH": {
+    "English": "Fulah",
+    "alpha2": "ff"
+  },
+  "ff-Adlm-GM": {
+    "English": "Fulah",
+    "alpha2": "ff"
+  },
+  "ff-Adlm-GN": {
+    "English": "Fulah",
+    "alpha2": "ff"
+  },
+  "ff-Adlm-GW": {
+    "English": "Fulah",
+    "alpha2": "ff"
+  },
+  "ff-Adlm-LR": {
+    "English": "Fulah",
+    "alpha2": "ff"
+  },
+  "ff-Adlm-MR": {
+    "English": "Fulah",
+    "alpha2": "ff"
+  },
+  "ff-Adlm-NE": {
+    "English": "Fulah",
+    "alpha2": "ff"
+  },
+  "ff-Adlm-NG": {
+    "English": "Fulah",
+    "alpha2": "ff"
+  },
+  "ff-Adlm-SL": {
+    "English": "Fulah",
+    "alpha2": "ff"
+  },
+  "ff-Adlm-SN": {
+    "English": "Fulah",
+    "alpha2": "ff"
+  },
+  "ff-Latn": {
+    "English": "Fulah",
+    "alpha2": "ff"
+  },
+  "ff-Latn-BF": {
+    "English": "Fulah",
+    "alpha2": "ff"
+  },
+  "ff-Latn-CM": {
+    "English": "Fulah",
+    "alpha2": "ff"
+  },
+  "ff-Latn-GH": {
+    "English": "Fulah",
+    "alpha2": "ff"
+  },
+  "ff-Latn-GM": {
+    "English": "Fulah",
+    "alpha2": "ff"
+  },
+  "ff-Latn-GN": {
+    "English": "Fulah",
+    "alpha2": "ff"
+  },
+  "ff-Latn-GW": {
+    "English": "Fulah",
+    "alpha2": "ff"
+  },
+  "ff-Latn-LR": {
+    "English": "Fulah",
+    "alpha2": "ff"
+  },
+  "ff-Latn-MR": {
+    "English": "Fulah",
+    "alpha2": "ff"
+  },
+  "ff-Latn-NE": {
+    "English": "Fulah",
+    "alpha2": "ff"
+  },
+  "ff-Latn-NG": {
+    "English": "Fulah",
+    "alpha2": "ff"
+  },
+  "ff-Latn-SL": {
+    "English": "Fulah",
+    "alpha2": "ff"
+  },
+  "ff-Latn-SN": {
+    "English": "Fulah",
+    "alpha2": "ff"
+  },
+  "fi": {
+    "English": "Finnish",
+    "alpha2": "fi"
+  },
+  "fi-FI": {
+    "English": "Finnish",
+    "alpha2": "fi"
+  },
+  "fo": {
+    "English": "Faroese",
+    "alpha2": "fo"
+  },
+  "fo-DK": {
+    "English": "Faroese",
+    "alpha2": "fo"
+  },
+  "fo-FO": {
+    "English": "Faroese",
+    "alpha2": "fo"
+  },
+  "fr": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-BE": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-BF": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-BI": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-BJ": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-BL": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-CA": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-CD": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-CF": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-CG": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-CH": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-CI": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-CM": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-DJ": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-DZ": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-FR": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-GA": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-GF": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-GN": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-GP": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-GQ": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-HT": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-KM": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-LU": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-MA": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-MC": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-MF": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-MG": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-ML": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-MQ": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-MR": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-MU": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-NC": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-NE": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-PF": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-PM": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-RE": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-RW": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-SC": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-SN": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-SY": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-TD": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-TG": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-TN": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-VU": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-WF": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fr-YT": {
+    "English": "French",
+    "alpha2": "fr"
+  },
+  "fy": {
+    "English": "Western Frisian",
+    "alpha2": "fy"
+  },
+  "fy-NL": {
+    "English": "Western Frisian",
+    "alpha2": "fy"
+  },
+  "ga": {
+    "English": "Irish",
+    "alpha2": "ga"
+  },
+  "ga-GB": {
+    "English": "Irish",
+    "alpha2": "ga"
+  },
+  "ga-IE": {
+    "English": "Irish",
+    "alpha2": "ga"
+  },
+  "gd": {
+    "English": "Gaelic",
+    "alpha2": "gd"
+  },
+  "gd-GB": {
+    "English": "Gaelic",
+    "alpha2": "gd"
+  },
+  "gl": {
+    "English": "Galician",
+    "alpha2": "gl"
+  },
+  "gl-ES": {
+    "English": "Galician",
+    "alpha2": "gl"
+  },
+  "gu": {
+    "English": "Gujarati",
+    "alpha2": "gu"
+  },
+  "gu-IN": {
+    "English": "Gujarati",
+    "alpha2": "gu"
+  },
+  "gv": {
+    "English": "Manx",
+    "alpha2": "gv"
+  },
+  "gv-IM": {
+    "English": "Manx",
+    "alpha2": "gv"
+  },
+  "ha": {
+    "English": "Hausa",
+    "alpha2": "ha"
+  },
+  "ha-GH": {
+    "English": "Hausa",
+    "alpha2": "ha"
+  },
+  "ha-NE": {
+    "English": "Hausa",
+    "alpha2": "ha"
+  },
+  "ha-NG": {
+    "English": "Hausa",
+    "alpha2": "ha"
+  },
+  "he": {
+    "English": "Hebrew",
+    "alpha2": "he"
+  },
+  "he-IL": {
+    "English": "Hebrew",
+    "alpha2": "he"
+  },
+  "hi": {
+    "English": "Hindi",
+    "alpha2": "hi"
+  },
+  "hi-IN": {
+    "English": "Hindi",
+    "alpha2": "hi"
+  },
+  "hr": {
+    "English": "Croatian",
+    "alpha2": "hr"
+  },
+  "hr-BA": {
+    "English": "Croatian",
+    "alpha2": "hr"
+  },
+  "hr-HR": {
+    "English": "Croatian",
+    "alpha2": "hr"
+  },
+  "hu": {
+    "English": "Hungarian",
+    "alpha2": "hu"
+  },
+  "hu-HU": {
+    "English": "Hungarian",
+    "alpha2": "hu"
+  },
+  "hy": {
+    "English": "Armenian",
+    "alpha2": "hy"
+  },
+  "hy-AM": {
+    "English": "Armenian",
+    "alpha2": "hy"
+  },
+  "ia": {
+    "English": "Interlingua (International Auxiliary Language Association)",
+    "alpha2": "ia"
+  },
+  "ia-001": {
+    "English": "Interlingua (International Auxiliary Language Association)",
+    "alpha2": "ia"
+  },
+  "id": {
+    "English": "Indonesian",
+    "alpha2": "id"
+  },
+  "id-ID": {
+    "English": "Indonesian",
+    "alpha2": "id"
+  },
+  "ig": {
+    "English": "Igbo",
+    "alpha2": "ig"
+  },
+  "ig-NG": {
+    "English": "Igbo",
+    "alpha2": "ig"
+  },
+  "ii": {
+    "English": "Sichuan Yi; Nuosu",
+    "alpha2": "ii"
+  },
+  "ii-CN": {
+    "English": "Sichuan Yi; Nuosu",
+    "alpha2": "ii"
+  },
+  "is": {
+    "English": "Icelandic",
+    "alpha2": "is"
+  },
+  "is-IS": {
+    "English": "Icelandic",
+    "alpha2": "is"
+  },
+  "it": {
+    "English": "Italian",
+    "alpha2": "it"
+  },
+  "it-CH": {
+    "English": "Italian",
+    "alpha2": "it"
+  },
+  "it-IT": {
+    "English": "Italian",
+    "alpha2": "it"
+  },
+  "it-SM": {
+    "English": "Italian",
+    "alpha2": "it"
+  },
+  "it-VA": {
+    "English": "Italian",
+    "alpha2": "it"
+  },
+  "ja": {
+    "English": "Japanese",
+    "alpha2": "ja"
+  },
+  "ja-JP": {
+    "English": "Japanese",
+    "alpha2": "ja"
+  },
+  "jv": {
+    "English": "Javanese",
+    "alpha2": "jv"
+  },
+  "jv-ID": {
+    "English": "Javanese",
+    "alpha2": "jv"
+  },
+  "ka": {
+    "English": "Georgian",
+    "alpha2": "ka"
+  },
+  "ka-GE": {
+    "English": "Georgian",
+    "alpha2": "ka"
+  },
+  "ki": {
+    "English": "Kikuyu; Gikuyu",
+    "alpha2": "ki"
+  },
+  "ki-KE": {
+    "English": "Kikuyu; Gikuyu",
+    "alpha2": "ki"
+  },
+  "kk": {
+    "English": "Kazakh",
+    "alpha2": "kk"
+  },
+  "kk-KZ": {
+    "English": "Kazakh",
+    "alpha2": "kk"
+  },
+  "kl": {
+    "English": "Kalaallisut; Greenlandic",
+    "alpha2": "kl"
+  },
+  "kl-GL": {
+    "English": "Kalaallisut; Greenlandic",
+    "alpha2": "kl"
+  },
+  "km": {
+    "English": "Central Khmer",
+    "alpha2": "km"
+  },
+  "km-KH": {
+    "English": "Central Khmer",
+    "alpha2": "km"
+  },
+  "kn": {
+    "English": "Kannada",
+    "alpha2": "kn"
+  },
+  "kn-IN": {
+    "English": "Kannada",
+    "alpha2": "kn"
+  },
+  "ko": {
+    "English": "Korean",
+    "alpha2": "ko"
+  },
+  "ko-KP": {
+    "English": "Korean",
+    "alpha2": "ko"
+  },
+  "ko-KR": {
+    "English": "Korean",
+    "alpha2": "ko"
+  },
+  "ks": {
+    "English": "Kashmiri",
+    "alpha2": "ks"
+  },
+  "ks-Arab": {
+    "English": "Kashmiri",
+    "alpha2": "ks"
+  },
+  "ks-Arab-IN": {
+    "English": "Kashmiri",
+    "alpha2": "ks"
+  },
+  "ku": {
+    "English": "Kurdish",
+    "alpha2": "ku"
+  },
+  "ku-TR": {
+    "English": "Kurdish",
+    "alpha2": "ku"
+  },
+  "kw": {
+    "English": "Cornish",
+    "alpha2": "kw"
+  },
+  "kw-GB": {
+    "English": "Cornish",
+    "alpha2": "kw"
+  },
+  "ky": {
+    "English": "Kirghiz; Kyrgyz",
+    "alpha2": "ky"
+  },
+  "ky-KG": {
+    "English": "Kirghiz; Kyrgyz",
+    "alpha2": "ky"
+  },
+  "lb": {
+    "English": "Luxembourgish; Letzeburgesch",
+    "alpha2": "lb"
+  },
+  "lb-LU": {
+    "English": "Luxembourgish; Letzeburgesch",
+    "alpha2": "lb"
+  },
+  "lg": {
+    "English": "Ganda",
+    "alpha2": "lg"
+  },
+  "lg-UG": {
+    "English": "Ganda",
+    "alpha2": "lg"
+  },
+  "ln": {
+    "English": "Lingala",
+    "alpha2": "ln"
+  },
+  "ln-AO": {
+    "English": "Lingala",
+    "alpha2": "ln"
+  },
+  "ln-CD": {
+    "English": "Lingala",
+    "alpha2": "ln"
+  },
+  "ln-CF": {
+    "English": "Lingala",
+    "alpha2": "ln"
+  },
+  "ln-CG": {
+    "English": "Lingala",
+    "alpha2": "ln"
+  },
+  "lo": {
+    "English": "Lao",
+    "alpha2": "lo"
+  },
+  "lo-LA": {
+    "English": "Lao",
+    "alpha2": "lo"
+  },
+  "lt": {
+    "English": "Lithuanian",
+    "alpha2": "lt"
+  },
+  "lt-LT": {
+    "English": "Lithuanian",
+    "alpha2": "lt"
+  },
+  "lu": {
+    "English": "Luba-Katanga",
+    "alpha2": "lu"
+  },
+  "lu-CD": {
+    "English": "Luba-Katanga",
+    "alpha2": "lu"
+  },
+  "lv": {
+    "English": "Latvian",
+    "alpha2": "lv"
+  },
+  "lv-LV": {
+    "English": "Latvian",
+    "alpha2": "lv"
+  },
+  "mg": {
+    "English": "Malagasy",
+    "alpha2": "mg"
+  },
+  "mg-MG": {
+    "English": "Malagasy",
+    "alpha2": "mg"
+  },
+  "mi": {
+    "English": "Maori",
+    "alpha2": "mi"
+  },
+  "mi-NZ": {
+    "English": "Maori",
+    "alpha2": "mi"
+  },
+  "mk": {
+    "English": "Macedonian",
+    "alpha2": "mk"
+  },
+  "mk-MK": {
+    "English": "Macedonian",
+    "alpha2": "mk"
+  },
+  "ml": {
+    "English": "Malayalam",
+    "alpha2": "ml"
+  },
+  "ml-IN": {
+    "English": "Malayalam",
+    "alpha2": "ml"
+  },
+  "mn": {
+    "English": "Mongolian",
+    "alpha2": "mn"
+  },
+  "mn-MN": {
+    "English": "Mongolian",
+    "alpha2": "mn"
+  },
+  "mr": {
+    "English": "Marathi",
+    "alpha2": "mr"
+  },
+  "mr-IN": {
+    "English": "Marathi",
+    "alpha2": "mr"
+  },
+  "ms": {
+    "English": "Malay",
+    "alpha2": "ms"
+  },
+  "ms-BN": {
+    "English": "Malay",
+    "alpha2": "ms"
+  },
+  "ms-ID": {
+    "English": "Malay",
+    "alpha2": "ms"
+  },
+  "ms-MY": {
+    "English": "Malay",
+    "alpha2": "ms"
+  },
+  "ms-SG": {
+    "English": "Malay",
+    "alpha2": "ms"
+  },
+  "mt": {
+    "English": "Maltese",
+    "alpha2": "mt"
+  },
+  "mt-MT": {
+    "English": "Maltese",
+    "alpha2": "mt"
+  },
+  "my": {
+    "English": "Burmese",
+    "alpha2": "my"
+  },
+  "my-MM": {
+    "English": "Burmese",
+    "alpha2": "my"
+  },
+  "nb": {
+    "English": "Bokmål, Norwegian; Norwegian Bokmål",
+    "alpha2": "nb"
+  },
+  "nb-NO": {
+    "English": "Bokmål, Norwegian; Norwegian Bokmål",
+    "alpha2": "nb"
+  },
+  "nb-SJ": {
+    "English": "Bokmål, Norwegian; Norwegian Bokmål",
+    "alpha2": "nb"
+  },
+  "nd": {
+    "English": "Ndebele, North; North Ndebele",
+    "alpha2": "nd"
+  },
+  "nd-ZW": {
+    "English": "Ndebele, North; North Ndebele",
+    "alpha2": "nd"
+  },
+  "ne": {
+    "English": "Nepali",
+    "alpha2": "ne"
+  },
+  "ne-IN": {
+    "English": "Nepali",
+    "alpha2": "ne"
+  },
+  "ne-NP": {
+    "English": "Nepali",
+    "alpha2": "ne"
+  },
+  "nl": {
+    "English": "Dutch; Flemish",
+    "alpha2": "nl"
+  },
+  "nl-AW": {
+    "English": "Dutch; Flemish",
+    "alpha2": "nl"
+  },
+  "nl-BE": {
+    "English": "Dutch; Flemish",
+    "alpha2": "nl"
+  },
+  "nl-BQ": {
+    "English": "Dutch; Flemish",
+    "alpha2": "nl"
+  },
+  "nl-CW": {
+    "English": "Dutch; Flemish",
+    "alpha2": "nl"
+  },
+  "nl-NL": {
+    "English": "Dutch; Flemish",
+    "alpha2": "nl"
+  },
+  "nl-SR": {
+    "English": "Dutch; Flemish",
+    "alpha2": "nl"
+  },
+  "nl-SX": {
+    "English": "Dutch; Flemish",
+    "alpha2": "nl"
+  },
+  "nn": {
+    "English": "Norwegian Nynorsk; Nynorsk, Norwegian",
+    "alpha2": "nn"
+  },
+  "nn-NO": {
+    "English": "Norwegian Nynorsk; Nynorsk, Norwegian",
+    "alpha2": "nn"
+  },
+  "om": {
+    "English": "Oromo",
+    "alpha2": "om"
+  },
+  "om-ET": {
+    "English": "Oromo",
+    "alpha2": "om"
+  },
+  "om-KE": {
+    "English": "Oromo",
+    "alpha2": "om"
+  },
+  "or": {
+    "English": "Oriya",
+    "alpha2": "or"
+  },
+  "or-IN": {
+    "English": "Oriya",
+    "alpha2": "or"
+  },
+  "os": {
+    "English": "Ossetian; Ossetic",
+    "alpha2": "os"
+  },
+  "os-GE": {
+    "English": "Ossetian; Ossetic",
+    "alpha2": "os"
+  },
+  "os-RU": {
+    "English": "Ossetian; Ossetic",
+    "alpha2": "os"
+  },
+  "pa": {
+    "English": "Panjabi; Punjabi",
+    "alpha2": "pa"
+  },
+  "pa-Arab": {
+    "English": "Panjabi; Punjabi",
+    "alpha2": "pa"
+  },
+  "pa-Arab-PK": {
+    "English": "Panjabi; Punjabi",
+    "alpha2": "pa"
+  },
+  "pa-Guru": {
+    "English": "Panjabi; Punjabi",
+    "alpha2": "pa"
+  },
+  "pa-Guru-IN": {
+    "English": "Panjabi; Punjabi",
+    "alpha2": "pa"
+  },
+  "pl": {
+    "English": "Polish",
+    "alpha2": "pl"
+  },
+  "pl-PL": {
+    "English": "Polish",
+    "alpha2": "pl"
+  },
+  "ps": {
+    "English": "Pushto; Pashto",
+    "alpha2": "ps"
+  },
+  "ps-AF": {
+    "English": "Pushto; Pashto",
+    "alpha2": "ps"
+  },
+  "ps-PK": {
+    "English": "Pushto; Pashto",
+    "alpha2": "ps"
+  },
+  "pt": {
+    "English": "Portuguese",
+    "alpha2": "pt"
+  },
+  "pt-AO": {
+    "English": "Portuguese",
+    "alpha2": "pt"
+  },
+  "pt-BR": {
+    "English": "Portuguese",
+    "alpha2": "pt"
+  },
+  "pt-CH": {
+    "English": "Portuguese",
+    "alpha2": "pt"
+  },
+  "pt-CV": {
+    "English": "Portuguese",
+    "alpha2": "pt"
+  },
+  "pt-GQ": {
+    "English": "Portuguese",
+    "alpha2": "pt"
+  },
+  "pt-GW": {
+    "English": "Portuguese",
+    "alpha2": "pt"
+  },
+  "pt-LU": {
+    "English": "Portuguese",
+    "alpha2": "pt"
+  },
+  "pt-MO": {
+    "English": "Portuguese",
+    "alpha2": "pt"
+  },
+  "pt-MZ": {
+    "English": "Portuguese",
+    "alpha2": "pt"
+  },
+  "pt-PT": {
+    "English": "Portuguese",
+    "alpha2": "pt"
+  },
+  "pt-ST": {
+    "English": "Portuguese",
+    "alpha2": "pt"
+  },
+  "pt-TL": {
+    "English": "Portuguese",
+    "alpha2": "pt"
+  },
+  "qu": {
+    "English": "Quechua",
+    "alpha2": "qu"
+  },
+  "qu-BO": {
+    "English": "Quechua",
+    "alpha2": "qu"
+  },
+  "qu-EC": {
+    "English": "Quechua",
+    "alpha2": "qu"
+  },
+  "qu-PE": {
+    "English": "Quechua",
+    "alpha2": "qu"
+  },
+  "rm": {
+    "English": "Romansh",
+    "alpha2": "rm"
+  },
+  "rm-CH": {
+    "English": "Romansh",
+    "alpha2": "rm"
+  },
+  "rn": {
+    "English": "Rundi",
+    "alpha2": "rn"
+  },
+  "rn-BI": {
+    "English": "Rundi",
+    "alpha2": "rn"
+  },
+  "ro": {
+    "English": "Romanian; Moldavian; Moldovan",
+    "alpha2": "ro"
+  },
+  "ro-MD": {
+    "English": "Romanian; Moldavian; Moldovan",
+    "alpha2": "ro"
+  },
+  "ro-RO": {
+    "English": "Romanian; Moldavian; Moldovan",
+    "alpha2": "ro"
+  },
+  "ru": {
+    "English": "Russian",
+    "alpha2": "ru"
+  },
+  "ru-BY": {
+    "English": "Russian",
+    "alpha2": "ru"
+  },
+  "ru-KG": {
+    "English": "Russian",
+    "alpha2": "ru"
+  },
+  "ru-KZ": {
+    "English": "Russian",
+    "alpha2": "ru"
+  },
+  "ru-MD": {
+    "English": "Russian",
+    "alpha2": "ru"
+  },
+  "ru-RU": {
+    "English": "Russian",
+    "alpha2": "ru"
+  },
+  "ru-UA": {
+    "English": "Russian",
+    "alpha2": "ru"
+  },
+  "rw": {
+    "English": "Kinyarwanda",
+    "alpha2": "rw"
+  },
+  "rw-RW": {
+    "English": "Kinyarwanda",
+    "alpha2": "rw"
+  },
+  "sd": {
+    "English": "Sindhi",
+    "alpha2": "sd"
+  },
+  "sd-Arab": {
+    "English": "Sindhi",
+    "alpha2": "sd"
+  },
+  "sd-Arab-PK": {
+    "English": "Sindhi",
+    "alpha2": "sd"
+  },
+  "sd-Deva": {
+    "English": "Sindhi",
+    "alpha2": "sd"
+  },
+  "sd-Deva-IN": {
+    "English": "Sindhi",
+    "alpha2": "sd"
+  },
+  "se": {
+    "English": "Northern Sami",
+    "alpha2": "se"
+  },
+  "se-FI": {
+    "English": "Northern Sami",
+    "alpha2": "se"
+  },
+  "se-NO": {
+    "English": "Northern Sami",
+    "alpha2": "se"
+  },
+  "se-SE": {
+    "English": "Northern Sami",
+    "alpha2": "se"
+  },
+  "sg": {
+    "English": "Sango",
+    "alpha2": "sg"
+  },
+  "sg-CF": {
+    "English": "Sango",
+    "alpha2": "sg"
+  },
+  "si": {
+    "English": "Sinhala; Sinhalese",
+    "alpha2": "si"
+  },
+  "si-LK": {
+    "English": "Sinhala; Sinhalese",
+    "alpha2": "si"
+  },
+  "sk": {
+    "English": "Slovak",
+    "alpha2": "sk"
+  },
+  "sk-SK": {
+    "English": "Slovak",
+    "alpha2": "sk"
+  },
+  "sl": {
+    "English": "Slovenian",
+    "alpha2": "sl"
+  },
+  "sl-SI": {
+    "English": "Slovenian",
+    "alpha2": "sl"
+  },
+  "sn": {
+    "English": "Shona",
+    "alpha2": "sn"
+  },
+  "sn-ZW": {
+    "English": "Shona",
+    "alpha2": "sn"
+  },
+  "so": {
+    "English": "Somali",
+    "alpha2": "so"
+  },
+  "so-DJ": {
+    "English": "Somali",
+    "alpha2": "so"
+  },
+  "so-ET": {
+    "English": "Somali",
+    "alpha2": "so"
+  },
+  "so-KE": {
+    "English": "Somali",
+    "alpha2": "so"
+  },
+  "so-SO": {
+    "English": "Somali",
+    "alpha2": "so"
+  },
+  "sq": {
+    "English": "Albanian",
+    "alpha2": "sq"
+  },
+  "sq-AL": {
+    "English": "Albanian",
+    "alpha2": "sq"
+  },
+  "sq-MK": {
+    "English": "Albanian",
+    "alpha2": "sq"
+  },
+  "sq-XK": {
+    "English": "Albanian",
+    "alpha2": "sq"
+  },
+  "sr": {
+    "English": "Serbian",
+    "alpha2": "sr"
+  },
+  "sr-Cyrl": {
+    "English": "Serbian",
+    "alpha2": "sr"
+  },
+  "sr-Cyrl-BA": {
+    "English": "Serbian",
+    "alpha2": "sr"
+  },
+  "sr-Cyrl-ME": {
+    "English": "Serbian",
+    "alpha2": "sr"
+  },
+  "sr-Cyrl-RS": {
+    "English": "Serbian",
+    "alpha2": "sr"
+  },
+  "sr-Cyrl-XK": {
+    "English": "Serbian",
+    "alpha2": "sr"
+  },
+  "sr-Latn": {
+    "English": "Serbian",
+    "alpha2": "sr"
+  },
+  "sr-Latn-BA": {
+    "English": "Serbian",
+    "alpha2": "sr"
+  },
+  "sr-Latn-ME": {
+    "English": "Serbian",
+    "alpha2": "sr"
+  },
+  "sr-Latn-RS": {
+    "English": "Serbian",
+    "alpha2": "sr"
+  },
+  "sr-Latn-XK": {
+    "English": "Serbian",
+    "alpha2": "sr"
+  },
+  "su": {
+    "English": "Sundanese",
+    "alpha2": "su"
+  },
+  "su-Latn": {
+    "English": "Sundanese",
+    "alpha2": "su"
+  },
+  "su-Latn-ID": {
+    "English": "Sundanese",
+    "alpha2": "su"
+  },
+  "sv": {
+    "English": "Swedish",
+    "alpha2": "sv"
+  },
+  "sv-AX": {
+    "English": "Swedish",
+    "alpha2": "sv"
+  },
+  "sv-FI": {
+    "English": "Swedish",
+    "alpha2": "sv"
+  },
+  "sv-SE": {
+    "English": "Swedish",
+    "alpha2": "sv"
+  },
+  "sw": {
+    "English": "Swahili",
+    "alpha2": "sw"
+  },
+  "sw-CD": {
+    "English": "Swahili",
+    "alpha2": "sw"
+  },
+  "sw-KE": {
+    "English": "Swahili",
+    "alpha2": "sw"
+  },
+  "sw-TZ": {
+    "English": "Swahili",
+    "alpha2": "sw"
+  },
+  "sw-UG": {
+    "English": "Swahili",
+    "alpha2": "sw"
+  },
+  "ta": {
+    "English": "Tamil",
+    "alpha2": "ta"
+  },
+  "ta-IN": {
+    "English": "Tamil",
+    "alpha2": "ta"
+  },
+  "ta-LK": {
+    "English": "Tamil",
+    "alpha2": "ta"
+  },
+  "ta-MY": {
+    "English": "Tamil",
+    "alpha2": "ta"
+  },
+  "ta-SG": {
+    "English": "Tamil",
+    "alpha2": "ta"
+  },
+  "te": {
+    "English": "Telugu",
+    "alpha2": "te"
+  },
+  "te-IN": {
+    "English": "Telugu",
+    "alpha2": "te"
+  },
+  "tg": {
+    "English": "Tajik",
+    "alpha2": "tg"
+  },
+  "tg-TJ": {
+    "English": "Tajik",
+    "alpha2": "tg"
+  },
+  "th": {
+    "English": "Thai",
+    "alpha2": "th"
+  },
+  "th-TH": {
+    "English": "Thai",
+    "alpha2": "th"
+  },
+  "ti": {
+    "English": "Tigrinya",
+    "alpha2": "ti"
+  },
+  "ti-ER": {
+    "English": "Tigrinya",
+    "alpha2": "ti"
+  },
+  "ti-ET": {
+    "English": "Tigrinya",
+    "alpha2": "ti"
+  },
+  "tk": {
+    "English": "Turkmen",
+    "alpha2": "tk"
+  },
+  "tk-TM": {
+    "English": "Turkmen",
+    "alpha2": "tk"
+  },
+  "to": {
+    "English": "Tonga (Tonga Islands)",
+    "alpha2": "to"
+  },
+  "to-TO": {
+    "English": "Tonga (Tonga Islands)",
+    "alpha2": "to"
+  },
+  "tr": {
+    "English": "Turkish",
+    "alpha2": "tr"
+  },
+  "tr-CY": {
+    "English": "Turkish",
+    "alpha2": "tr"
+  },
+  "tr-TR": {
+    "English": "Turkish",
+    "alpha2": "tr"
+  },
+  "tt": {
+    "English": "Tatar",
+    "alpha2": "tt"
+  },
+  "tt-RU": {
+    "English": "Tatar",
+    "alpha2": "tt"
+  },
+  "ug": {
+    "English": "Uighur; Uyghur",
+    "alpha2": "ug"
+  },
+  "ug-CN": {
+    "English": "Uighur; Uyghur",
+    "alpha2": "ug"
+  },
+  "uk": {
+    "English": "Ukrainian",
+    "alpha2": "uk"
+  },
+  "uk-UA": {
+    "English": "Ukrainian",
+    "alpha2": "uk"
+  },
+  "ur": {
+    "English": "Urdu",
+    "alpha2": "ur"
+  },
+  "ur-IN": {
+    "English": "Urdu",
+    "alpha2": "ur"
+  },
+  "ur-PK": {
+    "English": "Urdu",
+    "alpha2": "ur"
+  },
+  "uz": {
+    "English": "Uzbek",
+    "alpha2": "uz"
+  },
+  "uz-Arab": {
+    "English": "Uzbek",
+    "alpha2": "uz"
+  },
+  "uz-Arab-AF": {
+    "English": "Uzbek",
+    "alpha2": "uz"
+  },
+  "uz-Cyrl": {
+    "English": "Uzbek",
+    "alpha2": "uz"
+  },
+  "uz-Cyrl-UZ": {
+    "English": "Uzbek",
+    "alpha2": "uz"
+  },
+  "uz-Latn": {
+    "English": "Uzbek",
+    "alpha2": "uz"
+  },
+  "uz-Latn-UZ": {
+    "English": "Uzbek",
+    "alpha2": "uz"
+  },
+  "vi": {
+    "English": "Vietnamese",
+    "alpha2": "vi"
+  },
+  "vi-VN": {
+    "English": "Vietnamese",
+    "alpha2": "vi"
+  },
+  "vo": {
+    "English": "Volapük",
+    "alpha2": "vo"
+  },
+  "vo-001": {
+    "English": "Volapük",
+    "alpha2": "vo"
+  },
+  "wo": {
+    "English": "Wolof",
+    "alpha2": "wo"
+  },
+  "wo-SN": {
+    "English": "Wolof",
+    "alpha2": "wo"
+  },
+  "xh": {
+    "English": "Xhosa",
+    "alpha2": "xh"
+  },
+  "xh-ZA": {
+    "English": "Xhosa",
+    "alpha2": "xh"
+  },
+  "yi": {
+    "English": "Yiddish",
+    "alpha2": "yi"
+  },
+  "yi-001": {
+    "English": "Yiddish",
+    "alpha2": "yi"
+  },
+  "yo": {
+    "English": "Yoruba",
+    "alpha2": "yo"
+  },
+  "yo-BJ": {
+    "English": "Yoruba",
+    "alpha2": "yo"
+  },
+  "yo-NG": {
+    "English": "Yoruba",
+    "alpha2": "yo"
+  },
+  "zh": {
+    "English": "Chinese",
+    "alpha2": "zh"
+  },
+  "zh-Hans": {
+    "English": "Chinese",
+    "alpha2": "zh"
+  },
+  "zh-Hans-CN": {
+    "English": "Chinese",
+    "alpha2": "zh"
+  },
+  "zh-Hans-HK": {
+    "English": "Chinese",
+    "alpha2": "zh"
+  },
+  "zh-Hans-MO": {
+    "English": "Chinese",
+    "alpha2": "zh"
+  },
+  "zh-Hans-SG": {
+    "English": "Chinese",
+    "alpha2": "zh"
+  },
+  "zh-Hant": {
+    "English": "Chinese",
+    "alpha2": "zh"
+  },
+  "zh-Hant-HK": {
+    "English": "Chinese",
+    "alpha2": "zh"
+  },
+  "zh-Hant-MO": {
+    "English": "Chinese",
+    "alpha2": "zh"
+  },
+  "zh-Hant-TW": {
+    "English": "Chinese",
+    "alpha2": "zh"
+  },
+  "zu": {
+    "English": "Zulu",
+    "alpha2": "zu"
+  },
+  "zu-ZA": {
+    "English": "Zulu",
+    "alpha2": "zu"
+  }
+}
