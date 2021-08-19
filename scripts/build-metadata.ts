@@ -70,7 +70,7 @@ const getMetadata = (country: FullCountry): FullMetadata => {
   const stats = getStats(country)
   const file = [
     `# ${country.short_name}\n`,
-    `https://ethmap.zone/flags/${country.abbreviation}.svg\n`,
+    `https://ethmap.world/flags/${country.abbreviation}.svg\n`,
     `## Traits`,
     ...traits.map(
       t => `- ${t.trait_type ? `**${t.trait_type}**: ` : ``}${t.value}`
@@ -84,8 +84,7 @@ const getMetadata = (country: FullCountry): FullMetadata => {
   md.push(file);
 
   return {
-    external_url: 'https://ethmap.app',
-    image: `https://ethmap.zone/flags/${country.abbreviation}.svg`,
+    abbreviation: country.abbreviation || "",
     name: country.short_name as string,
     attributes: [
       ...getTraits(country),

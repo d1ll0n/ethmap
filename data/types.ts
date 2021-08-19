@@ -71,9 +71,8 @@ export type FullCountry = {
 }
 
 export type FullMetadata = {
-  external_url: string;
+  abbreviation: string;
   name: string;
-  image: string;
   attributes: Attribute[];
   description?: string;
   background_color?: string;
