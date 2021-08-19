@@ -63,7 +63,8 @@
     "test": "hardhat test",
     "build:stats": "node data/stats/raw && node data/stats",
     "build:countries": "ts-node scripts/build-countries.ts",
-    "build:metadata": "ts-node scripts/build-metadata.ts"
+    "build:metadata": "ts-node scripts/build-metadata.ts",
+    "build:data": "yarn build:stats && yarn build:countries && yarn build:metadata"
   },
   "repository": {
     "type": "git",
