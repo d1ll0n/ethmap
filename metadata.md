@@ -56,7 +56,7 @@ https://ethmap.zone/flags/TTO.svg
 - Member of Rio Pact
 - English Speaking
 - French Speaking
-- Spanish; Castilian Speaking
+- Spanish Speaking
 - Chinese Speaking
 
 ## Stats
@@ -117,7 +117,7 @@ https://ethmap.zone/flags/PRI.svg
 - **Economy**: Developing
 - **Government**: Commonwealth of the US
 - English Speaking
-- Spanish; Castilian Speaking
+- Spanish Speaking
 
 ## Stats
 
@@ -249,7 +249,7 @@ https://ethmap.zone/flags/QAT.svg
 - Member of Arab League
 - Member of OIC
 - Arabic Speaking
-- Spanish; Castilian Speaking
+- Spanish Speaking
 
 ## Stats
 
@@ -497,7 +497,7 @@ https://ethmap.zone/flags/SLV.svg
 - **Government**: Republic
 - Member of OAS
 - Member of Rio Pact
-- Spanish; Castilian Speaking
+- Spanish Speaking
 
 ## Stats
 
@@ -520,7 +520,7 @@ https://ethmap.zone/flags/BLZ.svg
 - Member of CARICOM
 - Member of ZPCAS
 - English Speaking
-- Spanish; Castilian Speaking
+- Spanish Speaking
 
 ## Stats
 
@@ -654,7 +654,7 @@ https://ethmap.zone/flags/GNQ.svg
 - **Government**: Republic
 - Member of African Union
 - Member of ZPCAS
-- Spanish; Castilian Speaking
+- Spanish Speaking
 - French Speaking
 
 ## Stats
@@ -948,7 +948,7 @@ https://ethmap.zone/flags/DOM.svg
 - **Government**: Republic
 - Member of OAS
 - Member of Rio Pact
-- Spanish; Castilian Speaking
+- Spanish Speaking
 
 ## Stats
 
@@ -991,7 +991,7 @@ https://ethmap.zone/flags/CRI.svg
 - **Government**: Republic
 - Member of OAS
 - Member of Rio Pact
-- Spanish; Castilian Speaking
+- Spanish Speaking
 - English Speaking
 
 ## Stats
@@ -1210,7 +1210,7 @@ https://ethmap.zone/flags/PAN.svg
 - **Government**: Republic
 - Member of OAS
 - Member of Rio Pact
-- Spanish; Castilian Speaking
+- Spanish Speaking
 - English Speaking
 
 ## Stats
@@ -1454,7 +1454,7 @@ https://ethmap.zone/flags/GTM.svg
 - **Government**: Republic
 - Member of OAS
 - Member of Rio Pact
-- Spanish; Castilian Speaking
+- Spanish Speaking
 
 ## Stats
 
@@ -1473,7 +1473,7 @@ https://ethmap.zone/flags/CUB.svg
 - **Continent**: North America
 - **Economy**: Developing
 - **Government**: Socialistic Republic
-- Spanish; Castilian Speaking
+- Spanish Speaking
 
 ## Stats
 
@@ -1536,7 +1536,7 @@ https://ethmap.zone/flags/HND.svg
 - **Government**: Republic
 - Member of OAS
 - Member of Rio Pact
-- Spanish; Castilian Speaking
+- Spanish Speaking
 
 ## Stats
 
@@ -1638,7 +1638,7 @@ https://ethmap.zone/flags/NIC.svg
 - **Economy**: Developing
 - **Government**: Republic
 - Member of OAS
-- Spanish; Castilian Speaking
+- Spanish Speaking
 - English Speaking
 
 ## Stats
@@ -1812,7 +1812,7 @@ https://ethmap.zone/flags/URY.svg
 - Member of OAS
 - Member of Rio Pact
 - Member of ZPCAS
-- Spanish; Castilian Speaking
+- Spanish Speaking
 
 ## Stats
 
@@ -2098,7 +2098,7 @@ https://ethmap.zone/flags/ESH.svg
 - **Capital**: El-Aaiun
 - **Continent**: Africa
 - **Economy**: Developing
-- **Government**: Occupied by Marocco
+- **Government**: Occupied by Morocco
 - Member of African Union
 - Arabic Speaking
 
@@ -2183,7 +2183,7 @@ https://ethmap.zone/flags/ECU.svg
 - **Economy**: Developing
 - **Government**: Republic
 - Member of OAS
-- Spanish; Castilian Speaking
+- Spanish Speaking
 
 ## Stats
 
@@ -2537,7 +2537,7 @@ https://ethmap.zone/flags/PRY.svg
 - **Government**: Republic
 - Member of OAS
 - Member of Rio Pact
-- Spanish; Castilian Speaking
+- Spanish Speaking
 
 ## Stats
 
@@ -2711,7 +2711,7 @@ https://ethmap.zone/flags/ESP.svg
 - **Government**: Constitutional Monarchy
 - Member of NATO
 - Member of European Union
-- Spanish; Castilian Speaking
+- Spanish Speaking
 - Catalan; Valencian Speaking
 - Galician Speaking
 - Basque Speaking
@@ -3013,7 +3013,7 @@ https://ethmap.zone/flags/CHL.svg
 - **Government**: Republic
 - Member of OAS
 - Member of Rio Pact
-- Spanish; Castilian Speaking
+- Spanish Speaking
 
 ## Stats
 
@@ -3127,7 +3127,7 @@ https://ethmap.zone/flags/VEN.svg
 - **Government**: Federal Republic
 - Member of OAS
 - Member of Rio Pact
-- Spanish; Castilian Speaking
+- Spanish Speaking
 
 ## Stats
 
@@ -3238,7 +3238,7 @@ https://ethmap.zone/flags/BOL.svg
 - **Economy**: Developing
 - **Government**: Republic
 - Member of OAS
-- Spanish; Castilian Speaking
+- Spanish Speaking
 - Quechua Speaking
 
 ## Stats
@@ -3284,7 +3284,7 @@ https://ethmap.zone/flags/COL.svg
 - **Government**: Republic
 - Member of OAS
 - Member of Rio Pact
-- Spanish; Castilian Speaking
+- Spanish Speaking
 
 ## Stats
 
@@ -3418,7 +3418,7 @@ https://ethmap.zone/flags/PER.svg
 - **Government**: Republic
 - Member of OAS
 - Member of Rio Pact
-- Spanish; Castilian Speaking
+- Spanish Speaking
 - Quechua Speaking
 
 ## Stats
@@ -3551,7 +3551,7 @@ https://ethmap.zone/flags/MEX.svg
 - **Government**: Federal Republic
 - Member of OAS
 - Member of G20
-- Spanish; Castilian Speaking
+- Spanish Speaking
 
 ## Stats
 
@@ -3681,7 +3681,7 @@ https://ethmap.zone/flags/ARG.svg
 - Member of G20
 - Member of Rio Pact
 - Member of ZPCAS
-- Spanish; Castilian Speaking
+- Spanish Speaking
 - English Speaking
 - Italian Speaking
 - German Speaking
@@ -3764,7 +3764,7 @@ https://ethmap.zone/flags/BRA.svg
 - Member of G20
 - Member of Rio Pact
 - Portuguese Speaking
-- Spanish; Castilian Speaking
+- Spanish Speaking
 - English Speaking
 - French Speaking
 
@@ -3792,7 +3792,7 @@ https://ethmap.zone/flags/USA.svg
 - Member of G20
 - Member of Rio Pact
 - English Speaking
-- Spanish; Castilian Speaking
+- Spanish Speaking
 - French Speaking
 
 ## Stats
