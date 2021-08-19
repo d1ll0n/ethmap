@@ -45,15 +45,15 @@ describe('ETHMapZones.sol', () => {
     })
 
     it('baseURI()', async () => {
-      expect(await zones.baseURI()).to.eq(`https://ethmap.zone/`)
+      expect(await zones.baseURI()).to.eq(`https://ethmap.world/`)
     })
 
     it('baseTokenURI()', async () => {
-      expect(await zones.baseTokenURI()).to.eq(`https://ethmap.zone/`)
+      expect(await zones.baseTokenURI()).to.eq(`https://ethmap.world/`)
     })
 
     it('tokenURI()', async () => {
-      expect(await zones.tokenURI(5)).to.eq(`https://ethmap.zone/5`)
+      expect(await zones.tokenURI(5)).to.eq(`https://ethmap.world/5`)
     })
   })
 

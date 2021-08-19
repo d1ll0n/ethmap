@@ -19,7 +19,7 @@ contract ETHMapZones is OpenSeaWhitelistERC721("ETHMap Zones", "ZONES"), Ownable
 /** ==========  Constructor  ========== */
 
   constructor() {
-    _setBaseURI("https://ethmap.zone/");
+    _setBaseURI("https://ethmap.world/");
   }
 
 /** ==========  Queries  ========== */
