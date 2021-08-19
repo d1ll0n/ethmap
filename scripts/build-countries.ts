@@ -58,8 +58,10 @@ const getISO_3166_1 = ({
   "ISO3166-1-Alpha-2": alpha2,
   "ISO3166-1-Alpha-3": alpha3,
   "ISO3166-1-numeric": numeric_code,
-}: CountryData): ISO_3166_1 | null => (alpha2 && alpha3 && numeric_code) ? {
-  alpha2, alpha3, numeric_code: +numeric_code
+}: CountryData): ISO_3166_1 | null => (alpha2 || alpha3 || numeric_code) ? {
+  alpha2: alpha2 ?? null,
+  alpha3: alpha3 ?? null,
+  numeric_code: numeric_code ? +numeric_code : null
 } : null
 
 const getNames = ({
