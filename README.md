@@ -14,6 +14,8 @@ Sources:
 
 ## Metadata Standard
 
+https://docs.opensea.io/docs/metadata-standards
+
 ## Status
 
 Processed original data, matched to info from country-list to create the output file `data/countries.json`, and downloaded the flags of every country into `data/images` as SVG files.
