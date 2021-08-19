@@ -11,9 +11,9 @@ export type ISO_4217 = {
 }
 
 export type ISO_3166_1 = {
-  alpha2: string        // ISO3166-1-Alpha-2
-  alpha3: string        // ISO3166-1-Alpha-3
-  numeric_code: number  // ISO3166-1-numeric
+  alpha2: string | null        // ISO3166-1-Alpha-2
+  alpha3: string | null        // ISO3166-1-Alpha-3
+  numeric_code: number | null  // ISO3166-1-numeric
 }
 
 export type M49_Region = {
@@ -35,6 +35,16 @@ export type Names = {
   unterm_short: string | null    // UNTERM English Short
 }
 
+export type Stats = {
+  area: number | null
+  population: number | null
+  government: string | null
+  income: string | null
+  nuclear: string | null
+  alliances: string[]
+  lifeExpectancy: number | null
+}
+
 export type FullCountry = {
   id: number
   original_name: string
@@ -46,4 +56,55 @@ export type FullCountry = {
   iso_3166_1: ISO_3166_1 | null
   m49: M49_Regions
   iso_4217: ISO_4217 | null
+  capital: string | null
+  continent: string | null
+  economy: string | null
+  area: number | null
+  population: number | null
+  government: string | null
+  income: string | null
+  nuclear: string | null
+  languages: string[]
+  alliances: string[]
+  lifeExpectancy: number | null
+  gdp: number | null
 }
+
+export type FullMetadata = {
+  external_url: string;
+  name: string;
+  image: string;
+  attributes: Attribute[];
+  description?: string;
+  background_color?: string;
+}
+
+export type Boost = {
+  trait_type: string;
+  display_type: 'boost_percentage' | 'boost_number';
+  value: number;
+}
+
+export type Ranking = {
+  trait_type: string;
+  value: number;
+}
+
+export type Stat = {
+  trait_type: string;
+  display_type: 'number';
+  value: number;
+}
+
+export type Trait = {
+  trait_type?: string;
+  value: string;
+}
+
+export type Date = {
+  trait_type: string;
+  display_type: "date";
+  value: number;
+}
+
+export type Attribute = Boost | Ranking | Stat | Trait | Date;
