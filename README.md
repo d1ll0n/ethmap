@@ -6,11 +6,6 @@ Sources:
 - http://api.worldbank.org/v2/en/indicator/NY.GDP.MKTP.CD?downloadformat=csv
 - https://github.com/samayo/country-json
 - https://datahub.io/core/language-codes
-## Goals
-
-- [] Process wiki-countries into formatted countries
-- [] Find sources for other data we need and process it
-- [] Create an API conforming to [OpenSea's metadata standards](https://docs.opensea.io/docs/metadata-standards)
 
 ## Metadata Standard
 
