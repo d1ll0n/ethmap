@@ -7,11 +7,10 @@ import "./OpenSeaWhitelistERC721.sol";
 import "./IEthMap.sol";
 
 
-contract ETHMapZones is OpenSeaWhitelistERC721("ETHMap Zones", "ZONES"), Ownable() {
+contract ETHMapZonesOld is OpenSeaWhitelistERC721("ETHMap Zones", "ZONES"), Ownable() {
 /** ==========  Constants  ========== */
 
   IEthMap public constant map = IEthMap(0xB6bbf89c3DbBa20Cb4d5cABAa4A386ACbbAb455e);
-  address public immutable oldContract;
 
 /** ==========  Storage  ========== */
 
@@ -19,9 +18,8 @@ contract ETHMapZones is OpenSeaWhitelistERC721("ETHMap Zones", "ZONES"), Ownable
 
 /** ==========  Constructor  ========== */
 
-  constructor(address _oldContract) {
+  constructor() {
     _setBaseURI("https://ethmap.world/");
-    oldContract = _oldContract;
   }
 
 /** ==========  Queries  ========== */
@@ -44,22 +42,6 @@ contract ETHMapZones is OpenSeaWhitelistERC721("ETHMap Zones", "ZONES"), Ownable
 
 /** ==========  Actions  ========== */
 
-  function _wrap(uint256 zoneId) internal {
-    (,address owner, uint256 sellPrice) = map.getZone(zoneId);
-    require(owner == address(this), "ETHMapZones: Contract has not received zone.");
-    pendingZoneOwners[zoneId] = address(0);
-    if (sellPrice > 0) {
-      map.sellZone(zoneId, 0);
-    }
-    _mint(msg.sender, zoneId);
-  }
-
-  function migrate(uint256 zoneId) external {
-    IERC721(oldContract).transferFrom(msg.sender, address(this), zoneId);
-    ETHMapZones(oldContract).unwrapZone(zoneId);
-    _wrap(zoneId);
-  }
-
   function setBaseURI(string memory _baseURI) external onlyOwner {
     _setBaseURI(_baseURI);
   }
@@ -71,7 +53,9 @@ contract ETHMapZones is OpenSeaWhitelistERC721("ETHMap Zones", "ZONES"), Ownable
 
   function wrapZone(uint256 zoneId) external {
     require(pendingZoneOwners[zoneId] == msg.sender, "ETHMapZones: Zone not prepared for wrap.");
-    _wrap(zoneId);
+    require(zoneOwner(zoneId) == address(this), "ETHMapZones: Contract has not received zone.");
+    pendingZoneOwners[zoneId] = address(0);
+    _mint(msg.sender, zoneId);
   }
 
   function unwrapZone(uint256 zoneId) external {
