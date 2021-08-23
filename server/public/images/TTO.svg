@@ -1,5 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 18">
-<rect fill="#CE1126" width="30" height="18"/>
-<polygon fill="#FFF" points="0,0 20.824734,18 30,18 9.175266,0"/>
-<polygon points="1.52921,0 22.353945,18 28.470789,18 7.646055,0"/>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" preserveAspectRatio="xMidYMid meet" width="1024pt" height="1024pt">
+ <g transform="translate(-107107.01002365274,-194775.25088201783)scale(316.08303412486043)" fill="#000000" stroke="none">
+    <path
+    d="M339.72296391475595,616.9607991031495L341.33162021902433,616.5826438470705L341.934866333125,616.6771826610902L341.8343253141082,618.7570365695249L339.5218818767224,619.0879224185941L339.0191767816385,618.8043059765348L339.8235049337727,618.0479954643768Z"
+    fill="#1868b7"
+    />
+  </g>
 </svg>

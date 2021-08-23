@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6"><defs><clipPath id="a"><path d="M0 0h12v6H0z"/></clipPath></defs><path fill="#007749" d="M0 0h12v6H0z"/><path fill="#2d2926" stroke="#ffb81c" clip-path="url(#a)" d="M-2-1v8l16-8v8z"/></svg>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" preserveAspectRatio="xMidYMid meet" width="1024pt" height="1024pt">
+ <g transform="translate(-45512.5303506091,-92149.85766156425)scale(155.36284728171145)" fill="#000000" stroke="none">
+    <path
+    d="M295.38437452835814,595.3586800996347L297.29465388967685,595.5950271346842L298.7022281559117,596.3040682398323L299.2049332509956,597.0603787519905L297.29465388967685,597.1076481590003L296.3897847185259,597.5803422290991L294.8816694332743,597.1076481590003L293.2730131290059,596.1149906117929L293.5746361860562,595.4532189136545L294.7811284142575,595.264141285615Z"
+    fill="#1868b7"
+    />
+  </g>
+</svg>

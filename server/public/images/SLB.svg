@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 400"><defs><clipPath id="a"><path d="M0 0h800v400H0z"/></clipPath></defs><g clip-path="url(#a)"><path d="M0 400V0h800z" fill="#0051ba"/><path d="M0 400h800V0z" fill="#215b33"/><path d="M0 400L800 0" stroke="#fcd116" stroke-width="36"/><g transform="translate(140 120)"><g id="e" fill="#fff"><g id="d"><g id="c"><path id="b" d="M0-40V0h20z" transform="rotate(18 0 -40)"/><use xlink:href="#b" transform="scale(-1 1)"/></g><use xlink:href="#c" transform="rotate(72)"/></g><use xlink:href="#c" transform="rotate(-72)"/><use xlink:href="#d" transform="rotate(144)"/></g><g id="g" transform="rotate(40.6)"><use id="f" xlink:href="#e" x="-104" transform="rotate(-40.6 -104 0)"/><use xlink:href="#f" x="208"/></g><use xlink:href="#g" transform="scale(-1 1)"/></g></g></svg>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" preserveAspectRatio="xMidYMid meet" width="1024pt" height="1024pt">
+ <g transform="translate(-32621.076218564645,-31587.030981479613)scale(51.78761576057049)" fill="#000000" stroke="none">
+    <path
+    d="M645.4682027447689,624.6657124457597L643.0552182883663,624.6657124457597L634.0065265768566,621.3568539550682L632.900575367672,620.3641964078608L631.8951651775043,618.9933836045743L630.8897549873366,617.4807625802582L631.4930011014371,616.4881050330507L632.498411291605,614.9754840087346L633.4032804627559,615.4954474858432L633.9059855578398,616.6771826610902L635.2130188050579,617.8116484293273L636.6205930712927,617.8589178363371L639.2346595657289,617.1026073241791L642.2508901362321,616.77172147511L644.7644156116514,615.9208721489322L646.0714488588696,615.7317945208927L647.0768590490374,615.211831043784L648.6855153533057,615.1172922297642L648.6855153533057,615.1645616367741L648.6855153533057,616.346296812021L648.6855153533057,619.1351918256039L648.6855153533057,620.6005434429102L647.3784821060876,622.3022420952658Z"
+    fill="#1868b7"
+    />
+  </g>
+</svg>

@@ -1,13 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-2 -3 12 6">
-<rect x="-2" y="-3" width="4" height="6" fill="#ce1126"/>
-<rect x="2" y="-3" width="8" height="3" fill="#fcd116"/>
-<rect x="2" width="8" height="3" fill="#009e49"/>
-<g id="c">
-<path id="t" d="M 0,-1 v 1 h .5" transform="rotate(18 0,-1)" fill="#000"/>
-<use xlink:href="#t" transform="scale(-1,1)"/>
-</g>
-<use xlink:href="#c" transform="rotate(72)"/>
-<use xlink:href="#c" transform="rotate(144)"/>
-<use xlink:href="#c" transform="rotate(216)"/>
-<use xlink:href="#c" transform="rotate(288)"/>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" preserveAspectRatio="xMidYMid meet" width="1024pt" height="1024pt">
+ <g transform="translate(-51346.863743204274,-67290.21440116808)scale(110.43865047736155)" fill="#000000" stroke="none">
+    <path
+    d="M469.7225015034461,616.1572191839815L468.2143862181945,615.0227534157444L467.1084350090099,614.8336757877049L466.4046478758926,614.0300958685369L466.50518889490934,613.6046712054481L465.60031972375833,612.9901689143196L465.3992376857248,612.4229360302011L466.9073529709764,611.9502419601023L467.8122221421274,612.044780774122L468.6165502942616,611.713894925053L473.7441422641171,611.8557031460825L473.64360124510034,612.8010912862801L473.34197818804995,613.0847077283394L473.64360124510034,614.0300958685369L473.14089615001643,614.408251124616L472.5376500359158,614.408251124616L471.8338629027984,614.8809451947149L471.0295347506642,614.7864063806951Z"
+    fill="#1868b7"
+    />
+  </g>
 </svg>

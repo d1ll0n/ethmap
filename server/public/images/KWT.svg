@@ -1,6 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6">
-<rect width="12" height="2" fill="#007a3d"/>
-<rect width="12" height="2" y="2" fill="#fff"/>
-<rect width="12" height="2" y="4" fill="#ce1126"/>
-<polygon points="0,0 3,2 3,4 0,6"/>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" preserveAspectRatio="xMidYMid meet" width="1024pt" height="1024pt">
+ <g transform="translate(-115346.65275854767,-101073.51204793023)scale(179.73348999256783)" fill="#000000" stroke="none">
+    <path
+    d="M645.9709078398528,563.3100221469368L646.5741539539534,564.5390267291937L646.2725308969032,565.1535290203221L647.1774000680541,567.2806523357667L645.2671207067353,567.3279217427765L644.5633335736179,566.0043783465L642.0498080981986,565.7207619044407L644.0606284785341,563.0736751118875Z"
+    fill="#1868b7"
+    />
+  </g>
 </svg>

@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600"><g fill-rule="evenodd"><path d="M0 0h900v600H0z" fill="#fe0000"/><path d="M0 0h450v300H0z" fill="#000095"/></g><path d="M225 37.5l-56.25 209.928L322.428 93.75 112.5 150l209.928 56.25L168.75 52.572 225 262.5l56.25-209.928L127.572 206.25 337.5 150 127.572 93.75 281.25 247.428 225 37.5" fill="#fff" paint-order="markers fill stroke"/><circle cy="150" cx="225" r="60" fill="#fff" stroke="#000095" stroke-width="7.5"/></svg>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" preserveAspectRatio="xMidYMid meet" width="1024pt" height="1024pt">
+ <g transform="translate(-83607.94613727734,-56989.80774202997)scale(98.96829439503584)" fill="#000000" stroke="none">
+    <path
+    d="M852.0799968242417,578.861657053187L850.3707995009564,583.3522507191255L849.1643072727552,585.6684516626096L847.7567330065203,583.3049813121156L847.3545689304533,581.225127403681L849.0637662537384,578.483501797108L851.2756686721075,576.3563784816635L852.5827019193255,577.2072278078413Z"
+    fill="#1868b7"
+    />
+  </g>
+</svg>

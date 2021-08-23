@@ -1,33 +1,11 @@
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="-17.582 -4.664 71.571 87.246">
-<title>Flag of Nepal</title>
-<desc>Coding according to the official construction in "Constitution of the Kingdom of Nepal, Article 5, Shedule 1", adopted in November 1990</desc>
-<use xlink:href="#b" stroke="#003893" stroke-width="5.1646754223"/>
-<path id="b" d="M -15,37.5735931288 h 60 L -15,0 v 80 h 60 L -15,20 z" fill="#DC143C"/>
-<g fill="#fff">
-<path d="M -11.9502769431,23.4834957055 A 12.8400974233,12.8400974233 0 0,0 11.9502769431,23.4834957055 A 11.9502769431 11.9502769431 0 0,1 -11.9502769431,23.4834957055"/>
-<g transform="translate(0,29.0445562765) scale(5.5610605710)">
-<circle r="1"/>
-<g id="jags6">
-<g id="jags3">
-<path id="jag" d="M 0.195090322016,-0.980785280403 L 0,-1.388784109750 L -0.195090322016,-0.980785280403" transform="rotate(11.25)"/>
-<use xlink:href="#jag" transform="rotate(22.5)"/>
-<use xlink:href="#jag" transform="rotate(45)"/>
-</g>
-<use xlink:href="#jags3" transform="rotate(67.5)"/>
-</g>
-<use xlink:href="#jags6" transform="scale(-1, 1)"/>
-</g>
-<g transform="translate(0,58.7867965644) scale(8.1433982822)">
-<circle r="1"/>
-<g id="rays4">
-<g id="rays2">
-<path id="ray" d="M 0.258819045103,0.965925826289 L 0,1.576749285537 L -0.258819045103,0.965925826289"/>
-<use xlink:href="#ray" transform="rotate(180)"/>
-</g>
-<use xlink:href="#rays2" transform="rotate(90)"/>
-</g>
-<use xlink:href="#rays4" transform="rotate(30)"/>
-<use xlink:href="#rays4" transform="rotate(60)"/>
-</g>
-</g>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" preserveAspectRatio="xMidYMid meet" width="1024pt" height="1024pt">
+ <g transform="translate(-29919.02262527094,-22614.187685727222)scale(40.73959106498222)" fill="#000000" stroke="none">
+    <path
+    d="M758.074144043557,569.1714286161618L757.8730620055234,570.3531637914087L758.2752260815905,572.1494012577841L757.8730620055234,573.2365976190114L755.5606185681377,573.2838670260213L752.242764940584,572.622095327883L750.030862522215,572.3857482928336L748.4222062179465,570.9676660825372L744.6016474953092,570.5895108264582L740.9821708107053,569.0296203951322L738.3681043162692,567.6588075918456L735.6534968028162,566.5716112306185L736.7594480120007,563.9717938450751L738.4686453352858,562.6955198558084L739.6751375634872,562.0337481576701L741.8870399818562,562.8845974838479L744.7021885143259,564.7281043572332L746.3108448185942,565.1062596133122L747.2157139897452,566.4770724165987L749.4276164081143,566.9970358937073L751.6395188264834,568.2260404759643L754.8568314350202,568.8878121741026Z"
+    fill="#1868b7"
+    />
+  </g>
 </svg>

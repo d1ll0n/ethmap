@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 600 400"><defs><path id="a" transform="scale(21)" fill="#fff" d="M0-1L.588.809-.952-.309H.952L-.588.809z"/></defs><path fill="#002395" d="M0 0h600v400H0z"/><path fill="#fff" d="M0 0h244v164H0z"/><path fill="#002395" d="M0 0h80v160H0z"/><path fill="#ED2939" d="M160 0h80v160h-80z"/><path fill="#fff" d="M355 183l12.875 20.5H404.5V275L377 232l-37 59h18l19-34 39 70 39-70 19 34h18l-37-59-27.5 43v-39.5H444l12.25-19.5H427.5v-12.5h36.625L477 183H355zm43 87.5h-40v14h40zm76 0h-40v14h40z"/><use xlink:href="#a" x="416" y="362"/><use xlink:href="#a" x="371" y="328"/><use xlink:href="#a" x="461" y="328"/><use xlink:href="#a" x="333" y="227"/><use xlink:href="#a" x="499" y="227"/></svg>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" preserveAspectRatio="xMidYMid meet" width="1024pt" height="1024pt">
+ <g transform="translate(-126460.06452325355,-140468.97944324315)scale(179.73348999256783)" fill="#000000" stroke="none">
+    <path
+    d="M704.4857809076159,782.781878893805L706.2955192499178,783.6799976269926L708.909585744354,784.0108834760618L709.0101267633707,784.5308469531706L708.3063396302533,785.8071209424372L703.983075812532,785.9961985704767L703.8825347935152,784.5308469531706L704.2846988695824,783.3491117779236Z"
+    fill="#1868b7"
+    />
+  </g>
+</svg>
